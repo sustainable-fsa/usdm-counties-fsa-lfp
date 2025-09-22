@@ -1,0 +1,42 @@
+# Workflow derived from https://github.com/r-lib/actions/tree/v2/examples
+# Need help debugging build failures? Start at https://github.com/r-lib/actions#where-to-find-help
+on:
+  push:
+  schedule:
+    - cron: '30 13 * * 4'  # 13:30 UTC = 7:30 AM MT (DST), every Thursday
+
+name: update
+run-name: Update the USDM County Aggregation Archive
+
+permissions: write-all
+
+jobs:
+  update-usdm-counties:
+    name: update-usdm-counties-fsa-lfp
+    runs-on: macos-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: r-lib/actions/setup-pandoc@v2
+      - name: install
+        run: |
+          brew update
+          brew upgrade
+          brew install apache-arrow udunits gdal
+          brew install --cask r
+          brew cleanup --scrub
+          rm -rf "$(brew --cache)"
+
+      - name: run
+        run: |
+          Rscript usdm-counties-fsa-lfp.R
+  
+      - name: commit
+        run: |
+          git config --local user.name "$GITHUB_ACTOR"
+          git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
+          git add .
+          git commit --allow-empty -m 'weekly update'
+          git push
+          

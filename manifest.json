@@ -1,0 +1,6717 @@
+[
+  {
+    "path": "data/fsa-lfp-counties.parquet",
+    "size": 9818922,
+    "mtime": "2025-09-22 16:06:06"
+  },
+  {
+    "path": "data/usdm/USDM_2000-01-04.parquet",
+    "size": 41600,
+    "mtime": "2025-09-22 15:51:15"
+  },
+  {
+    "path": "data/usdm/USDM_2000-01-11.parquet",
+    "size": 43900,
+    "mtime": "2025-09-22 15:51:20"
+  },
+  {
+    "path": "data/usdm/USDM_2000-01-18.parquet",
+    "size": 44942,
+    "mtime": "2025-09-22 15:51:24"
+  },
+  {
+    "path": "data/usdm/USDM_2000-01-25.parquet",
+    "size": 44653,
+    "mtime": "2025-09-22 15:51:29"
+  },
+  {
+    "path": "data/usdm/USDM_2000-02-01.parquet",
+    "size": 43874,
+    "mtime": "2025-09-22 15:51:33"
+  },
+  {
+    "path": "data/usdm/USDM_2000-02-08.parquet",
+    "size": 44240,
+    "mtime": "2025-09-22 15:51:38"
+  },
+  {
+    "path": "data/usdm/USDM_2000-02-15.parquet",
+    "size": 44428,
+    "mtime": "2025-09-22 15:51:43"
+  },
+  {
+    "path": "data/usdm/USDM_2000-02-22.parquet",
+    "size": 42034,
+    "mtime": "2025-09-22 15:51:48"
+  },
+  {
+    "path": "data/usdm/USDM_2000-02-29.parquet",
+    "size": 44002,
+    "mtime": "2025-09-22 15:51:52"
+  },
+  {
+    "path": "data/usdm/USDM_2000-03-07.parquet",
+    "size": 44351,
+    "mtime": "2025-09-22 15:51:57"
+  },
+  {
+    "path": "data/usdm/USDM_2000-03-14.parquet",
+    "size": 44012,
+    "mtime": "2025-09-22 15:52:01"
+  },
+  {
+    "path": "data/usdm/USDM_2000-03-21.parquet",
+    "size": 44492,
+    "mtime": "2025-09-22 15:52:05"
+  },
+  {
+    "path": "data/usdm/USDM_2000-03-28.parquet",
+    "size": 43487,
+    "mtime": "2025-09-22 15:52:10"
+  },
+  {
+    "path": "data/usdm/USDM_2000-04-04.parquet",
+    "size": 43194,
+    "mtime": "2025-09-22 15:52:15"
+  },
+  {
+    "path": "data/usdm/USDM_2000-04-11.parquet",
+    "size": 41841,
+    "mtime": "2025-09-22 15:52:19"
+  },
+  {
+    "path": "data/usdm/USDM_2000-04-18.parquet",
+    "size": 41638,
+    "mtime": "2025-09-22 15:52:24"
+  },
+  {
+    "path": "data/usdm/USDM_2000-04-25.parquet",
+    "size": 43318,
+    "mtime": "2025-09-22 15:52:29"
+  },
+  {
+    "path": "data/usdm/USDM_2000-05-02.parquet",
+    "size": 43413,
+    "mtime": "2025-09-22 15:52:34"
+  },
+  {
+    "path": "data/usdm/USDM_2000-05-09.parquet",
+    "size": 42802,
+    "mtime": "2025-09-22 15:52:38"
+  },
+  {
+    "path": "data/usdm/USDM_2000-05-16.parquet",
+    "size": 44378,
+    "mtime": "2025-09-22 15:52:43"
+  },
+  {
+    "path": "data/usdm/USDM_2000-05-23.parquet",
+    "size": 40853,
+    "mtime": "2025-09-22 15:52:47"
+  },
+  {
+    "path": "data/usdm/USDM_2000-05-30.parquet",
+    "size": 38493,
+    "mtime": "2025-09-22 15:52:50"
+  },
+  {
+    "path": "data/usdm/USDM_2000-06-06.parquet",
+    "size": 38108,
+    "mtime": "2025-09-22 15:52:54"
+  },
+  {
+    "path": "data/usdm/USDM_2000-06-13.parquet",
+    "size": 41437,
+    "mtime": "2025-09-22 15:52:57"
+  },
+  {
+    "path": "data/usdm/USDM_2000-06-20.parquet",
+    "size": 38477,
+    "mtime": "2025-09-22 15:53:00"
+  },
+  {
+    "path": "data/usdm/USDM_2000-06-27.parquet",
+    "size": 38879,
+    "mtime": "2025-09-22 15:53:04"
+  },
+  {
+    "path": "data/usdm/USDM_2000-07-04.parquet",
+    "size": 36294,
+    "mtime": "2025-09-22 15:53:08"
+  },
+  {
+    "path": "data/usdm/USDM_2000-07-11.parquet",
+    "size": 37432,
+    "mtime": "2025-09-22 15:53:14"
+  },
+  {
+    "path": "data/usdm/USDM_2000-07-18.parquet",
+    "size": 41211,
+    "mtime": "2025-09-22 15:53:19"
+  },
+  {
+    "path": "data/usdm/USDM_2000-07-25.parquet",
+    "size": 40709,
+    "mtime": "2025-09-22 15:53:23"
+  },
+  {
+    "path": "data/usdm/USDM_2000-08-01.parquet",
+    "size": 39995,
+    "mtime": "2025-09-22 15:53:26"
+  },
+  {
+    "path": "data/usdm/USDM_2000-08-08.parquet",
+    "size": 39513,
+    "mtime": "2025-09-22 15:53:29"
+  },
+  {
+    "path": "data/usdm/USDM_2000-08-15.parquet",
+    "size": 39981,
+    "mtime": "2025-09-22 15:53:32"
+  },
+  {
+    "path": "data/usdm/USDM_2000-08-22.parquet",
+    "size": 40907,
+    "mtime": "2025-09-22 15:53:36"
+  },
+  {
+    "path": "data/usdm/USDM_2000-08-29.parquet",
+    "size": 43824,
+    "mtime": "2025-09-22 15:53:40"
+  },
+  {
+    "path": "data/usdm/USDM_2000-09-05.parquet",
+    "size": 44283,
+    "mtime": "2025-09-22 15:53:43"
+  },
+  {
+    "path": "data/usdm/USDM_2000-09-12.parquet",
+    "size": 42902,
+    "mtime": "2025-09-22 15:53:47"
+  },
+  {
+    "path": "data/usdm/USDM_2000-09-19.parquet",
+    "size": 45111,
+    "mtime": "2025-09-22 15:53:51"
+  },
+  {
+    "path": "data/usdm/USDM_2000-09-26.parquet",
+    "size": 42334,
+    "mtime": "2025-09-22 15:53:54"
+  },
+  {
+    "path": "data/usdm/USDM_2000-10-03.parquet",
+    "size": 43260,
+    "mtime": "2025-09-22 15:54:00"
+  },
+  {
+    "path": "data/usdm/USDM_2000-10-10.parquet",
+    "size": 43820,
+    "mtime": "2025-09-22 15:54:04"
+  },
+  {
+    "path": "data/usdm/USDM_2000-10-17.parquet",
+    "size": 46779,
+    "mtime": "2025-09-22 15:54:09"
+  },
+  {
+    "path": "data/usdm/USDM_2000-10-24.parquet",
+    "size": 48771,
+    "mtime": "2025-09-22 15:54:14"
+  },
+  {
+    "path": "data/usdm/USDM_2000-10-31.parquet",
+    "size": 50409,
+    "mtime": "2025-09-22 15:54:19"
+  },
+  {
+    "path": "data/usdm/USDM_2000-11-07.parquet",
+    "size": 44915,
+    "mtime": "2025-09-22 15:54:25"
+  },
+  {
+    "path": "data/usdm/USDM_2000-11-14.parquet",
+    "size": 39619,
+    "mtime": "2025-09-22 15:54:30"
+  },
+  {
+    "path": "data/usdm/USDM_2000-11-21.parquet",
+    "size": 36803,
+    "mtime": "2025-09-22 15:54:34"
+  },
+  {
+    "path": "data/usdm/USDM_2000-11-28.parquet",
+    "size": 34153,
+    "mtime": "2025-09-22 15:54:37"
+  },
+  {
+    "path": "data/usdm/USDM_2000-12-05.parquet",
+    "size": 35561,
+    "mtime": "2025-09-22 15:54:41"
+  },
+  {
+    "path": "data/usdm/USDM_2000-12-12.parquet",
+    "size": 36051,
+    "mtime": "2025-09-22 15:54:45"
+  },
+  {
+    "path": "data/usdm/USDM_2000-12-19.parquet",
+    "size": 33031,
+    "mtime": "2025-09-22 15:54:49"
+  },
+  {
+    "path": "data/usdm/USDM_2000-12-26.parquet",
+    "size": 32733,
+    "mtime": "2025-09-22 15:54:53"
+  },
+  {
+    "path": "data/usdm/USDM_2001-01-02.parquet",
+    "size": 32527,
+    "mtime": "2025-09-22 15:55:03"
+  },
+  {
+    "path": "data/usdm/USDM_2001-01-09.parquet",
+    "size": 34837,
+    "mtime": "2025-09-22 15:55:07"
+  },
+  {
+    "path": "data/usdm/USDM_2001-01-16.parquet",
+    "size": 34241,
+    "mtime": "2025-09-22 15:55:11"
+  },
+  {
+    "path": "data/usdm/USDM_2001-01-23.parquet",
+    "size": 37470,
+    "mtime": "2025-09-22 15:55:17"
+  },
+  {
+    "path": "data/usdm/USDM_2001-01-30.parquet",
+    "size": 34576,
+    "mtime": "2025-09-22 15:55:22"
+  },
+  {
+    "path": "data/usdm/USDM_2001-02-06.parquet",
+    "size": 33718,
+    "mtime": "2025-09-22 15:55:26"
+  },
+  {
+    "path": "data/usdm/USDM_2001-02-13.parquet",
+    "size": 33313,
+    "mtime": "2025-09-22 15:55:30"
+  },
+  {
+    "path": "data/usdm/USDM_2001-02-20.parquet",
+    "size": 30040,
+    "mtime": "2025-09-22 15:55:35"
+  },
+  {
+    "path": "data/usdm/USDM_2001-02-27.parquet",
+    "size": 29283,
+    "mtime": "2025-09-22 15:55:40"
+  },
+  {
+    "path": "data/usdm/USDM_2001-03-06.parquet",
+    "size": 28244,
+    "mtime": "2025-09-22 15:55:44"
+  },
+  {
+    "path": "data/usdm/USDM_2001-03-13.parquet",
+    "size": 28213,
+    "mtime": "2025-09-22 15:55:48"
+  },
+  {
+    "path": "data/usdm/USDM_2001-03-20.parquet",
+    "size": 28624,
+    "mtime": "2025-09-22 15:55:52"
+  },
+  {
+    "path": "data/usdm/USDM_2001-03-27.parquet",
+    "size": 31368,
+    "mtime": "2025-09-22 15:55:56"
+  },
+  {
+    "path": "data/usdm/USDM_2001-04-03.parquet",
+    "size": 30844,
+    "mtime": "2025-09-22 15:56:00"
+  },
+  {
+    "path": "data/usdm/USDM_2001-04-10.parquet",
+    "size": 28910,
+    "mtime": "2025-09-22 15:56:03"
+  },
+  {
+    "path": "data/usdm/USDM_2001-04-17.parquet",
+    "size": 28821,
+    "mtime": "2025-09-22 15:56:07"
+  },
+  {
+    "path": "data/usdm/USDM_2001-04-24.parquet",
+    "size": 29341,
+    "mtime": "2025-09-22 15:56:12"
+  },
+  {
+    "path": "data/usdm/USDM_2001-05-01.parquet",
+    "size": 30280,
+    "mtime": "2025-09-22 15:56:15"
+  },
+  {
+    "path": "data/usdm/USDM_2001-05-08.parquet",
+    "size": 40109,
+    "mtime": "2025-09-22 15:56:22"
+  },
+  {
+    "path": "data/usdm/USDM_2001-05-15.parquet",
+    "size": 42255,
+    "mtime": "2025-09-22 15:56:30"
+  },
+  {
+    "path": "data/usdm/USDM_2001-05-22.parquet",
+    "size": 40589,
+    "mtime": "2025-09-22 15:56:37"
+  },
+  {
+    "path": "data/usdm/USDM_2001-05-29.parquet",
+    "size": 39215,
+    "mtime": "2025-09-22 15:56:43"
+  },
+  {
+    "path": "data/usdm/USDM_2001-06-05.parquet",
+    "size": 34057,
+    "mtime": "2025-09-22 15:56:47"
+  },
+  {
+    "path": "data/usdm/USDM_2001-06-12.parquet",
+    "size": 30091,
+    "mtime": "2025-09-22 15:56:51"
+  },
+  {
+    "path": "data/usdm/USDM_2001-06-19.parquet",
+    "size": 31537,
+    "mtime": "2025-09-22 15:56:54"
+  },
+  {
+    "path": "data/usdm/USDM_2001-06-26.parquet",
+    "size": 32688,
+    "mtime": "2025-09-22 15:56:57"
+  },
+  {
+    "path": "data/usdm/USDM_2001-07-03.parquet",
+    "size": 33324,
+    "mtime": "2025-09-22 15:57:01"
+  },
+  {
+    "path": "data/usdm/USDM_2001-07-10.parquet",
+    "size": 30998,
+    "mtime": "2025-09-22 15:57:05"
+  },
+  {
+    "path": "data/usdm/USDM_2001-07-17.parquet",
+    "size": 38472,
+    "mtime": "2025-09-22 15:57:11"
+  },
+  {
+    "path": "data/usdm/USDM_2001-07-24.parquet",
+    "size": 41778,
+    "mtime": "2025-09-22 15:57:17"
+  },
+  {
+    "path": "data/usdm/USDM_2001-07-31.parquet",
+    "size": 40523,
+    "mtime": "2025-09-22 15:57:22"
+  },
+  {
+    "path": "data/usdm/USDM_2001-08-07.parquet",
+    "size": 39231,
+    "mtime": "2025-09-22 15:57:26"
+  },
+  {
+    "path": "data/usdm/USDM_2001-08-14.parquet",
+    "size": 39438,
+    "mtime": "2025-09-22 15:57:30"
+  },
+  {
+    "path": "data/usdm/USDM_2001-08-21.parquet",
+    "size": 36795,
+    "mtime": "2025-09-22 15:57:33"
+  },
+  {
+    "path": "data/usdm/USDM_2001-08-28.parquet",
+    "size": 37760,
+    "mtime": "2025-09-22 15:57:37"
+  },
+  {
+    "path": "data/usdm/USDM_2001-09-04.parquet",
+    "size": 37404,
+    "mtime": "2025-09-22 15:57:41"
+  },
+  {
+    "path": "data/usdm/USDM_2001-09-11.parquet",
+    "size": 35950,
+    "mtime": "2025-09-22 15:57:45"
+  },
+  {
+    "path": "data/usdm/USDM_2001-09-18.parquet",
+    "size": 35018,
+    "mtime": "2025-09-22 15:57:49"
+  },
+  {
+    "path": "data/usdm/USDM_2001-09-25.parquet",
+    "size": 29888,
+    "mtime": "2025-09-22 15:57:52"
+  },
+  {
+    "path": "data/usdm/USDM_2001-10-02.parquet",
+    "size": 30020,
+    "mtime": "2025-09-22 15:57:55"
+  },
+  {
+    "path": "data/usdm/USDM_2001-10-09.parquet",
+    "size": 33161,
+    "mtime": "2025-09-22 15:57:58"
+  },
+  {
+    "path": "data/usdm/USDM_2001-10-16.parquet",
+    "size": 32625,
+    "mtime": "2025-09-22 15:58:02"
+  },
+  {
+    "path": "data/usdm/USDM_2001-10-23.parquet",
+    "size": 36674,
+    "mtime": "2025-09-22 15:58:07"
+  },
+  {
+    "path": "data/usdm/USDM_2001-10-30.parquet",
+    "size": 38488,
+    "mtime": "2025-09-22 15:58:12"
+  },
+  {
+    "path": "data/usdm/USDM_2001-11-06.parquet",
+    "size": 41582,
+    "mtime": "2025-09-22 15:58:18"
+  },
+  {
+    "path": "data/usdm/USDM_2001-11-13.parquet",
+    "size": 42559,
+    "mtime": "2025-09-22 15:58:23"
+  },
+  {
+    "path": "data/usdm/USDM_2001-11-20.parquet",
+    "size": 42285,
+    "mtime": "2025-09-22 15:58:28"
+  },
+  {
+    "path": "data/usdm/USDM_2001-11-27.parquet",
+    "size": 39245,
+    "mtime": "2025-09-22 15:58:33"
+  },
+  {
+    "path": "data/usdm/USDM_2001-12-04.parquet",
+    "size": 39773,
+    "mtime": "2025-09-22 15:58:38"
+  },
+  {
+    "path": "data/usdm/USDM_2001-12-11.parquet",
+    "size": 38389,
+    "mtime": "2025-09-22 15:58:43"
+  },
+  {
+    "path": "data/usdm/USDM_2001-12-18.parquet",
+    "size": 38670,
+    "mtime": "2025-09-22 15:58:48"
+  },
+  {
+    "path": "data/usdm/USDM_2001-12-25.parquet",
+    "size": 39270,
+    "mtime": "2025-09-22 15:58:52"
+  },
+  {
+    "path": "data/usdm/USDM_2002-01-01.parquet",
+    "size": 40144,
+    "mtime": "2025-09-22 15:58:57"
+  },
+  {
+    "path": "data/usdm/USDM_2002-01-08.parquet",
+    "size": 40409,
+    "mtime": "2025-09-22 15:59:02"
+  },
+  {
+    "path": "data/usdm/USDM_2002-01-15.parquet",
+    "size": 40901,
+    "mtime": "2025-09-22 15:59:06"
+  },
+  {
+    "path": "data/usdm/USDM_2002-01-22.parquet",
+    "size": 41008,
+    "mtime": "2025-09-22 15:59:10"
+  },
+  {
+    "path": "data/usdm/USDM_2002-01-29.parquet",
+    "size": 42033,
+    "mtime": "2025-09-22 15:59:15"
+  },
+  {
+    "path": "data/usdm/USDM_2002-02-05.parquet",
+    "size": 40169,
+    "mtime": "2025-09-22 15:59:19"
+  },
+  {
+    "path": "data/usdm/USDM_2002-02-12.parquet",
+    "size": 38556,
+    "mtime": "2025-09-22 15:59:23"
+  },
+  {
+    "path": "data/usdm/USDM_2002-02-19.parquet",
+    "size": 40139,
+    "mtime": "2025-09-22 15:59:28"
+  },
+  {
+    "path": "data/usdm/USDM_2002-02-26.parquet",
+    "size": 42033,
+    "mtime": "2025-09-22 15:59:35"
+  },
+  {
+    "path": "data/usdm/USDM_2002-03-05.parquet",
+    "size": 41775,
+    "mtime": "2025-09-22 15:59:39"
+  },
+  {
+    "path": "data/usdm/USDM_2002-03-12.parquet",
+    "size": 45745,
+    "mtime": "2025-09-22 15:59:45"
+  },
+  {
+    "path": "data/usdm/USDM_2002-03-19.parquet",
+    "size": 44841,
+    "mtime": "2025-09-22 15:59:50"
+  },
+  {
+    "path": "data/usdm/USDM_2002-03-26.parquet",
+    "size": 44495,
+    "mtime": "2025-09-22 15:59:55"
+  },
+  {
+    "path": "data/usdm/USDM_2002-04-02.parquet",
+    "size": 42644,
+    "mtime": "2025-09-22 16:00:00"
+  },
+  {
+    "path": "data/usdm/USDM_2002-04-09.parquet",
+    "size": 43036,
+    "mtime": "2025-09-22 16:00:04"
+  },
+  {
+    "path": "data/usdm/USDM_2002-04-16.parquet",
+    "size": 42554,
+    "mtime": "2025-09-22 16:00:09"
+  },
+  {
+    "path": "data/usdm/USDM_2002-04-23.parquet",
+    "size": 43479,
+    "mtime": "2025-09-22 16:00:13"
+  },
+  {
+    "path": "data/usdm/USDM_2002-04-30.parquet",
+    "size": 43598,
+    "mtime": "2025-09-22 16:00:18"
+  },
+  {
+    "path": "data/usdm/USDM_2002-05-07.parquet",
+    "size": 44938,
+    "mtime": "2025-09-22 16:00:34"
+  },
+  {
+    "path": "data/usdm/USDM_2002-05-14.parquet",
+    "size": 44066,
+    "mtime": "2025-09-22 16:00:51"
+  },
+  {
+    "path": "data/usdm/USDM_2002-05-21.parquet",
+    "size": 42499,
+    "mtime": "2025-09-22 16:01:09"
+  },
+  {
+    "path": "data/usdm/USDM_2002-05-28.parquet",
+    "size": 44980,
+    "mtime": "2025-09-22 16:01:28"
+  },
+  {
+    "path": "data/usdm/USDM_2002-06-04.parquet",
+    "size": 45816,
+    "mtime": "2025-09-22 16:01:43"
+  },
+  {
+    "path": "data/usdm/USDM_2002-06-11.parquet",
+    "size": 45742,
+    "mtime": "2025-09-22 16:01:57"
+  },
+  {
+    "path": "data/usdm/USDM_2002-06-18.parquet",
+    "size": 45841,
+    "mtime": "2025-09-22 16:02:10"
+  },
+  {
+    "path": "data/usdm/USDM_2002-06-25.parquet",
+    "size": 47722,
+    "mtime": "2025-09-22 16:02:22"
+  },
+  {
+    "path": "data/usdm/USDM_2002-07-02.parquet",
+    "size": 48126,
+    "mtime": "2025-09-22 16:02:34"
+  },
+  {
+    "path": "data/usdm/USDM_2002-07-09.parquet",
+    "size": 49597,
+    "mtime": "2025-09-22 16:02:47"
+  },
+  {
+    "path": "data/usdm/USDM_2002-07-16.parquet",
+    "size": 50531,
+    "mtime": "2025-09-22 16:02:54"
+  },
+  {
+    "path": "data/usdm/USDM_2002-07-23.parquet",
+    "size": 54450,
+    "mtime": "2025-09-22 16:03:02"
+  },
+  {
+    "path": "data/usdm/USDM_2002-07-30.parquet",
+    "size": 56589,
+    "mtime": "2025-09-22 16:03:11"
+  },
+  {
+    "path": "data/usdm/USDM_2002-08-06.parquet",
+    "size": 57330,
+    "mtime": "2025-09-22 16:03:21"
+  },
+  {
+    "path": "data/usdm/USDM_2002-08-13.parquet",
+    "size": 58237,
+    "mtime": "2025-09-22 16:03:31"
+  },
+  {
+    "path": "data/usdm/USDM_2002-08-20.parquet",
+    "size": 52885,
+    "mtime": "2025-09-22 16:03:40"
+  },
+  {
+    "path": "data/usdm/USDM_2002-08-27.parquet",
+    "size": 52533,
+    "mtime": "2025-09-22 16:03:46"
+  },
+  {
+    "path": "data/usdm/USDM_2002-09-03.parquet",
+    "size": 55556,
+    "mtime": "2025-09-22 16:03:52"
+  },
+  {
+    "path": "data/usdm/USDM_2002-09-10.parquet",
+    "size": 56175,
+    "mtime": "2025-09-22 16:03:58"
+  },
+  {
+    "path": "data/usdm/USDM_2002-09-17.parquet",
+    "size": 54141,
+    "mtime": "2025-09-22 16:04:04"
+  },
+  {
+    "path": "data/usdm/USDM_2002-09-24.parquet",
+    "size": 52273,
+    "mtime": "2025-09-22 16:04:09"
+  },
+  {
+    "path": "data/usdm/USDM_2002-10-01.parquet",
+    "size": 52474,
+    "mtime": "2025-09-22 16:04:14"
+  },
+  {
+    "path": "data/usdm/USDM_2002-10-08.parquet",
+    "size": 52293,
+    "mtime": "2025-09-22 16:04:22"
+  },
+  {
+    "path": "data/usdm/USDM_2002-10-15.parquet",
+    "size": 49272,
+    "mtime": "2025-09-22 16:04:28"
+  },
+  {
+    "path": "data/usdm/USDM_2002-10-22.parquet",
+    "size": 46053,
+    "mtime": "2025-09-22 16:04:33"
+  },
+  {
+    "path": "data/usdm/USDM_2002-10-29.parquet",
+    "size": 43742,
+    "mtime": "2025-09-22 16:04:39"
+  },
+  {
+    "path": "data/usdm/USDM_2002-11-05.parquet",
+    "size": 41928,
+    "mtime": "2025-09-22 16:04:43"
+  },
+  {
+    "path": "data/usdm/USDM_2002-11-12.parquet",
+    "size": 40044,
+    "mtime": "2025-09-22 16:04:47"
+  },
+  {
+    "path": "data/usdm/USDM_2002-11-19.parquet",
+    "size": 38591,
+    "mtime": "2025-09-22 16:04:50"
+  },
+  {
+    "path": "data/usdm/USDM_2002-11-26.parquet",
+    "size": 38517,
+    "mtime": "2025-09-22 16:04:54"
+  },
+  {
+    "path": "data/usdm/USDM_2002-12-03.parquet",
+    "size": 39432,
+    "mtime": "2025-09-22 16:04:58"
+  },
+  {
+    "path": "data/usdm/USDM_2002-12-10.parquet",
+    "size": 40284,
+    "mtime": "2025-09-22 16:05:02"
+  },
+  {
+    "path": "data/usdm/USDM_2002-12-17.parquet",
+    "size": 37534,
+    "mtime": "2025-09-22 16:05:06"
+  },
+  {
+    "path": "data/usdm/USDM_2002-12-24.parquet",
+    "size": 36902,
+    "mtime": "2025-09-22 16:05:09"
+  },
+  {
+    "path": "data/usdm/USDM_2002-12-31.parquet",
+    "size": 35151,
+    "mtime": "2025-09-22 16:05:12"
+  },
+  {
+    "path": "data/usdm/USDM_2003-01-07.parquet",
+    "size": 35942,
+    "mtime": "2025-09-22 16:05:15"
+  },
+  {
+    "path": "data/usdm/USDM_2003-01-14.parquet",
+    "size": 36249,
+    "mtime": "2025-09-22 16:05:18"
+  },
+  {
+    "path": "data/usdm/USDM_2003-01-21.parquet",
+    "size": 38192,
+    "mtime": "2025-09-22 16:05:21"
+  },
+  {
+    "path": "data/usdm/USDM_2003-01-28.parquet",
+    "size": 38349,
+    "mtime": "2025-09-22 16:05:24"
+  },
+  {
+    "path": "data/usdm/USDM_2003-02-04.parquet",
+    "size": 38169,
+    "mtime": "2025-09-22 16:05:27"
+  },
+  {
+    "path": "data/usdm/USDM_2003-02-11.parquet",
+    "size": 38997,
+    "mtime": "2025-09-22 16:05:31"
+  },
+  {
+    "path": "data/usdm/USDM_2003-02-18.parquet",
+    "size": 38293,
+    "mtime": "2025-09-22 16:05:35"
+  },
+  {
+    "path": "data/usdm/USDM_2003-02-25.parquet",
+    "size": 36300,
+    "mtime": "2025-09-22 16:05:38"
+  },
+  {
+    "path": "data/usdm/USDM_2003-03-04.parquet",
+    "size": 38290,
+    "mtime": "2025-09-22 16:05:42"
+  },
+  {
+    "path": "data/usdm/USDM_2003-03-11.parquet",
+    "size": 39125,
+    "mtime": "2025-09-22 16:05:45"
+  },
+  {
+    "path": "data/usdm/USDM_2003-03-18.parquet",
+    "size": 38731,
+    "mtime": "2025-09-22 16:05:50"
+  },
+  {
+    "path": "data/usdm/USDM_2003-03-25.parquet",
+    "size": 38518,
+    "mtime": "2025-09-22 16:05:56"
+  },
+  {
+    "path": "data/usdm/USDM_2003-04-01.parquet",
+    "size": 38851,
+    "mtime": "2025-09-22 16:06:01"
+  },
+  {
+    "path": "data/usdm/USDM_2003-04-08.parquet",
+    "size": 35735,
+    "mtime": "2025-09-22 16:06:05"
+  },
+  {
+    "path": "data/usdm/USDM_2003-04-15.parquet",
+    "size": 37575,
+    "mtime": "2025-09-22 16:06:09"
+  },
+  {
+    "path": "data/usdm/USDM_2003-04-22.parquet",
+    "size": 36687,
+    "mtime": "2025-09-22 16:06:13"
+  },
+  {
+    "path": "data/usdm/USDM_2003-04-29.parquet",
+    "size": 41236,
+    "mtime": "2025-09-22 16:06:16"
+  },
+  {
+    "path": "data/usdm/USDM_2003-05-06.parquet",
+    "size": 39782,
+    "mtime": "2025-09-22 16:06:21"
+  },
+  {
+    "path": "data/usdm/USDM_2003-05-13.parquet",
+    "size": 34351,
+    "mtime": "2025-09-22 16:06:25"
+  },
+  {
+    "path": "data/usdm/USDM_2003-05-20.parquet",
+    "size": 33268,
+    "mtime": "2025-09-22 16:06:29"
+  },
+  {
+    "path": "data/usdm/USDM_2003-05-27.parquet",
+    "size": 32005,
+    "mtime": "2025-09-22 16:06:32"
+  },
+  {
+    "path": "data/usdm/USDM_2003-06-03.parquet",
+    "size": 34268,
+    "mtime": "2025-09-22 16:06:36"
+  },
+  {
+    "path": "data/usdm/USDM_2003-06-10.parquet",
+    "size": 32733,
+    "mtime": "2025-09-22 16:06:40"
+  },
+  {
+    "path": "data/usdm/USDM_2003-06-17.parquet",
+    "size": 31491,
+    "mtime": "2025-09-22 16:06:44"
+  },
+  {
+    "path": "data/usdm/USDM_2003-06-24.parquet",
+    "size": 33057,
+    "mtime": "2025-09-22 16:06:47"
+  },
+  {
+    "path": "data/usdm/USDM_2003-07-01.parquet",
+    "size": 28405,
+    "mtime": "2025-09-22 16:06:50"
+  },
+  {
+    "path": "data/usdm/USDM_2003-07-08.parquet",
+    "size": 26056,
+    "mtime": "2025-09-22 16:06:53"
+  },
+  {
+    "path": "data/usdm/USDM_2003-07-15.parquet",
+    "size": 26292,
+    "mtime": "2025-09-22 16:06:56"
+  },
+  {
+    "path": "data/usdm/USDM_2003-07-22.parquet",
+    "size": 26936,
+    "mtime": "2025-09-22 16:06:59"
+  },
+  {
+    "path": "data/usdm/USDM_2003-07-29.parquet",
+    "size": 29020,
+    "mtime": "2025-09-22 16:07:01"
+  },
+  {
+    "path": "data/usdm/USDM_2003-08-05.parquet",
+    "size": 30335,
+    "mtime": "2025-09-22 16:07:04"
+  },
+  {
+    "path": "data/usdm/USDM_2003-08-12.parquet",
+    "size": 32817,
+    "mtime": "2025-09-22 16:07:06"
+  },
+  {
+    "path": "data/usdm/USDM_2003-08-19.parquet",
+    "size": 35705,
+    "mtime": "2025-09-22 16:07:09"
+  },
+  {
+    "path": "data/usdm/USDM_2003-08-26.parquet",
+    "size": 39207,
+    "mtime": "2025-09-22 16:07:12"
+  },
+  {
+    "path": "data/usdm/USDM_2003-09-02.parquet",
+    "size": 35795,
+    "mtime": "2025-09-22 16:07:14"
+  },
+  {
+    "path": "data/usdm/USDM_2003-09-09.parquet",
+    "size": 36821,
+    "mtime": "2025-09-22 16:07:17"
+  },
+  {
+    "path": "data/usdm/USDM_2003-09-16.parquet",
+    "size": 35668,
+    "mtime": "2025-09-22 16:07:20"
+  },
+  {
+    "path": "data/usdm/USDM_2003-09-23.parquet",
+    "size": 35931,
+    "mtime": "2025-09-22 16:07:23"
+  },
+  {
+    "path": "data/usdm/USDM_2003-09-30.parquet",
+    "size": 35547,
+    "mtime": "2025-09-22 16:07:26"
+  },
+  {
+    "path": "data/usdm/USDM_2003-10-07.parquet",
+    "size": 33450,
+    "mtime": "2025-09-22 16:07:29"
+  },
+  {
+    "path": "data/usdm/USDM_2003-10-14.parquet",
+    "size": 35194,
+    "mtime": "2025-09-22 16:07:32"
+  },
+  {
+    "path": "data/usdm/USDM_2003-10-21.parquet",
+    "size": 36061,
+    "mtime": "2025-09-22 16:07:35"
+  },
+  {
+    "path": "data/usdm/USDM_2003-10-28.parquet",
+    "size": 37139,
+    "mtime": "2025-09-22 16:07:37"
+  },
+  {
+    "path": "data/usdm/USDM_2003-11-04.parquet",
+    "size": 36949,
+    "mtime": "2025-09-22 16:07:40"
+  },
+  {
+    "path": "data/usdm/USDM_2003-11-11.parquet",
+    "size": 37774,
+    "mtime": "2025-09-22 16:07:44"
+  },
+  {
+    "path": "data/usdm/USDM_2003-11-18.parquet",
+    "size": 37175,
+    "mtime": "2025-09-22 16:07:48"
+  },
+  {
+    "path": "data/usdm/USDM_2003-11-25.parquet",
+    "size": 35635,
+    "mtime": "2025-09-22 16:07:51"
+  },
+  {
+    "path": "data/usdm/USDM_2003-12-02.parquet",
+    "size": 35181,
+    "mtime": "2025-09-22 16:07:54"
+  },
+  {
+    "path": "data/usdm/USDM_2003-12-09.parquet",
+    "size": 36117,
+    "mtime": "2025-09-22 16:07:58"
+  },
+  {
+    "path": "data/usdm/USDM_2003-12-16.parquet",
+    "size": 34802,
+    "mtime": "2025-09-22 16:08:01"
+  },
+  {
+    "path": "data/usdm/USDM_2003-12-23.parquet",
+    "size": 35255,
+    "mtime": "2025-09-22 16:08:07"
+  },
+  {
+    "path": "data/usdm/USDM_2003-12-30.parquet",
+    "size": 34860,
+    "mtime": "2025-09-22 16:08:10"
+  },
+  {
+    "path": "data/usdm/USDM_2004-01-06.parquet",
+    "size": 36007,
+    "mtime": "2025-09-22 16:08:13"
+  },
+  {
+    "path": "data/usdm/USDM_2004-01-13.parquet",
+    "size": 35067,
+    "mtime": "2025-09-22 16:08:15"
+  },
+  {
+    "path": "data/usdm/USDM_2004-01-20.parquet",
+    "size": 33725,
+    "mtime": "2025-09-22 16:08:22"
+  },
+  {
+    "path": "data/usdm/USDM_2004-01-27.parquet",
+    "size": 33140,
+    "mtime": "2025-09-22 16:08:23"
+  },
+  {
+    "path": "data/usdm/USDM_2004-02-03.parquet",
+    "size": 32351,
+    "mtime": "2025-09-22 16:08:25"
+  },
+  {
+    "path": "data/usdm/USDM_2004-02-10.parquet",
+    "size": 32075,
+    "mtime": "2025-09-22 16:08:27"
+  },
+  {
+    "path": "data/usdm/USDM_2004-02-17.parquet",
+    "size": 32012,
+    "mtime": "2025-09-22 16:08:29"
+  },
+  {
+    "path": "data/usdm/USDM_2004-02-24.parquet",
+    "size": 31390,
+    "mtime": "2025-09-22 16:08:31"
+  },
+  {
+    "path": "data/usdm/USDM_2004-03-02.parquet",
+    "size": 30885,
+    "mtime": "2025-09-22 16:08:32"
+  },
+  {
+    "path": "data/usdm/USDM_2004-03-09.parquet",
+    "size": 29321,
+    "mtime": "2025-09-22 16:08:34"
+  },
+  {
+    "path": "data/usdm/USDM_2004-03-16.parquet",
+    "size": 29053,
+    "mtime": "2025-09-22 16:08:36"
+  },
+  {
+    "path": "data/usdm/USDM_2004-03-23.parquet",
+    "size": 32796,
+    "mtime": "2025-09-22 16:08:38"
+  },
+  {
+    "path": "data/usdm/USDM_2004-03-30.parquet",
+    "size": 33436,
+    "mtime": "2025-09-22 16:08:41"
+  },
+  {
+    "path": "data/usdm/USDM_2004-04-06.parquet",
+    "size": 33241,
+    "mtime": "2025-09-22 16:08:44"
+  },
+  {
+    "path": "data/usdm/USDM_2004-04-13.parquet",
+    "size": 33933,
+    "mtime": "2025-09-22 16:08:47"
+  },
+  {
+    "path": "data/usdm/USDM_2004-04-20.parquet",
+    "size": 38011,
+    "mtime": "2025-09-22 16:08:49"
+  },
+  {
+    "path": "data/usdm/USDM_2004-04-27.parquet",
+    "size": 36612,
+    "mtime": "2025-09-22 16:08:52"
+  },
+  {
+    "path": "data/usdm/USDM_2004-05-04.parquet",
+    "size": 35940,
+    "mtime": "2025-09-22 16:08:53"
+  },
+  {
+    "path": "data/usdm/USDM_2004-05-11.parquet",
+    "size": 35453,
+    "mtime": "2025-09-22 16:08:56"
+  },
+  {
+    "path": "data/usdm/USDM_2004-05-18.parquet",
+    "size": 33414,
+    "mtime": "2025-09-22 16:08:58"
+  },
+  {
+    "path": "data/usdm/USDM_2004-05-25.parquet",
+    "size": 36645,
+    "mtime": "2025-09-22 16:09:06"
+  },
+  {
+    "path": "data/usdm/USDM_2004-06-01.parquet",
+    "size": 34999,
+    "mtime": "2025-09-22 16:09:12"
+  },
+  {
+    "path": "data/usdm/USDM_2004-06-08.parquet",
+    "size": 33831,
+    "mtime": "2025-09-22 16:09:25"
+  },
+  {
+    "path": "data/usdm/USDM_2004-06-15.parquet",
+    "size": 31406,
+    "mtime": "2025-09-22 16:09:30"
+  },
+  {
+    "path": "data/usdm/USDM_2004-06-22.parquet",
+    "size": 28862,
+    "mtime": "2025-09-22 16:09:35"
+  },
+  {
+    "path": "data/usdm/USDM_2004-06-29.parquet",
+    "size": 26564,
+    "mtime": "2025-09-22 16:09:39"
+  },
+  {
+    "path": "data/usdm/USDM_2004-07-06.parquet",
+    "size": 25155,
+    "mtime": "2025-09-22 16:09:43"
+  },
+  {
+    "path": "data/usdm/USDM_2004-07-13.parquet",
+    "size": 26322,
+    "mtime": "2025-09-22 16:09:48"
+  },
+  {
+    "path": "data/usdm/USDM_2004-07-20.parquet",
+    "size": 27509,
+    "mtime": "2025-09-22 16:09:53"
+  },
+  {
+    "path": "data/usdm/USDM_2004-07-27.parquet",
+    "size": 25565,
+    "mtime": "2025-09-22 16:09:58"
+  },
+  {
+    "path": "data/usdm/USDM_2004-08-03.parquet",
+    "size": 26841,
+    "mtime": "2025-09-22 16:10:03"
+  },
+  {
+    "path": "data/usdm/USDM_2004-08-10.parquet",
+    "size": 26728,
+    "mtime": "2025-09-22 16:10:09"
+  },
+  {
+    "path": "data/usdm/USDM_2004-08-17.parquet",
+    "size": 24365,
+    "mtime": "2025-09-22 16:10:13"
+  },
+  {
+    "path": "data/usdm/USDM_2004-08-24.parquet",
+    "size": 24317,
+    "mtime": "2025-09-22 16:10:17"
+  },
+  {
+    "path": "data/usdm/USDM_2004-08-31.parquet",
+    "size": 23321,
+    "mtime": "2025-09-22 16:10:21"
+  },
+  {
+    "path": "data/usdm/USDM_2004-09-07.parquet",
+    "size": 21101,
+    "mtime": "2025-09-22 16:10:24"
+  },
+  {
+    "path": "data/usdm/USDM_2004-09-14.parquet",
+    "size": 22888,
+    "mtime": "2025-09-22 16:10:27"
+  },
+  {
+    "path": "data/usdm/USDM_2004-09-21.parquet",
+    "size": 24009,
+    "mtime": "2025-09-22 16:10:31"
+  },
+  {
+    "path": "data/usdm/USDM_2004-09-28.parquet",
+    "size": 26256,
+    "mtime": "2025-09-22 16:10:32"
+  },
+  {
+    "path": "data/usdm/USDM_2004-10-05.parquet",
+    "size": 30905,
+    "mtime": "2025-09-22 16:10:35"
+  },
+  {
+    "path": "data/usdm/USDM_2004-10-12.parquet",
+    "size": 28639,
+    "mtime": "2025-09-22 16:10:37"
+  },
+  {
+    "path": "data/usdm/USDM_2004-10-19.parquet",
+    "size": 26438,
+    "mtime": "2025-09-22 16:10:38"
+  },
+  {
+    "path": "data/usdm/USDM_2004-10-26.parquet",
+    "size": 26146,
+    "mtime": "2025-09-22 16:10:42"
+  },
+  {
+    "path": "data/usdm/USDM_2004-11-02.parquet",
+    "size": 24171,
+    "mtime": "2025-09-22 16:10:45"
+  },
+  {
+    "path": "data/usdm/USDM_2004-11-09.parquet",
+    "size": 23761,
+    "mtime": "2025-09-22 16:10:48"
+  },
+  {
+    "path": "data/usdm/USDM_2004-11-16.parquet",
+    "size": 24216,
+    "mtime": "2025-09-22 16:10:52"
+  },
+  {
+    "path": "data/usdm/USDM_2004-11-23.parquet",
+    "size": 24209,
+    "mtime": "2025-09-22 16:10:54"
+  },
+  {
+    "path": "data/usdm/USDM_2004-11-30.parquet",
+    "size": 20888,
+    "mtime": "2025-09-22 16:10:55"
+  },
+  {
+    "path": "data/usdm/USDM_2004-12-07.parquet",
+    "size": 19573,
+    "mtime": "2025-09-22 16:10:56"
+  },
+  {
+    "path": "data/usdm/USDM_2004-12-14.parquet",
+    "size": 20334,
+    "mtime": "2025-09-22 16:10:57"
+  },
+  {
+    "path": "data/usdm/USDM_2004-12-21.parquet",
+    "size": 20751,
+    "mtime": "2025-09-22 16:10:59"
+  },
+  {
+    "path": "data/usdm/USDM_2004-12-28.parquet",
+    "size": 21971,
+    "mtime": "2025-09-22 16:11:00"
+  },
+  {
+    "path": "data/usdm/USDM_2005-01-04.parquet",
+    "size": 20985,
+    "mtime": "2025-09-22 16:11:02"
+  },
+  {
+    "path": "data/usdm/USDM_2005-01-11.parquet",
+    "size": 20756,
+    "mtime": "2025-09-22 16:11:03"
+  },
+  {
+    "path": "data/usdm/USDM_2005-01-18.parquet",
+    "size": 20881,
+    "mtime": "2025-09-22 16:11:05"
+  },
+  {
+    "path": "data/usdm/USDM_2005-01-25.parquet",
+    "size": 21008,
+    "mtime": "2025-09-22 16:11:06"
+  },
+  {
+    "path": "data/usdm/USDM_2005-02-01.parquet",
+    "size": 21151,
+    "mtime": "2025-09-22 16:11:07"
+  },
+  {
+    "path": "data/usdm/USDM_2005-02-08.parquet",
+    "size": 21419,
+    "mtime": "2025-09-22 16:11:09"
+  },
+  {
+    "path": "data/usdm/USDM_2005-02-15.parquet",
+    "size": 22637,
+    "mtime": "2025-09-22 16:11:10"
+  },
+  {
+    "path": "data/usdm/USDM_2005-02-22.parquet",
+    "size": 23481,
+    "mtime": "2025-09-22 16:11:12"
+  },
+  {
+    "path": "data/usdm/USDM_2005-03-01.parquet",
+    "size": 22235,
+    "mtime": "2025-09-22 16:11:14"
+  },
+  {
+    "path": "data/usdm/USDM_2005-03-08.parquet",
+    "size": 24755,
+    "mtime": "2025-09-22 16:11:16"
+  },
+  {
+    "path": "data/usdm/USDM_2005-03-15.parquet",
+    "size": 25356,
+    "mtime": "2025-09-22 16:11:19"
+  },
+  {
+    "path": "data/usdm/USDM_2005-03-22.parquet",
+    "size": 24348,
+    "mtime": "2025-09-22 16:11:21"
+  },
+  {
+    "path": "data/usdm/USDM_2005-03-29.parquet",
+    "size": 22772,
+    "mtime": "2025-09-22 16:11:23"
+  },
+  {
+    "path": "data/usdm/USDM_2005-04-05.parquet",
+    "size": 22842,
+    "mtime": "2025-09-22 16:11:25"
+  },
+  {
+    "path": "data/usdm/USDM_2005-04-12.parquet",
+    "size": 20764,
+    "mtime": "2025-09-22 16:11:27"
+  },
+  {
+    "path": "data/usdm/USDM_2005-04-19.parquet",
+    "size": 25182,
+    "mtime": "2025-09-22 16:11:29"
+  },
+  {
+    "path": "data/usdm/USDM_2005-04-26.parquet",
+    "size": 25512,
+    "mtime": "2025-09-22 16:11:30"
+  },
+  {
+    "path": "data/usdm/USDM_2005-05-03.parquet",
+    "size": 28997,
+    "mtime": "2025-09-22 16:11:33"
+  },
+  {
+    "path": "data/usdm/USDM_2005-05-10.parquet",
+    "size": 31679,
+    "mtime": "2025-09-22 16:11:35"
+  },
+  {
+    "path": "data/usdm/USDM_2005-05-17.parquet",
+    "size": 30553,
+    "mtime": "2025-09-22 16:11:38"
+  },
+  {
+    "path": "data/usdm/USDM_2005-05-24.parquet",
+    "size": 32751,
+    "mtime": "2025-09-22 16:11:40"
+  },
+  {
+    "path": "data/usdm/USDM_2005-05-31.parquet",
+    "size": 34495,
+    "mtime": "2025-09-22 16:11:43"
+  },
+  {
+    "path": "data/usdm/USDM_2005-06-07.parquet",
+    "size": 34926,
+    "mtime": "2025-09-22 16:11:45"
+  },
+  {
+    "path": "data/usdm/USDM_2005-06-14.parquet",
+    "size": 32597,
+    "mtime": "2025-09-22 16:11:48"
+  },
+  {
+    "path": "data/usdm/USDM_2005-06-21.parquet",
+    "size": 34455,
+    "mtime": "2025-09-22 16:11:50"
+  },
+  {
+    "path": "data/usdm/USDM_2005-06-28.parquet",
+    "size": 41427,
+    "mtime": "2025-09-22 16:11:55"
+  },
+  {
+    "path": "data/usdm/USDM_2005-07-05.parquet",
+    "size": 42604,
+    "mtime": "2025-09-22 16:11:58"
+  },
+  {
+    "path": "data/usdm/USDM_2005-07-12.parquet",
+    "size": 37523,
+    "mtime": "2025-09-22 16:12:01"
+  },
+  {
+    "path": "data/usdm/USDM_2005-07-19.parquet",
+    "size": 41241,
+    "mtime": "2025-09-22 16:12:03"
+  },
+  {
+    "path": "data/usdm/USDM_2005-07-26.parquet",
+    "size": 42206,
+    "mtime": "2025-09-22 16:12:06"
+  },
+  {
+    "path": "data/usdm/USDM_2005-08-02.parquet",
+    "size": 43189,
+    "mtime": "2025-09-22 16:12:09"
+  },
+  {
+    "path": "data/usdm/USDM_2005-08-09.parquet",
+    "size": 43527,
+    "mtime": "2025-09-22 16:12:13"
+  },
+  {
+    "path": "data/usdm/USDM_2005-08-16.parquet",
+    "size": 42166,
+    "mtime": "2025-09-22 16:12:17"
+  },
+  {
+    "path": "data/usdm/USDM_2005-08-23.parquet",
+    "size": 39987,
+    "mtime": "2025-09-22 16:12:20"
+  },
+  {
+    "path": "data/usdm/USDM_2005-08-30.parquet",
+    "size": 37833,
+    "mtime": "2025-09-22 16:12:22"
+  },
+  {
+    "path": "data/usdm/USDM_2005-09-06.parquet",
+    "size": 41137,
+    "mtime": "2025-09-22 16:12:27"
+  },
+  {
+    "path": "data/usdm/USDM_2005-09-13.parquet",
+    "size": 44157,
+    "mtime": "2025-09-22 16:12:32"
+  },
+  {
+    "path": "data/usdm/USDM_2005-09-20.parquet",
+    "size": 46981,
+    "mtime": "2025-09-22 16:12:36"
+  },
+  {
+    "path": "data/usdm/USDM_2005-09-27.parquet",
+    "size": 44388,
+    "mtime": "2025-09-22 16:12:41"
+  },
+  {
+    "path": "data/usdm/USDM_2005-10-04.parquet",
+    "size": 44686,
+    "mtime": "2025-09-22 16:12:45"
+  },
+  {
+    "path": "data/usdm/USDM_2005-10-11.parquet",
+    "size": 37464,
+    "mtime": "2025-09-22 16:12:49"
+  },
+  {
+    "path": "data/usdm/USDM_2005-10-18.parquet",
+    "size": 37869,
+    "mtime": "2025-09-22 16:12:51"
+  },
+  {
+    "path": "data/usdm/USDM_2005-10-25.parquet",
+    "size": 41678,
+    "mtime": "2025-09-22 16:12:54"
+  },
+  {
+    "path": "data/usdm/USDM_2005-11-01.parquet",
+    "size": 45378,
+    "mtime": "2025-09-22 16:12:58"
+  },
+  {
+    "path": "data/usdm/USDM_2005-11-08.parquet",
+    "size": 45521,
+    "mtime": "2025-09-22 16:13:03"
+  },
+  {
+    "path": "data/usdm/USDM_2005-11-15.parquet",
+    "size": 46280,
+    "mtime": "2025-09-22 16:13:07"
+  },
+  {
+    "path": "data/usdm/USDM_2005-11-22.parquet",
+    "size": 45657,
+    "mtime": "2025-09-22 16:13:11"
+  },
+  {
+    "path": "data/usdm/USDM_2005-11-29.parquet",
+    "size": 43369,
+    "mtime": "2025-09-22 16:13:14"
+  },
+  {
+    "path": "data/usdm/USDM_2005-12-06.parquet",
+    "size": 40709,
+    "mtime": "2025-09-22 16:13:16"
+  },
+  {
+    "path": "data/usdm/USDM_2005-12-13.parquet",
+    "size": 41095,
+    "mtime": "2025-09-22 16:13:18"
+  },
+  {
+    "path": "data/usdm/USDM_2005-12-20.parquet",
+    "size": 41300,
+    "mtime": "2025-09-22 16:13:21"
+  },
+  {
+    "path": "data/usdm/USDM_2005-12-27.parquet",
+    "size": 40412,
+    "mtime": "2025-09-22 16:13:23"
+  },
+  {
+    "path": "data/usdm/USDM_2006-01-03.parquet",
+    "size": 38684,
+    "mtime": "2025-09-22 16:13:25"
+  },
+  {
+    "path": "data/usdm/USDM_2006-01-10.parquet",
+    "size": 40810,
+    "mtime": "2025-09-22 16:13:28"
+  },
+  {
+    "path": "data/usdm/USDM_2006-01-17.parquet",
+    "size": 40493,
+    "mtime": "2025-09-22 16:13:32"
+  },
+  {
+    "path": "data/usdm/USDM_2006-01-24.parquet",
+    "size": 38734,
+    "mtime": "2025-09-22 16:13:35"
+  },
+  {
+    "path": "data/usdm/USDM_2006-01-31.parquet",
+    "size": 37824,
+    "mtime": "2025-09-22 16:13:39"
+  },
+  {
+    "path": "data/usdm/USDM_2006-02-07.parquet",
+    "size": 35624,
+    "mtime": "2025-09-22 16:13:43"
+  },
+  {
+    "path": "data/usdm/USDM_2006-02-14.parquet",
+    "size": 34198,
+    "mtime": "2025-09-22 16:13:47"
+  },
+  {
+    "path": "data/usdm/USDM_2006-02-21.parquet",
+    "size": 34639,
+    "mtime": "2025-09-22 16:13:49"
+  },
+  {
+    "path": "data/usdm/USDM_2006-02-28.parquet",
+    "size": 38054,
+    "mtime": "2025-09-22 16:13:52"
+  },
+  {
+    "path": "data/usdm/USDM_2006-03-07.parquet",
+    "size": 40476,
+    "mtime": "2025-09-22 16:13:56"
+  },
+  {
+    "path": "data/usdm/USDM_2006-03-14.parquet",
+    "size": 40342,
+    "mtime": "2025-09-22 16:13:59"
+  },
+  {
+    "path": "data/usdm/USDM_2006-03-21.parquet",
+    "size": 44057,
+    "mtime": "2025-09-22 16:14:08"
+  },
+  {
+    "path": "data/usdm/USDM_2006-03-28.parquet",
+    "size": 44374,
+    "mtime": "2025-09-22 16:14:16"
+  },
+  {
+    "path": "data/usdm/USDM_2006-04-04.parquet",
+    "size": 45960,
+    "mtime": "2025-09-22 16:14:26"
+  },
+  {
+    "path": "data/usdm/USDM_2006-04-11.parquet",
+    "size": 45284,
+    "mtime": "2025-09-22 16:14:37"
+  },
+  {
+    "path": "data/usdm/USDM_2006-04-18.parquet",
+    "size": 47699,
+    "mtime": "2025-09-22 16:14:48"
+  },
+  {
+    "path": "data/usdm/USDM_2006-04-25.parquet",
+    "size": 46376,
+    "mtime": "2025-09-22 16:14:57"
+  },
+  {
+    "path": "data/usdm/USDM_2006-05-02.parquet",
+    "size": 44727,
+    "mtime": "2025-09-22 16:15:05"
+  },
+  {
+    "path": "data/usdm/USDM_2006-05-09.parquet",
+    "size": 44849,
+    "mtime": "2025-09-22 16:15:13"
+  },
+  {
+    "path": "data/usdm/USDM_2006-05-16.parquet",
+    "size": 41817,
+    "mtime": "2025-09-22 16:15:17"
+  },
+  {
+    "path": "data/usdm/USDM_2006-05-23.parquet",
+    "size": 42570,
+    "mtime": "2025-09-22 16:15:22"
+  },
+  {
+    "path": "data/usdm/USDM_2006-05-30.parquet",
+    "size": 44229,
+    "mtime": "2025-09-22 16:15:27"
+  },
+  {
+    "path": "data/usdm/USDM_2006-06-06.parquet",
+    "size": 45272,
+    "mtime": "2025-09-22 16:15:32"
+  },
+  {
+    "path": "data/usdm/USDM_2006-06-13.parquet",
+    "size": 48066,
+    "mtime": "2025-09-22 16:15:38"
+  },
+  {
+    "path": "data/usdm/USDM_2006-06-20.parquet",
+    "size": 47759,
+    "mtime": "2025-09-22 16:15:42"
+  },
+  {
+    "path": "data/usdm/USDM_2006-06-27.parquet",
+    "size": 43832,
+    "mtime": "2025-09-22 16:15:46"
+  },
+  {
+    "path": "data/usdm/USDM_2006-07-04.parquet",
+    "size": 44858,
+    "mtime": "2025-09-22 16:15:50"
+  },
+  {
+    "path": "data/usdm/USDM_2006-07-11.parquet",
+    "size": 46656,
+    "mtime": "2025-09-22 16:15:54"
+  },
+  {
+    "path": "data/usdm/USDM_2006-07-18.parquet",
+    "size": 48208,
+    "mtime": "2025-09-22 16:15:58"
+  },
+  {
+    "path": "data/usdm/USDM_2006-07-25.parquet",
+    "size": 49723,
+    "mtime": "2025-09-22 16:16:02"
+  },
+  {
+    "path": "data/usdm/USDM_2006-08-01.parquet",
+    "size": 50115,
+    "mtime": "2025-09-22 16:16:05"
+  },
+  {
+    "path": "data/usdm/USDM_2006-08-08.parquet",
+    "size": 53809,
+    "mtime": "2025-09-22 16:16:09"
+  },
+  {
+    "path": "data/usdm/USDM_2006-08-15.parquet",
+    "size": 53977,
+    "mtime": "2025-09-22 16:16:13"
+  },
+  {
+    "path": "data/usdm/USDM_2006-08-22.parquet",
+    "size": 56429,
+    "mtime": "2025-09-22 16:16:18"
+  },
+  {
+    "path": "data/usdm/USDM_2006-08-29.parquet",
+    "size": 55153,
+    "mtime": "2025-09-22 16:16:23"
+  },
+  {
+    "path": "data/usdm/USDM_2006-09-05.parquet",
+    "size": 50183,
+    "mtime": "2025-09-22 16:16:27"
+  },
+  {
+    "path": "data/usdm/USDM_2006-09-12.parquet",
+    "size": 47644,
+    "mtime": "2025-09-22 16:16:31"
+  },
+  {
+    "path": "data/usdm/USDM_2006-09-19.parquet",
+    "size": 43975,
+    "mtime": "2025-09-22 16:16:35"
+  },
+  {
+    "path": "data/usdm/USDM_2006-09-26.parquet",
+    "size": 44349,
+    "mtime": "2025-09-22 16:16:40"
+  },
+  {
+    "path": "data/usdm/USDM_2006-10-03.parquet",
+    "size": 44771,
+    "mtime": "2025-09-22 16:16:44"
+  },
+  {
+    "path": "data/usdm/USDM_2006-10-10.parquet",
+    "size": 45410,
+    "mtime": "2025-09-22 16:16:48"
+  },
+  {
+    "path": "data/usdm/USDM_2006-10-17.parquet",
+    "size": 45294,
+    "mtime": "2025-09-22 16:16:52"
+  },
+  {
+    "path": "data/usdm/USDM_2006-10-24.parquet",
+    "size": 42430,
+    "mtime": "2025-09-22 16:16:56"
+  },
+  {
+    "path": "data/usdm/USDM_2006-10-31.parquet",
+    "size": 40893,
+    "mtime": "2025-09-22 16:17:01"
+  },
+  {
+    "path": "data/usdm/USDM_2006-11-07.parquet",
+    "size": 37420,
+    "mtime": "2025-09-22 16:17:04"
+  },
+  {
+    "path": "data/usdm/USDM_2006-11-14.parquet",
+    "size": 38029,
+    "mtime": "2025-09-22 16:17:07"
+  },
+  {
+    "path": "data/usdm/USDM_2006-11-21.parquet",
+    "size": 37520,
+    "mtime": "2025-09-22 16:20:07"
+  },
+  {
+    "path": "data/usdm/USDM_2006-11-28.parquet",
+    "size": 36495,
+    "mtime": "2025-09-22 16:20:10"
+  },
+  {
+    "path": "data/usdm/USDM_2006-12-05.parquet",
+    "size": 36338,
+    "mtime": "2025-09-22 16:20:14"
+  },
+  {
+    "path": "data/usdm/USDM_2006-12-12.parquet",
+    "size": 37293,
+    "mtime": "2025-09-22 16:20:18"
+  },
+  {
+    "path": "data/usdm/USDM_2006-12-19.parquet",
+    "size": 44412,
+    "mtime": "2025-09-22 16:20:23"
+  },
+  {
+    "path": "data/usdm/USDM_2006-12-26.parquet",
+    "size": 43486,
+    "mtime": "2025-09-22 16:20:28"
+  },
+  {
+    "path": "data/usdm/USDM_2007-01-02.parquet",
+    "size": 42779,
+    "mtime": "2025-09-22 16:20:33"
+  },
+  {
+    "path": "data/usdm/USDM_2007-01-09.parquet",
+    "size": 40024,
+    "mtime": "2025-09-22 16:20:38"
+  },
+  {
+    "path": "data/usdm/USDM_2007-01-16.parquet",
+    "size": 37596,
+    "mtime": "2025-09-22 16:20:41"
+  },
+  {
+    "path": "data/usdm/USDM_2007-01-23.parquet",
+    "size": 34202,
+    "mtime": "2025-09-22 16:20:44"
+  },
+  {
+    "path": "data/usdm/USDM_2007-01-30.parquet",
+    "size": 34506,
+    "mtime": "2025-09-22 16:20:47"
+  },
+  {
+    "path": "data/usdm/USDM_2007-02-06.parquet",
+    "size": 35252,
+    "mtime": "2025-09-22 16:20:51"
+  },
+  {
+    "path": "data/usdm/USDM_2007-02-13.parquet",
+    "size": 36261,
+    "mtime": "2025-09-22 16:20:55"
+  },
+  {
+    "path": "data/usdm/USDM_2007-02-20.parquet",
+    "size": 38704,
+    "mtime": "2025-09-22 16:20:58"
+  },
+  {
+    "path": "data/usdm/USDM_2007-02-27.parquet",
+    "size": 35426,
+    "mtime": "2025-09-22 16:21:01"
+  },
+  {
+    "path": "data/usdm/USDM_2007-03-06.parquet",
+    "size": 33499,
+    "mtime": "2025-09-22 16:21:04"
+  },
+  {
+    "path": "data/usdm/USDM_2007-03-13.parquet",
+    "size": 40868,
+    "mtime": "2025-09-22 16:21:10"
+  },
+  {
+    "path": "data/usdm/USDM_2007-03-20.parquet",
+    "size": 39576,
+    "mtime": "2025-09-22 16:21:15"
+  },
+  {
+    "path": "data/usdm/USDM_2007-03-27.parquet",
+    "size": 40819,
+    "mtime": "2025-09-22 16:21:20"
+  },
+  {
+    "path": "data/usdm/USDM_2007-04-03.parquet",
+    "size": 36692,
+    "mtime": "2025-09-22 16:21:25"
+  },
+  {
+    "path": "data/usdm/USDM_2007-04-10.parquet",
+    "size": 36414,
+    "mtime": "2025-09-22 16:21:30"
+  },
+  {
+    "path": "data/usdm/USDM_2007-04-17.parquet",
+    "size": 33764,
+    "mtime": "2025-09-22 16:21:34"
+  },
+  {
+    "path": "data/usdm/USDM_2007-04-24.parquet",
+    "size": 34626,
+    "mtime": "2025-09-22 16:21:38"
+  },
+  {
+    "path": "data/usdm/USDM_2007-05-01.parquet",
+    "size": 35679,
+    "mtime": "2025-09-22 16:21:43"
+  },
+  {
+    "path": "data/usdm/USDM_2007-05-08.parquet",
+    "size": 35295,
+    "mtime": "2025-09-22 16:21:48"
+  },
+  {
+    "path": "data/usdm/USDM_2007-05-15.parquet",
+    "size": 37478,
+    "mtime": "2025-09-22 16:21:55"
+  },
+  {
+    "path": "data/usdm/USDM_2007-05-22.parquet",
+    "size": 37967,
+    "mtime": "2025-09-22 16:21:59"
+  },
+  {
+    "path": "data/usdm/USDM_2007-05-29.parquet",
+    "size": 39917,
+    "mtime": "2025-09-22 16:22:04"
+  },
+  {
+    "path": "data/usdm/USDM_2007-06-05.parquet",
+    "size": 40958,
+    "mtime": "2025-09-22 16:22:09"
+  },
+  {
+    "path": "data/usdm/USDM_2007-06-12.parquet",
+    "size": 40884,
+    "mtime": "2025-09-22 16:22:13"
+  },
+  {
+    "path": "data/usdm/USDM_2007-06-19.parquet",
+    "size": 42835,
+    "mtime": "2025-09-22 16:22:18"
+  },
+  {
+    "path": "data/usdm/USDM_2007-06-26.parquet",
+    "size": 46196,
+    "mtime": "2025-09-22 16:22:24"
+  },
+  {
+    "path": "data/usdm/USDM_2007-07-03.parquet",
+    "size": 46760,
+    "mtime": "2025-09-22 16:22:30"
+  },
+  {
+    "path": "data/usdm/USDM_2007-07-10.parquet",
+    "size": 50678,
+    "mtime": "2025-09-22 16:22:35"
+  },
+  {
+    "path": "data/usdm/USDM_2007-07-17.parquet",
+    "size": 50845,
+    "mtime": "2025-09-22 16:22:42"
+  },
+  {
+    "path": "data/usdm/USDM_2007-07-24.parquet",
+    "size": 53535,
+    "mtime": "2025-09-22 16:22:48"
+  },
+  {
+    "path": "data/usdm/USDM_2007-07-31.parquet",
+    "size": 55027,
+    "mtime": "2025-09-22 16:22:54"
+  },
+  {
+    "path": "data/usdm/USDM_2007-08-07.parquet",
+    "size": 56059,
+    "mtime": "2025-09-22 16:23:01"
+  },
+  {
+    "path": "data/usdm/USDM_2007-08-14.parquet",
+    "size": 54860,
+    "mtime": "2025-09-22 16:23:07"
+  },
+  {
+    "path": "data/usdm/USDM_2007-08-21.parquet",
+    "size": 56389,
+    "mtime": "2025-09-22 16:23:12"
+  },
+  {
+    "path": "data/usdm/USDM_2007-08-28.parquet",
+    "size": 52908,
+    "mtime": "2025-09-22 16:23:18"
+  },
+  {
+    "path": "data/usdm/USDM_2007-09-04.parquet",
+    "size": 53240,
+    "mtime": "2025-09-22 16:23:23"
+  },
+  {
+    "path": "data/usdm/USDM_2007-09-11.parquet",
+    "size": 51922,
+    "mtime": "2025-09-22 16:23:28"
+  },
+  {
+    "path": "data/usdm/USDM_2007-09-18.parquet",
+    "size": 52511,
+    "mtime": "2025-09-22 16:20:09"
+  },
+  {
+    "path": "data/usdm/USDM_2007-09-25.parquet",
+    "size": 52609,
+    "mtime": "2025-09-22 16:20:14"
+  },
+  {
+    "path": "data/usdm/USDM_2007-10-02.parquet",
+    "size": 53828,
+    "mtime": "2025-09-22 16:20:20"
+  },
+  {
+    "path": "data/usdm/USDM_2007-10-09.parquet",
+    "size": 53955,
+    "mtime": "2025-09-22 16:20:26"
+  },
+  {
+    "path": "data/usdm/USDM_2007-10-16.parquet",
+    "size": 52212,
+    "mtime": "2025-09-22 16:20:31"
+  },
+  {
+    "path": "data/usdm/USDM_2007-10-23.parquet",
+    "size": 49114,
+    "mtime": "2025-09-22 16:20:36"
+  },
+  {
+    "path": "data/usdm/USDM_2007-10-30.parquet",
+    "size": 44896,
+    "mtime": "2025-09-22 16:20:41"
+  },
+  {
+    "path": "data/usdm/USDM_2007-11-06.parquet",
+    "size": 47750,
+    "mtime": "2025-09-22 16:20:46"
+  },
+  {
+    "path": "data/usdm/USDM_2007-11-13.parquet",
+    "size": 50279,
+    "mtime": "2025-09-22 16:20:51"
+  },
+  {
+    "path": "data/usdm/USDM_2007-11-20.parquet",
+    "size": 52709,
+    "mtime": "2025-09-22 16:20:56"
+  },
+  {
+    "path": "data/usdm/USDM_2007-11-27.parquet",
+    "size": 49241,
+    "mtime": "2025-09-22 16:21:01"
+  },
+  {
+    "path": "data/usdm/USDM_2007-12-04.parquet",
+    "size": 50596,
+    "mtime": "2025-09-22 16:21:06"
+  },
+  {
+    "path": "data/usdm/USDM_2007-12-11.parquet",
+    "size": 48038,
+    "mtime": "2025-09-22 16:21:11"
+  },
+  {
+    "path": "data/usdm/USDM_2007-12-18.parquet",
+    "size": 45008,
+    "mtime": "2025-09-22 16:21:16"
+  },
+  {
+    "path": "data/usdm/USDM_2007-12-25.parquet",
+    "size": 45025,
+    "mtime": "2025-09-22 16:21:21"
+  },
+  {
+    "path": "data/usdm/USDM_2008-01-01.parquet",
+    "size": 47117,
+    "mtime": "2025-09-22 16:21:27"
+  },
+  {
+    "path": "data/usdm/USDM_2008-01-08.parquet",
+    "size": 46443,
+    "mtime": "2025-09-22 16:21:34"
+  },
+  {
+    "path": "data/usdm/USDM_2008-01-15.parquet",
+    "size": 46716,
+    "mtime": "2025-09-22 16:21:42"
+  },
+  {
+    "path": "data/usdm/USDM_2008-01-22.parquet",
+    "size": 45283,
+    "mtime": "2025-09-22 16:21:48"
+  },
+  {
+    "path": "data/usdm/USDM_2008-01-29.parquet",
+    "size": 46319,
+    "mtime": "2025-09-22 16:21:54"
+  },
+  {
+    "path": "data/usdm/USDM_2008-02-05.parquet",
+    "size": 45456,
+    "mtime": "2025-09-22 16:22:00"
+  },
+  {
+    "path": "data/usdm/USDM_2008-02-12.parquet",
+    "size": 45952,
+    "mtime": "2025-09-22 16:22:07"
+  },
+  {
+    "path": "data/usdm/USDM_2008-02-19.parquet",
+    "size": 44669,
+    "mtime": "2025-09-22 16:22:11"
+  },
+  {
+    "path": "data/usdm/USDM_2008-02-26.parquet",
+    "size": 42935,
+    "mtime": "2025-09-22 16:22:16"
+  },
+  {
+    "path": "data/usdm/USDM_2008-03-04.parquet",
+    "size": 42709,
+    "mtime": "2025-09-22 16:22:20"
+  },
+  {
+    "path": "data/usdm/USDM_2008-03-11.parquet",
+    "size": 40754,
+    "mtime": "2025-09-22 16:22:24"
+  },
+  {
+    "path": "data/usdm/USDM_2008-03-18.parquet",
+    "size": 40165,
+    "mtime": "2025-09-22 16:22:29"
+  },
+  {
+    "path": "data/usdm/USDM_2008-03-25.parquet",
+    "size": 40650,
+    "mtime": "2025-09-22 16:22:33"
+  },
+  {
+    "path": "data/usdm/USDM_2008-04-01.parquet",
+    "size": 42953,
+    "mtime": "2025-09-22 16:22:38"
+  },
+  {
+    "path": "data/usdm/USDM_2008-04-08.parquet",
+    "size": 41383,
+    "mtime": "2025-09-22 16:22:43"
+  },
+  {
+    "path": "data/usdm/USDM_2008-04-15.parquet",
+    "size": 40412,
+    "mtime": "2025-09-22 16:22:47"
+  },
+  {
+    "path": "data/usdm/USDM_2008-04-22.parquet",
+    "size": 40930,
+    "mtime": "2025-09-22 16:22:52"
+  },
+  {
+    "path": "data/usdm/USDM_2008-04-29.parquet",
+    "size": 40943,
+    "mtime": "2025-09-22 16:22:56"
+  },
+  {
+    "path": "data/usdm/USDM_2008-05-06.parquet",
+    "size": 39545,
+    "mtime": "2025-09-22 16:23:00"
+  },
+  {
+    "path": "data/usdm/USDM_2008-05-13.parquet",
+    "size": 36962,
+    "mtime": "2025-09-22 16:23:04"
+  },
+  {
+    "path": "data/usdm/USDM_2008-05-20.parquet",
+    "size": 35141,
+    "mtime": "2025-09-22 16:23:07"
+  },
+  {
+    "path": "data/usdm/USDM_2008-05-27.parquet",
+    "size": 34713,
+    "mtime": "2025-09-22 16:23:10"
+  },
+  {
+    "path": "data/usdm/USDM_2008-06-03.parquet",
+    "size": 35213,
+    "mtime": "2025-09-22 16:23:13"
+  },
+  {
+    "path": "data/usdm/USDM_2008-06-10.parquet",
+    "size": 40562,
+    "mtime": "2025-09-22 16:23:20"
+  },
+  {
+    "path": "data/usdm/USDM_2008-06-17.parquet",
+    "size": 39833,
+    "mtime": "2025-09-22 16:23:25"
+  },
+  {
+    "path": "data/usdm/USDM_2008-06-24.parquet",
+    "size": 41111,
+    "mtime": "2025-09-22 16:23:29"
+  },
+  {
+    "path": "data/usdm/USDM_2008-07-01.parquet",
+    "size": 41499,
+    "mtime": "2025-09-22 16:23:34"
+  },
+  {
+    "path": "data/usdm/USDM_2008-07-08.parquet",
+    "size": 42707,
+    "mtime": "2025-09-22 16:23:38"
+  },
+  {
+    "path": "data/usdm/USDM_2008-07-15.parquet",
+    "size": 42769,
+    "mtime": "2025-09-22 16:23:43"
+  },
+  {
+    "path": "data/usdm/USDM_2008-07-22.parquet",
+    "size": 44817,
+    "mtime": "2025-09-22 16:23:47"
+  },
+  {
+    "path": "data/usdm/USDM_2008-07-29.parquet",
+    "size": 44653,
+    "mtime": "2025-09-22 16:23:52"
+  },
+  {
+    "path": "data/usdm/USDM_2008-08-05.parquet",
+    "size": 47492,
+    "mtime": "2025-09-22 16:23:57"
+  },
+  {
+    "path": "data/usdm/USDM_2008-08-12.parquet",
+    "size": 47602,
+    "mtime": "2025-09-22 16:24:01"
+  },
+  {
+    "path": "data/usdm/USDM_2008-08-19.parquet",
+    "size": 49343,
+    "mtime": "2025-09-22 16:24:05"
+  },
+  {
+    "path": "data/usdm/USDM_2008-08-26.parquet",
+    "size": 50018,
+    "mtime": "2025-09-22 16:24:10"
+  },
+  {
+    "path": "data/usdm/USDM_2008-09-02.parquet",
+    "size": 50452,
+    "mtime": "2025-09-22 16:24:14"
+  },
+  {
+    "path": "data/usdm/USDM_2008-09-09.parquet",
+    "size": 45194,
+    "mtime": "2025-09-22 16:24:18"
+  },
+  {
+    "path": "data/usdm/USDM_2008-09-16.parquet",
+    "size": 42183,
+    "mtime": "2025-09-22 16:24:22"
+  },
+  {
+    "path": "data/usdm/USDM_2008-09-23.parquet",
+    "size": 42183,
+    "mtime": "2025-09-22 16:24:27"
+  },
+  {
+    "path": "data/usdm/USDM_2008-09-30.parquet",
+    "size": 43470,
+    "mtime": "2025-09-22 16:24:32"
+  },
+  {
+    "path": "data/usdm/USDM_2008-10-07.parquet",
+    "size": 42789,
+    "mtime": "2025-09-22 16:24:37"
+  },
+  {
+    "path": "data/usdm/USDM_2008-10-14.parquet",
+    "size": 40733,
+    "mtime": "2025-09-22 16:24:43"
+  },
+  {
+    "path": "data/usdm/USDM_2008-10-21.parquet",
+    "size": 41724,
+    "mtime": "2025-09-22 16:24:49"
+  },
+  {
+    "path": "data/usdm/USDM_2008-10-28.parquet",
+    "size": 38465,
+    "mtime": "2025-09-22 16:24:53"
+  },
+  {
+    "path": "data/usdm/USDM_2008-11-04.parquet",
+    "size": 40805,
+    "mtime": "2025-09-22 16:24:58"
+  },
+  {
+    "path": "data/usdm/USDM_2008-11-11.parquet",
+    "size": 40561,
+    "mtime": "2025-09-22 16:25:02"
+  },
+  {
+    "path": "data/usdm/USDM_2008-11-18.parquet",
+    "size": 39266,
+    "mtime": "2025-09-22 16:25:06"
+  },
+  {
+    "path": "data/usdm/USDM_2008-11-25.parquet",
+    "size": 40188,
+    "mtime": "2025-09-22 16:25:11"
+  },
+  {
+    "path": "data/usdm/USDM_2008-12-02.parquet",
+    "size": 41692,
+    "mtime": "2025-09-22 16:25:16"
+  },
+  {
+    "path": "data/usdm/USDM_2008-12-09.parquet",
+    "size": 41624,
+    "mtime": "2025-09-22 16:25:21"
+  },
+  {
+    "path": "data/usdm/USDM_2008-12-16.parquet",
+    "size": 38926,
+    "mtime": "2025-09-22 16:25:25"
+  },
+  {
+    "path": "data/usdm/USDM_2008-12-23.parquet",
+    "size": 38277,
+    "mtime": "2025-09-22 16:25:30"
+  },
+  {
+    "path": "data/usdm/USDM_2008-12-30.parquet",
+    "size": 34713,
+    "mtime": "2025-09-22 16:25:33"
+  },
+  {
+    "path": "data/usdm/USDM_2009-01-06.parquet",
+    "size": 34796,
+    "mtime": "2025-09-22 16:25:37"
+  },
+  {
+    "path": "data/usdm/USDM_2009-01-13.parquet",
+    "size": 35364,
+    "mtime": "2025-09-22 16:25:41"
+  },
+  {
+    "path": "data/usdm/USDM_2009-01-20.parquet",
+    "size": 35768,
+    "mtime": "2025-09-22 16:25:45"
+  },
+  {
+    "path": "data/usdm/USDM_2009-01-27.parquet",
+    "size": 38475,
+    "mtime": "2025-09-22 16:25:51"
+  },
+  {
+    "path": "data/usdm/USDM_2009-02-03.parquet",
+    "size": 35883,
+    "mtime": "2025-09-22 16:25:57"
+  },
+  {
+    "path": "data/usdm/USDM_2009-02-10.parquet",
+    "size": 41099,
+    "mtime": "2025-09-22 16:26:05"
+  },
+  {
+    "path": "data/usdm/USDM_2009-02-17.parquet",
+    "size": 42532,
+    "mtime": "2025-09-22 16:26:13"
+  },
+  {
+    "path": "data/usdm/USDM_2009-02-24.parquet",
+    "size": 42649,
+    "mtime": "2025-09-22 16:26:21"
+  },
+  {
+    "path": "data/usdm/USDM_2009-03-03.parquet",
+    "size": 44865,
+    "mtime": "2025-09-22 16:26:29"
+  },
+  {
+    "path": "data/usdm/USDM_2009-03-10.parquet",
+    "size": 44971,
+    "mtime": "2025-09-22 16:26:37"
+  },
+  {
+    "path": "data/usdm/USDM_2009-03-17.parquet",
+    "size": 45014,
+    "mtime": "2025-09-22 16:26:46"
+  },
+  {
+    "path": "data/usdm/USDM_2009-03-24.parquet",
+    "size": 46465,
+    "mtime": "2025-09-22 16:26:55"
+  },
+  {
+    "path": "data/usdm/USDM_2009-03-31.parquet",
+    "size": 41102,
+    "mtime": "2025-09-22 16:27:00"
+  },
+  {
+    "path": "data/usdm/USDM_2009-04-07.parquet",
+    "size": 37765,
+    "mtime": "2025-09-22 16:27:05"
+  },
+  {
+    "path": "data/usdm/USDM_2009-04-14.parquet",
+    "size": 37057,
+    "mtime": "2025-09-22 16:27:10"
+  },
+  {
+    "path": "data/usdm/USDM_2009-04-21.parquet",
+    "size": 35562,
+    "mtime": "2025-09-22 16:27:15"
+  },
+  {
+    "path": "data/usdm/USDM_2009-04-28.parquet",
+    "size": 36959,
+    "mtime": "2025-09-22 16:27:21"
+  },
+  {
+    "path": "data/usdm/USDM_2009-05-05.parquet",
+    "size": 32166,
+    "mtime": "2025-09-22 16:27:26"
+  },
+  {
+    "path": "data/usdm/USDM_2009-05-12.parquet",
+    "size": 26862,
+    "mtime": "2025-09-22 16:27:32"
+  },
+  {
+    "path": "data/usdm/USDM_2009-05-19.parquet",
+    "size": 25659,
+    "mtime": "2025-09-22 16:27:39"
+  },
+  {
+    "path": "data/usdm/USDM_2009-05-26.parquet",
+    "size": 25430,
+    "mtime": "2025-09-22 16:27:48"
+  },
+  {
+    "path": "data/usdm/USDM_2009-06-02.parquet",
+    "size": 27348,
+    "mtime": "2025-09-22 16:27:54"
+  },
+  {
+    "path": "data/usdm/USDM_2009-06-09.parquet",
+    "size": 29919,
+    "mtime": "2025-09-22 16:28:00"
+  },
+  {
+    "path": "data/usdm/USDM_2009-06-16.parquet",
+    "size": 28779,
+    "mtime": "2025-09-22 16:28:07"
+  },
+  {
+    "path": "data/usdm/USDM_2009-06-23.parquet",
+    "size": 27417,
+    "mtime": "2025-09-22 16:28:12"
+  },
+  {
+    "path": "data/usdm/USDM_2009-06-30.parquet",
+    "size": 29502,
+    "mtime": "2025-09-22 16:28:20"
+  },
+  {
+    "path": "data/usdm/USDM_2009-07-07.parquet",
+    "size": 32855,
+    "mtime": "2025-09-22 16:28:30"
+  },
+  {
+    "path": "data/usdm/USDM_2009-07-14.parquet",
+    "size": 33755,
+    "mtime": "2025-09-22 16:28:40"
+  },
+  {
+    "path": "data/usdm/USDM_2009-07-21.parquet",
+    "size": 36053,
+    "mtime": "2025-09-22 16:28:54"
+  },
+  {
+    "path": "data/usdm/USDM_2009-07-28.parquet",
+    "size": 34217,
+    "mtime": "2025-09-22 16:29:04"
+  },
+  {
+    "path": "data/usdm/USDM_2009-08-04.parquet",
+    "size": 32983,
+    "mtime": "2025-09-22 16:29:12"
+  },
+  {
+    "path": "data/usdm/USDM_2009-08-11.parquet",
+    "size": 33248,
+    "mtime": "2025-09-22 16:29:24"
+  },
+  {
+    "path": "data/usdm/USDM_2009-08-18.parquet",
+    "size": 33420,
+    "mtime": "2025-09-22 16:29:32"
+  },
+  {
+    "path": "data/usdm/USDM_2009-08-25.parquet",
+    "size": 30383,
+    "mtime": "2025-09-22 16:29:38"
+  },
+  {
+    "path": "data/usdm/USDM_2009-09-01.parquet",
+    "size": 27640,
+    "mtime": "2025-09-22 16:29:41"
+  },
+  {
+    "path": "data/usdm/USDM_2009-09-08.parquet",
+    "size": 29520,
+    "mtime": "2025-09-22 16:29:43"
+  },
+  {
+    "path": "data/usdm/USDM_2009-09-15.parquet",
+    "size": 28251,
+    "mtime": "2025-09-22 16:29:46"
+  },
+  {
+    "path": "data/usdm/USDM_2009-09-22.parquet",
+    "size": 31160,
+    "mtime": "2025-09-22 16:29:49"
+  },
+  {
+    "path": "data/usdm/USDM_2009-09-29.parquet",
+    "size": 30603,
+    "mtime": "2025-09-22 16:29:52"
+  },
+  {
+    "path": "data/usdm/USDM_2009-10-06.parquet",
+    "size": 28351,
+    "mtime": "2025-09-22 16:29:55"
+  },
+  {
+    "path": "data/usdm/USDM_2009-10-13.parquet",
+    "size": 25373,
+    "mtime": "2025-09-22 16:29:58"
+  },
+  {
+    "path": "data/usdm/USDM_2009-10-20.parquet",
+    "size": 24324,
+    "mtime": "2025-09-22 16:30:01"
+  },
+  {
+    "path": "data/usdm/USDM_2009-10-27.parquet",
+    "size": 21787,
+    "mtime": "2025-09-22 16:30:04"
+  },
+  {
+    "path": "data/usdm/USDM_2009-11-03.parquet",
+    "size": 19281,
+    "mtime": "2025-09-22 16:30:06"
+  },
+  {
+    "path": "data/usdm/USDM_2009-11-10.parquet",
+    "size": 20625,
+    "mtime": "2025-09-22 16:30:08"
+  },
+  {
+    "path": "data/usdm/USDM_2009-11-17.parquet",
+    "size": 17966,
+    "mtime": "2025-09-22 16:30:11"
+  },
+  {
+    "path": "data/usdm/USDM_2009-11-24.parquet",
+    "size": 18522,
+    "mtime": "2025-09-22 16:30:13"
+  },
+  {
+    "path": "data/usdm/USDM_2009-12-01.parquet",
+    "size": 18264,
+    "mtime": "2025-09-22 16:30:15"
+  },
+  {
+    "path": "data/usdm/USDM_2009-12-08.parquet",
+    "size": 16732,
+    "mtime": "2025-09-22 16:30:17"
+  },
+  {
+    "path": "data/usdm/USDM_2009-12-15.parquet",
+    "size": 15869,
+    "mtime": "2025-09-22 16:30:20"
+  },
+  {
+    "path": "data/usdm/USDM_2009-12-22.parquet",
+    "size": 16027,
+    "mtime": "2025-09-22 16:30:22"
+  },
+  {
+    "path": "data/usdm/USDM_2009-12-29.parquet",
+    "size": 16023,
+    "mtime": "2025-09-22 16:30:24"
+  },
+  {
+    "path": "data/usdm/USDM_2010-01-05.parquet",
+    "size": 16250,
+    "mtime": "2025-09-22 16:30:26"
+  },
+  {
+    "path": "data/usdm/USDM_2010-01-12.parquet",
+    "size": 16408,
+    "mtime": "2025-09-22 16:30:27"
+  },
+  {
+    "path": "data/usdm/USDM_2010-01-19.parquet",
+    "size": 16456,
+    "mtime": "2025-09-22 16:30:29"
+  },
+  {
+    "path": "data/usdm/USDM_2010-01-26.parquet",
+    "size": 15686,
+    "mtime": "2025-09-22 16:30:30"
+  },
+  {
+    "path": "data/usdm/USDM_2010-02-02.parquet",
+    "size": 14936,
+    "mtime": "2025-09-22 16:30:32"
+  },
+  {
+    "path": "data/usdm/USDM_2010-02-09.parquet",
+    "size": 13872,
+    "mtime": "2025-09-22 16:30:33"
+  },
+  {
+    "path": "data/usdm/USDM_2010-02-16.parquet",
+    "size": 14372,
+    "mtime": "2025-09-22 16:30:34"
+  },
+  {
+    "path": "data/usdm/USDM_2010-02-23.parquet",
+    "size": 14288,
+    "mtime": "2025-09-22 16:30:35"
+  },
+  {
+    "path": "data/usdm/USDM_2010-03-02.parquet",
+    "size": 14416,
+    "mtime": "2025-09-22 16:30:37"
+  },
+  {
+    "path": "data/usdm/USDM_2010-03-09.parquet",
+    "size": 17612,
+    "mtime": "2025-09-22 16:30:38"
+  },
+  {
+    "path": "data/usdm/USDM_2010-03-16.parquet",
+    "size": 16507,
+    "mtime": "2025-09-22 16:30:40"
+  },
+  {
+    "path": "data/usdm/USDM_2010-03-23.parquet",
+    "size": 15988,
+    "mtime": "2025-09-22 16:30:41"
+  },
+  {
+    "path": "data/usdm/USDM_2010-03-30.parquet",
+    "size": 16671,
+    "mtime": "2025-09-22 16:30:42"
+  },
+  {
+    "path": "data/usdm/USDM_2010-04-06.parquet",
+    "size": 19583,
+    "mtime": "2025-09-22 16:30:45"
+  },
+  {
+    "path": "data/usdm/USDM_2010-04-13.parquet",
+    "size": 22453,
+    "mtime": "2025-09-22 16:30:47"
+  },
+  {
+    "path": "data/usdm/USDM_2010-04-20.parquet",
+    "size": 24173,
+    "mtime": "2025-09-22 16:20:06"
+  },
+  {
+    "path": "data/usdm/USDM_2010-04-27.parquet",
+    "size": 25422,
+    "mtime": "2025-09-22 16:20:08"
+  },
+  {
+    "path": "data/usdm/USDM_2010-05-04.parquet",
+    "size": 23803,
+    "mtime": "2025-09-22 16:20:11"
+  },
+  {
+    "path": "data/usdm/USDM_2010-05-11.parquet",
+    "size": 24370,
+    "mtime": "2025-09-22 16:20:13"
+  },
+  {
+    "path": "data/usdm/USDM_2010-05-18.parquet",
+    "size": 21127,
+    "mtime": "2025-09-22 16:20:17"
+  },
+  {
+    "path": "data/usdm/USDM_2010-05-25.parquet",
+    "size": 20042,
+    "mtime": "2025-09-22 16:20:18"
+  },
+  {
+    "path": "data/usdm/USDM_2010-06-01.parquet",
+    "size": 23272,
+    "mtime": "2025-09-22 16:20:21"
+  },
+  {
+    "path": "data/usdm/USDM_2010-06-08.parquet",
+    "size": 20535,
+    "mtime": "2025-09-22 16:20:23"
+  },
+  {
+    "path": "data/usdm/USDM_2010-06-15.parquet",
+    "size": 20646,
+    "mtime": "2025-09-22 16:20:27"
+  },
+  {
+    "path": "data/usdm/USDM_2010-06-22.parquet",
+    "size": 26383,
+    "mtime": "2025-09-22 16:20:33"
+  },
+  {
+    "path": "data/usdm/USDM_2010-06-29.parquet",
+    "size": 28960,
+    "mtime": "2025-09-22 16:20:40"
+  },
+  {
+    "path": "data/usdm/USDM_2010-07-06.parquet",
+    "size": 30745,
+    "mtime": "2025-09-22 16:20:47"
+  },
+  {
+    "path": "data/usdm/USDM_2010-07-13.parquet",
+    "size": 31720,
+    "mtime": "2025-09-22 16:20:55"
+  },
+  {
+    "path": "data/usdm/USDM_2010-07-20.parquet",
+    "size": 33771,
+    "mtime": "2025-09-22 16:21:05"
+  },
+  {
+    "path": "data/usdm/USDM_2010-07-27.parquet",
+    "size": 33336,
+    "mtime": "2025-09-22 16:21:13"
+  },
+  {
+    "path": "data/usdm/USDM_2010-08-03.parquet",
+    "size": 34182,
+    "mtime": "2025-09-22 16:21:20"
+  },
+  {
+    "path": "data/usdm/USDM_2010-08-10.parquet",
+    "size": 35242,
+    "mtime": "2025-09-22 16:21:30"
+  },
+  {
+    "path": "data/usdm/USDM_2010-08-17.parquet",
+    "size": 37301,
+    "mtime": "2025-09-22 16:21:38"
+  },
+  {
+    "path": "data/usdm/USDM_2010-08-24.parquet",
+    "size": 34043,
+    "mtime": "2025-09-22 16:21:46"
+  },
+  {
+    "path": "data/usdm/USDM_2010-08-31.parquet",
+    "size": 38570,
+    "mtime": "2025-09-22 16:21:55"
+  },
+  {
+    "path": "data/usdm/USDM_2010-09-07.parquet",
+    "size": 37958,
+    "mtime": "2025-09-22 16:21:59"
+  },
+  {
+    "path": "data/usdm/USDM_2010-09-14.parquet",
+    "size": 40865,
+    "mtime": "2025-09-22 16:22:04"
+  },
+  {
+    "path": "data/usdm/USDM_2010-09-21.parquet",
+    "size": 43470,
+    "mtime": "2025-09-22 16:22:17"
+  },
+  {
+    "path": "data/usdm/USDM_2010-09-28.parquet",
+    "size": 46683,
+    "mtime": "2025-09-22 16:22:29"
+  },
+  {
+    "path": "data/usdm/USDM_2010-10-05.parquet",
+    "size": 41167,
+    "mtime": "2025-09-22 16:22:39"
+  },
+  {
+    "path": "data/usdm/USDM_2010-10-12.parquet",
+    "size": 42719,
+    "mtime": "2025-09-22 16:22:48"
+  },
+  {
+    "path": "data/usdm/USDM_2010-10-19.parquet",
+    "size": 45601,
+    "mtime": "2025-09-22 16:22:58"
+  },
+  {
+    "path": "data/usdm/USDM_2010-10-26.parquet",
+    "size": 44761,
+    "mtime": "2025-09-22 16:23:07"
+  },
+  {
+    "path": "data/usdm/USDM_2010-11-02.parquet",
+    "size": 45686,
+    "mtime": "2025-09-22 16:23:15"
+  },
+  {
+    "path": "data/usdm/USDM_2010-11-09.parquet",
+    "size": 45304,
+    "mtime": "2025-09-22 16:23:22"
+  },
+  {
+    "path": "data/usdm/USDM_2010-11-16.parquet",
+    "size": 46523,
+    "mtime": "2025-09-22 16:23:30"
+  },
+  {
+    "path": "data/usdm/USDM_2010-11-23.parquet",
+    "size": 46383,
+    "mtime": "2025-09-22 16:23:38"
+  },
+  {
+    "path": "data/usdm/USDM_2010-11-30.parquet",
+    "size": 47035,
+    "mtime": "2025-09-22 16:23:47"
+  },
+  {
+    "path": "data/usdm/USDM_2010-12-07.parquet",
+    "size": 45268,
+    "mtime": "2025-09-22 16:23:57"
+  },
+  {
+    "path": "data/usdm/USDM_2010-12-14.parquet",
+    "size": 43930,
+    "mtime": "2025-09-22 16:24:07"
+  },
+  {
+    "path": "data/usdm/USDM_2010-12-21.parquet",
+    "size": 43732,
+    "mtime": "2025-09-22 16:24:16"
+  },
+  {
+    "path": "data/usdm/USDM_2010-12-28.parquet",
+    "size": 44243,
+    "mtime": "2025-09-22 16:24:26"
+  },
+  {
+    "path": "data/usdm/USDM_2011-01-04.parquet",
+    "size": 43252,
+    "mtime": "2025-09-22 16:24:37"
+  },
+  {
+    "path": "data/usdm/USDM_2011-01-11.parquet",
+    "size": 45247,
+    "mtime": "2025-09-22 16:24:49"
+  },
+  {
+    "path": "data/usdm/USDM_2011-01-18.parquet",
+    "size": 46813,
+    "mtime": "2025-09-22 16:25:02"
+  },
+  {
+    "path": "data/usdm/USDM_2011-01-25.parquet",
+    "size": 48037,
+    "mtime": "2025-09-22 16:25:15"
+  },
+  {
+    "path": "data/usdm/USDM_2011-02-01.parquet",
+    "size": 50369,
+    "mtime": "2025-09-22 16:25:28"
+  },
+  {
+    "path": "data/usdm/USDM_2011-02-08.parquet",
+    "size": 50127,
+    "mtime": "2025-09-22 16:25:36"
+  },
+  {
+    "path": "data/usdm/USDM_2011-02-15.parquet",
+    "size": 50383,
+    "mtime": "2025-09-22 16:25:44"
+  },
+  {
+    "path": "data/usdm/USDM_2011-02-22.parquet",
+    "size": 49130,
+    "mtime": "2025-09-22 16:25:52"
+  },
+  {
+    "path": "data/usdm/USDM_2011-03-01.parquet",
+    "size": 48139,
+    "mtime": "2025-09-22 16:25:59"
+  },
+  {
+    "path": "data/usdm/USDM_2011-03-08.parquet",
+    "size": 45251,
+    "mtime": "2025-09-22 16:26:05"
+  },
+  {
+    "path": "data/usdm/USDM_2011-03-15.parquet",
+    "size": 44840,
+    "mtime": "2025-09-22 16:26:13"
+  },
+  {
+    "path": "data/usdm/USDM_2011-03-22.parquet",
+    "size": 44038,
+    "mtime": "2025-09-22 16:26:21"
+  },
+  {
+    "path": "data/usdm/USDM_2011-03-29.parquet",
+    "size": 42961,
+    "mtime": "2025-09-22 16:26:29"
+  },
+  {
+    "path": "data/usdm/USDM_2011-04-05.parquet",
+    "size": 41566,
+    "mtime": "2025-09-22 16:26:36"
+  },
+  {
+    "path": "data/usdm/USDM_2011-04-12.parquet",
+    "size": 41925,
+    "mtime": "2025-09-22 16:26:44"
+  },
+  {
+    "path": "data/usdm/USDM_2011-04-19.parquet",
+    "size": 40262,
+    "mtime": "2025-09-22 16:26:52"
+  },
+  {
+    "path": "data/usdm/USDM_2011-04-26.parquet",
+    "size": 36835,
+    "mtime": "2025-09-22 16:27:01"
+  },
+  {
+    "path": "data/usdm/USDM_2011-05-03.parquet",
+    "size": 36471,
+    "mtime": "2025-09-22 16:27:15"
+  },
+  {
+    "path": "data/usdm/USDM_2011-05-10.parquet",
+    "size": 37122,
+    "mtime": "2025-09-22 16:27:27"
+  },
+  {
+    "path": "data/usdm/USDM_2011-05-17.parquet",
+    "size": 36318,
+    "mtime": "2025-09-22 16:27:40"
+  },
+  {
+    "path": "data/usdm/USDM_2011-05-24.parquet",
+    "size": 36307,
+    "mtime": "2025-09-22 16:27:51"
+  },
+  {
+    "path": "data/usdm/USDM_2011-05-31.parquet",
+    "size": 36441,
+    "mtime": "2025-09-22 16:28:06"
+  },
+  {
+    "path": "data/usdm/USDM_2011-06-07.parquet",
+    "size": 37736,
+    "mtime": "2025-09-22 16:28:15"
+  },
+  {
+    "path": "data/usdm/USDM_2011-06-14.parquet",
+    "size": 37618,
+    "mtime": "2025-09-22 16:28:24"
+  },
+  {
+    "path": "data/usdm/USDM_2011-06-21.parquet",
+    "size": 37743,
+    "mtime": "2025-09-22 16:28:35"
+  },
+  {
+    "path": "data/usdm/USDM_2011-06-28.parquet",
+    "size": 39290,
+    "mtime": "2025-09-22 16:28:48"
+  },
+  {
+    "path": "data/usdm/USDM_2011-07-05.parquet",
+    "size": 40796,
+    "mtime": "2025-09-22 16:28:59"
+  },
+  {
+    "path": "data/usdm/USDM_2011-07-12.parquet",
+    "size": 39562,
+    "mtime": "2025-09-22 16:29:08"
+  },
+  {
+    "path": "data/usdm/USDM_2011-07-19.parquet",
+    "size": 41605,
+    "mtime": "2025-09-22 16:29:18"
+  },
+  {
+    "path": "data/usdm/USDM_2011-07-26.parquet",
+    "size": 45395,
+    "mtime": "2025-09-22 16:29:27"
+  },
+  {
+    "path": "data/usdm/USDM_2011-08-02.parquet",
+    "size": 50930,
+    "mtime": "2025-09-22 16:29:34"
+  },
+  {
+    "path": "data/usdm/USDM_2011-08-09.parquet",
+    "size": 52280,
+    "mtime": "2025-09-22 16:29:41"
+  },
+  {
+    "path": "data/usdm/USDM_2011-08-16.parquet",
+    "size": 52405,
+    "mtime": "2025-09-22 16:29:48"
+  },
+  {
+    "path": "data/usdm/USDM_2011-08-23.parquet",
+    "size": 53855,
+    "mtime": "2025-09-22 16:29:55"
+  },
+  {
+    "path": "data/usdm/USDM_2011-08-30.parquet",
+    "size": 53205,
+    "mtime": "2025-09-22 16:30:02"
+  },
+  {
+    "path": "data/usdm/USDM_2011-09-06.parquet",
+    "size": 48044,
+    "mtime": "2025-09-22 16:30:05"
+  },
+  {
+    "path": "data/usdm/USDM_2011-09-13.parquet",
+    "size": 47098,
+    "mtime": "2025-09-22 16:30:08"
+  },
+  {
+    "path": "data/usdm/USDM_2011-09-20.parquet",
+    "size": 46484,
+    "mtime": "2025-09-22 16:30:11"
+  },
+  {
+    "path": "data/usdm/USDM_2011-09-27.parquet",
+    "size": 45043,
+    "mtime": "2025-09-22 16:30:14"
+  },
+  {
+    "path": "data/usdm/USDM_2011-10-04.parquet",
+    "size": 46483,
+    "mtime": "2025-09-22 16:30:17"
+  },
+  {
+    "path": "data/usdm/USDM_2011-10-11.parquet",
+    "size": 47885,
+    "mtime": "2025-09-22 16:30:21"
+  },
+  {
+    "path": "data/usdm/USDM_2011-10-18.parquet",
+    "size": 46670,
+    "mtime": "2025-09-22 16:30:24"
+  },
+  {
+    "path": "data/usdm/USDM_2011-10-25.parquet",
+    "size": 47206,
+    "mtime": "2025-09-22 16:30:28"
+  },
+  {
+    "path": "data/usdm/USDM_2011-11-01.parquet",
+    "size": 47317,
+    "mtime": "2025-09-22 16:30:31"
+  },
+  {
+    "path": "data/usdm/USDM_2011-11-08.parquet",
+    "size": 47300,
+    "mtime": "2025-09-22 16:30:35"
+  },
+  {
+    "path": "data/usdm/USDM_2011-11-15.parquet",
+    "size": 46954,
+    "mtime": "2025-09-22 16:30:38"
+  },
+  {
+    "path": "data/usdm/USDM_2011-11-22.parquet",
+    "size": 46429,
+    "mtime": "2025-09-22 16:30:42"
+  },
+  {
+    "path": "data/usdm/USDM_2011-11-29.parquet",
+    "size": 42630,
+    "mtime": "2025-09-22 16:30:45"
+  },
+  {
+    "path": "data/usdm/USDM_2011-12-06.parquet",
+    "size": 43453,
+    "mtime": "2025-09-22 16:30:49"
+  },
+  {
+    "path": "data/usdm/USDM_2011-12-13.parquet",
+    "size": 44279,
+    "mtime": "2025-09-22 16:30:57"
+  },
+  {
+    "path": "data/usdm/USDM_2011-12-20.parquet",
+    "size": 44058,
+    "mtime": "2025-09-22 16:31:02"
+  },
+  {
+    "path": "data/usdm/USDM_2011-12-27.parquet",
+    "size": 44114,
+    "mtime": "2025-09-22 16:31:07"
+  },
+  {
+    "path": "data/usdm/USDM_2012-01-03.parquet",
+    "size": 45111,
+    "mtime": "2025-09-22 16:31:12"
+  },
+  {
+    "path": "data/usdm/USDM_2012-01-10.parquet",
+    "size": 48144,
+    "mtime": "2025-09-22 16:31:18"
+  },
+  {
+    "path": "data/usdm/USDM_2012-01-17.parquet",
+    "size": 48617,
+    "mtime": "2025-09-22 16:31:25"
+  },
+  {
+    "path": "data/usdm/USDM_2012-01-24.parquet",
+    "size": 49276,
+    "mtime": "2025-09-22 16:31:31"
+  },
+  {
+    "path": "data/usdm/USDM_2012-01-31.parquet",
+    "size": 50554,
+    "mtime": "2025-09-22 16:31:38"
+  },
+  {
+    "path": "data/usdm/USDM_2012-02-07.parquet",
+    "size": 50253,
+    "mtime": "2025-09-22 16:31:45"
+  },
+  {
+    "path": "data/usdm/USDM_2012-02-14.parquet",
+    "size": 50645,
+    "mtime": "2025-09-22 16:31:52"
+  },
+  {
+    "path": "data/usdm/USDM_2012-02-21.parquet",
+    "size": 49517,
+    "mtime": "2025-09-22 16:32:00"
+  },
+  {
+    "path": "data/usdm/USDM_2012-02-28.parquet",
+    "size": 49849,
+    "mtime": "2025-09-22 16:32:07"
+  },
+  {
+    "path": "data/usdm/USDM_2012-03-06.parquet",
+    "size": 48703,
+    "mtime": "2025-09-22 16:32:12"
+  },
+  {
+    "path": "data/usdm/USDM_2012-03-13.parquet",
+    "size": 49809,
+    "mtime": "2025-09-22 16:32:18"
+  },
+  {
+    "path": "data/usdm/USDM_2012-03-20.parquet",
+    "size": 50282,
+    "mtime": "2025-09-22 16:32:28"
+  },
+  {
+    "path": "data/usdm/USDM_2012-03-27.parquet",
+    "size": 49928,
+    "mtime": "2025-09-22 16:32:34"
+  },
+  {
+    "path": "data/usdm/USDM_2012-04-03.parquet",
+    "size": 52084,
+    "mtime": "2025-09-22 16:32:41"
+  },
+  {
+    "path": "data/usdm/USDM_2012-04-10.parquet",
+    "size": 54106,
+    "mtime": "2025-09-22 16:32:48"
+  },
+  {
+    "path": "data/usdm/USDM_2012-04-17.parquet",
+    "size": 55225,
+    "mtime": "2025-09-22 16:32:55"
+  },
+  {
+    "path": "data/usdm/USDM_2012-04-24.parquet",
+    "size": 55420,
+    "mtime": "2025-09-22 16:33:02"
+  },
+  {
+    "path": "data/usdm/USDM_2012-05-01.parquet",
+    "size": 56321,
+    "mtime": "2025-09-22 16:33:09"
+  },
+  {
+    "path": "data/usdm/USDM_2012-05-08.parquet",
+    "size": 52847,
+    "mtime": "2025-09-22 16:33:15"
+  },
+  {
+    "path": "data/usdm/USDM_2012-05-15.parquet",
+    "size": 50783,
+    "mtime": "2025-09-22 16:33:21"
+  },
+  {
+    "path": "data/usdm/USDM_2012-05-22.parquet",
+    "size": 55054,
+    "mtime": "2025-09-22 16:33:27"
+  },
+  {
+    "path": "data/usdm/USDM_2012-05-29.parquet",
+    "size": 56569,
+    "mtime": "2025-09-22 16:33:35"
+  },
+  {
+    "path": "data/usdm/USDM_2012-06-05.parquet",
+    "size": 56606,
+    "mtime": "2025-09-22 16:33:40"
+  },
+  {
+    "path": "data/usdm/USDM_2012-06-12.parquet",
+    "size": 58103,
+    "mtime": "2025-09-22 16:33:45"
+  },
+  {
+    "path": "data/usdm/USDM_2012-06-19.parquet",
+    "size": 64997,
+    "mtime": "2025-09-22 16:33:52"
+  },
+  {
+    "path": "data/usdm/USDM_2012-06-26.parquet",
+    "size": 68780,
+    "mtime": "2025-09-22 16:33:58"
+  },
+  {
+    "path": "data/usdm/USDM_2012-07-03.parquet",
+    "size": 71610,
+    "mtime": "2025-09-22 16:34:05"
+  },
+  {
+    "path": "data/usdm/USDM_2012-07-10.parquet",
+    "size": 72666,
+    "mtime": "2025-09-22 16:34:11"
+  },
+  {
+    "path": "data/usdm/USDM_2012-07-17.parquet",
+    "size": 74799,
+    "mtime": "2025-09-22 16:34:18"
+  },
+  {
+    "path": "data/usdm/USDM_2012-07-24.parquet",
+    "size": 75107,
+    "mtime": "2025-09-22 16:34:24"
+  },
+  {
+    "path": "data/usdm/USDM_2012-07-31.parquet",
+    "size": 72191,
+    "mtime": "2025-09-22 16:34:31"
+  },
+  {
+    "path": "data/usdm/USDM_2012-08-07.parquet",
+    "size": 70050,
+    "mtime": "2025-09-22 16:34:37"
+  },
+  {
+    "path": "data/usdm/USDM_2012-08-14.parquet",
+    "size": 70927,
+    "mtime": "2025-09-22 16:34:44"
+  },
+  {
+    "path": "data/usdm/USDM_2012-08-21.parquet",
+    "size": 70262,
+    "mtime": "2025-09-22 16:34:50"
+  },
+  {
+    "path": "data/usdm/USDM_2012-08-28.parquet",
+    "size": 70489,
+    "mtime": "2025-09-22 16:34:55"
+  },
+  {
+    "path": "data/usdm/USDM_2012-09-04.parquet",
+    "size": 70758,
+    "mtime": "2025-09-22 16:35:00"
+  },
+  {
+    "path": "data/usdm/USDM_2012-09-11.parquet",
+    "size": 71339,
+    "mtime": "2025-09-22 16:35:06"
+  },
+  {
+    "path": "data/usdm/USDM_2012-09-18.parquet",
+    "size": 70135,
+    "mtime": "2025-09-22 16:35:11"
+  },
+  {
+    "path": "data/usdm/USDM_2012-09-25.parquet",
+    "size": 69458,
+    "mtime": "2025-09-22 16:35:16"
+  },
+  {
+    "path": "data/usdm/USDM_2012-10-02.parquet",
+    "size": 68023,
+    "mtime": "2025-09-22 16:35:21"
+  },
+  {
+    "path": "data/usdm/USDM_2012-10-09.parquet",
+    "size": 67395,
+    "mtime": "2025-09-22 16:35:26"
+  },
+  {
+    "path": "data/usdm/USDM_2012-10-16.parquet",
+    "size": 67139,
+    "mtime": "2025-09-22 16:35:31"
+  },
+  {
+    "path": "data/usdm/USDM_2012-10-23.parquet",
+    "size": 67268,
+    "mtime": "2025-09-22 16:35:36"
+  },
+  {
+    "path": "data/usdm/USDM_2012-10-30.parquet",
+    "size": 63206,
+    "mtime": "2025-09-22 16:35:40"
+  },
+  {
+    "path": "data/usdm/USDM_2012-11-06.parquet",
+    "size": 65000,
+    "mtime": "2025-09-22 16:35:45"
+  },
+  {
+    "path": "data/usdm/USDM_2012-11-13.parquet",
+    "size": 64429,
+    "mtime": "2025-09-22 16:20:08"
+  },
+  {
+    "path": "data/usdm/USDM_2012-11-20.parquet",
+    "size": 66311,
+    "mtime": "2025-09-22 16:20:13"
+  },
+  {
+    "path": "data/usdm/USDM_2012-11-27.parquet",
+    "size": 67909,
+    "mtime": "2025-09-22 16:20:21"
+  },
+  {
+    "path": "data/usdm/USDM_2012-12-04.parquet",
+    "size": 68980,
+    "mtime": "2025-09-22 16:20:31"
+  },
+  {
+    "path": "data/usdm/USDM_2012-12-11.parquet",
+    "size": 66667,
+    "mtime": "2025-09-22 16:20:38"
+  },
+  {
+    "path": "data/usdm/USDM_2012-12-18.parquet",
+    "size": 66258,
+    "mtime": "2025-09-22 16:20:45"
+  },
+  {
+    "path": "data/usdm/USDM_2012-12-25.parquet",
+    "size": 66348,
+    "mtime": "2025-09-22 16:20:55"
+  },
+  {
+    "path": "data/usdm/USDM_2013-01-01.parquet",
+    "size": 65027,
+    "mtime": "2025-09-22 16:21:05"
+  },
+  {
+    "path": "data/usdm/USDM_2013-01-08.parquet",
+    "size": 64836,
+    "mtime": "2025-09-22 16:21:15"
+  },
+  {
+    "path": "data/usdm/USDM_2013-01-15.parquet",
+    "size": 62522,
+    "mtime": "2025-09-22 16:21:26"
+  },
+  {
+    "path": "data/usdm/USDM_2013-01-22.parquet",
+    "size": 60070,
+    "mtime": "2025-09-22 16:21:37"
+  },
+  {
+    "path": "data/usdm/USDM_2013-01-29.parquet",
+    "size": 59845,
+    "mtime": "2025-09-22 16:21:47"
+  },
+  {
+    "path": "data/usdm/USDM_2013-02-05.parquet",
+    "size": 57262,
+    "mtime": "2025-09-22 16:21:57"
+  },
+  {
+    "path": "data/usdm/USDM_2013-02-12.parquet",
+    "size": 56868,
+    "mtime": "2025-09-22 16:22:05"
+  },
+  {
+    "path": "data/usdm/USDM_2013-02-19.parquet",
+    "size": 57909,
+    "mtime": "2025-09-22 16:22:14"
+  },
+  {
+    "path": "data/usdm/USDM_2013-02-26.parquet",
+    "size": 55704,
+    "mtime": "2025-09-22 16:22:24"
+  },
+  {
+    "path": "data/usdm/USDM_2013-03-05.parquet",
+    "size": 54918,
+    "mtime": "2025-09-22 16:22:31"
+  },
+  {
+    "path": "data/usdm/USDM_2013-03-12.parquet",
+    "size": 54576,
+    "mtime": "2025-09-22 16:22:36"
+  },
+  {
+    "path": "data/usdm/USDM_2013-03-19.parquet",
+    "size": 55507,
+    "mtime": "2025-09-22 16:22:41"
+  },
+  {
+    "path": "data/usdm/USDM_2013-03-26.parquet",
+    "size": 53911,
+    "mtime": "2025-09-22 16:22:46"
+  },
+  {
+    "path": "data/usdm/USDM_2013-04-02.parquet",
+    "size": 55737,
+    "mtime": "2025-09-22 16:22:52"
+  },
+  {
+    "path": "data/usdm/USDM_2013-04-09.parquet",
+    "size": 53977,
+    "mtime": "2025-09-22 16:22:57"
+  },
+  {
+    "path": "data/usdm/USDM_2013-04-16.parquet",
+    "size": 50615,
+    "mtime": "2025-09-22 16:23:01"
+  },
+  {
+    "path": "data/usdm/USDM_2013-04-23.parquet",
+    "size": 49303,
+    "mtime": "2025-09-22 16:23:05"
+  },
+  {
+    "path": "data/usdm/USDM_2013-04-30.parquet",
+    "size": 47292,
+    "mtime": "2025-09-22 16:23:10"
+  },
+  {
+    "path": "data/usdm/USDM_2013-05-07.parquet",
+    "size": 46796,
+    "mtime": "2025-09-22 16:23:14"
+  },
+  {
+    "path": "data/usdm/USDM_2013-05-14.parquet",
+    "size": 46501,
+    "mtime": "2025-09-22 16:23:18"
+  },
+  {
+    "path": "data/usdm/USDM_2013-05-21.parquet",
+    "size": 45413,
+    "mtime": "2025-09-22 16:23:23"
+  },
+  {
+    "path": "data/usdm/USDM_2013-05-28.parquet",
+    "size": 42135,
+    "mtime": "2025-09-22 16:23:28"
+  },
+  {
+    "path": "data/usdm/USDM_2013-06-04.parquet",
+    "size": 41383,
+    "mtime": "2025-09-22 16:23:31"
+  },
+  {
+    "path": "data/usdm/USDM_2013-06-11.parquet",
+    "size": 38064,
+    "mtime": "2025-09-22 16:23:34"
+  },
+  {
+    "path": "data/usdm/USDM_2013-06-18.parquet",
+    "size": 38239,
+    "mtime": "2025-09-22 16:23:37"
+  },
+  {
+    "path": "data/usdm/USDM_2013-06-25.parquet",
+    "size": 35909,
+    "mtime": "2025-09-22 16:23:40"
+  },
+  {
+    "path": "data/usdm/USDM_2013-07-02.parquet",
+    "size": 34895,
+    "mtime": "2025-09-22 16:23:43"
+  },
+  {
+    "path": "data/usdm/USDM_2013-07-09.parquet",
+    "size": 36397,
+    "mtime": "2025-09-22 16:23:45"
+  },
+  {
+    "path": "data/usdm/USDM_2013-07-16.parquet",
+    "size": 38517,
+    "mtime": "2025-09-22 16:23:48"
+  },
+  {
+    "path": "data/usdm/USDM_2013-07-23.parquet",
+    "size": 42045,
+    "mtime": "2025-09-22 16:23:51"
+  },
+  {
+    "path": "data/usdm/USDM_2013-07-30.parquet",
+    "size": 42380,
+    "mtime": "2025-09-22 16:23:55"
+  },
+  {
+    "path": "data/usdm/USDM_2013-08-06.parquet",
+    "size": 43531,
+    "mtime": "2025-09-22 16:23:58"
+  },
+  {
+    "path": "data/usdm/USDM_2013-08-13.parquet",
+    "size": 43706,
+    "mtime": "2025-09-22 16:24:02"
+  },
+  {
+    "path": "data/usdm/USDM_2013-08-20.parquet",
+    "size": 45962,
+    "mtime": "2025-09-22 16:24:07"
+  },
+  {
+    "path": "data/usdm/USDM_2013-08-27.parquet",
+    "size": 49510,
+    "mtime": "2025-09-22 16:24:11"
+  },
+  {
+    "path": "data/usdm/USDM_2013-09-03.parquet",
+    "size": 51614,
+    "mtime": "2025-09-22 16:24:15"
+  },
+  {
+    "path": "data/usdm/USDM_2013-09-10.parquet",
+    "size": 54318,
+    "mtime": "2025-09-22 16:24:18"
+  },
+  {
+    "path": "data/usdm/USDM_2013-09-17.parquet",
+    "size": 55802,
+    "mtime": "2025-09-22 16:24:22"
+  },
+  {
+    "path": "data/usdm/USDM_2013-09-24.parquet",
+    "size": 53635,
+    "mtime": "2025-09-22 16:24:26"
+  },
+  {
+    "path": "data/usdm/USDM_2013-10-01.parquet",
+    "size": 55808,
+    "mtime": "2025-09-22 16:24:30"
+  },
+  {
+    "path": "data/usdm/USDM_2013-10-08.parquet",
+    "size": 54029,
+    "mtime": "2025-09-22 16:24:36"
+  },
+  {
+    "path": "data/usdm/USDM_2013-10-15.parquet",
+    "size": 49407,
+    "mtime": "2025-09-22 16:24:39"
+  },
+  {
+    "path": "data/usdm/USDM_2013-10-22.parquet",
+    "size": 51379,
+    "mtime": "2025-09-22 16:24:42"
+  },
+  {
+    "path": "data/usdm/USDM_2013-10-29.parquet",
+    "size": 52860,
+    "mtime": "2025-09-22 16:24:46"
+  },
+  {
+    "path": "data/usdm/USDM_2013-11-05.parquet",
+    "size": 51306,
+    "mtime": "2025-09-22 16:24:50"
+  },
+  {
+    "path": "data/usdm/USDM_2013-11-12.parquet",
+    "size": 53186,
+    "mtime": "2025-09-22 16:24:55"
+  },
+  {
+    "path": "data/usdm/USDM_2013-11-19.parquet",
+    "size": 55022,
+    "mtime": "2025-09-22 16:25:02"
+  },
+  {
+    "path": "data/usdm/USDM_2013-11-26.parquet",
+    "size": 54077,
+    "mtime": "2025-09-22 16:25:11"
+  },
+  {
+    "path": "data/usdm/USDM_2013-12-03.parquet",
+    "size": 52163,
+    "mtime": "2025-09-22 16:25:18"
+  },
+  {
+    "path": "data/usdm/USDM_2013-12-10.parquet",
+    "size": 50706,
+    "mtime": "2025-09-22 16:25:26"
+  },
+  {
+    "path": "data/usdm/USDM_2013-12-17.parquet",
+    "size": 50548,
+    "mtime": "2025-09-22 16:25:34"
+  },
+  {
+    "path": "data/usdm/USDM_2013-12-24.parquet",
+    "size": 46755,
+    "mtime": "2025-09-22 16:25:39"
+  },
+  {
+    "path": "data/usdm/USDM_2013-12-31.parquet",
+    "size": 44587,
+    "mtime": "2025-09-22 16:25:46"
+  },
+  {
+    "path": "data/usdm/USDM_2014-01-07.parquet",
+    "size": 44989,
+    "mtime": "2025-09-22 16:25:53"
+  },
+  {
+    "path": "data/usdm/USDM_2014-01-14.parquet",
+    "size": 42364,
+    "mtime": "2025-09-22 16:25:56"
+  },
+  {
+    "path": "data/usdm/USDM_2014-01-21.parquet",
+    "size": 42723,
+    "mtime": "2025-09-22 16:25:59"
+  },
+  {
+    "path": "data/usdm/USDM_2014-01-28.parquet",
+    "size": 46160,
+    "mtime": "2025-09-22 16:26:03"
+  },
+  {
+    "path": "data/usdm/USDM_2014-02-04.parquet",
+    "size": 46247,
+    "mtime": "2025-09-22 16:26:06"
+  },
+  {
+    "path": "data/usdm/USDM_2014-02-11.parquet",
+    "size": 46562,
+    "mtime": "2025-09-22 16:26:09"
+  },
+  {
+    "path": "data/usdm/USDM_2014-02-18.parquet",
+    "size": 44964,
+    "mtime": "2025-09-22 16:26:13"
+  },
+  {
+    "path": "data/usdm/USDM_2014-02-25.parquet",
+    "size": 43218,
+    "mtime": "2025-09-22 16:26:17"
+  },
+  {
+    "path": "data/usdm/USDM_2014-03-04.parquet",
+    "size": 42980,
+    "mtime": "2025-09-22 16:26:20"
+  },
+  {
+    "path": "data/usdm/USDM_2014-03-11.parquet",
+    "size": 45388,
+    "mtime": "2025-09-22 16:26:24"
+  },
+  {
+    "path": "data/usdm/USDM_2014-03-18.parquet",
+    "size": 44272,
+    "mtime": "2025-09-22 16:26:29"
+  },
+  {
+    "path": "data/usdm/USDM_2014-03-25.parquet",
+    "size": 44639,
+    "mtime": "2025-09-22 16:26:34"
+  },
+  {
+    "path": "data/usdm/USDM_2014-04-01.parquet",
+    "size": 45750,
+    "mtime": "2025-09-22 16:26:39"
+  },
+  {
+    "path": "data/usdm/USDM_2014-04-08.parquet",
+    "size": 40437,
+    "mtime": "2025-09-22 16:26:43"
+  },
+  {
+    "path": "data/usdm/USDM_2014-04-15.parquet",
+    "size": 39990,
+    "mtime": "2025-09-22 16:26:47"
+  },
+  {
+    "path": "data/usdm/USDM_2014-04-22.parquet",
+    "size": 41554,
+    "mtime": "2025-09-22 16:26:51"
+  },
+  {
+    "path": "data/usdm/USDM_2014-04-29.parquet",
+    "size": 40526,
+    "mtime": "2025-09-22 16:26:55"
+  },
+  {
+    "path": "data/usdm/USDM_2014-05-06.parquet",
+    "size": 41746,
+    "mtime": "2025-09-22 16:27:01"
+  },
+  {
+    "path": "data/usdm/USDM_2014-05-13.parquet",
+    "size": 40320,
+    "mtime": "2025-09-22 16:27:08"
+  },
+  {
+    "path": "data/usdm/USDM_2014-05-20.parquet",
+    "size": 38797,
+    "mtime": "2025-09-22 16:27:13"
+  },
+  {
+    "path": "data/usdm/USDM_2014-05-27.parquet",
+    "size": 39675,
+    "mtime": "2025-09-22 16:27:17"
+  },
+  {
+    "path": "data/usdm/USDM_2014-06-03.parquet",
+    "size": 40495,
+    "mtime": "2025-09-22 16:27:23"
+  },
+  {
+    "path": "data/usdm/USDM_2014-06-10.parquet",
+    "size": 39904,
+    "mtime": "2025-09-22 16:27:29"
+  },
+  {
+    "path": "data/usdm/USDM_2014-06-17.parquet",
+    "size": 38062,
+    "mtime": "2025-09-22 16:27:36"
+  },
+  {
+    "path": "data/usdm/USDM_2014-06-24.parquet",
+    "size": 39593,
+    "mtime": "2025-09-22 16:27:44"
+  },
+  {
+    "path": "data/usdm/USDM_2014-07-01.parquet",
+    "size": 36562,
+    "mtime": "2025-09-22 16:27:46"
+  },
+  {
+    "path": "data/usdm/USDM_2014-07-08.parquet",
+    "size": 39457,
+    "mtime": "2025-09-22 16:27:49"
+  },
+  {
+    "path": "data/usdm/USDM_2014-07-15.parquet",
+    "size": 40173,
+    "mtime": "2025-09-22 16:27:52"
+  },
+  {
+    "path": "data/usdm/USDM_2014-07-22.parquet",
+    "size": 40377,
+    "mtime": "2025-09-22 16:27:54"
+  },
+  {
+    "path": "data/usdm/USDM_2014-07-29.parquet",
+    "size": 41975,
+    "mtime": "2025-09-22 16:27:57"
+  },
+  {
+    "path": "data/usdm/USDM_2014-08-05.parquet",
+    "size": 41659,
+    "mtime": "2025-09-22 16:28:00"
+  },
+  {
+    "path": "data/usdm/USDM_2014-08-12.parquet",
+    "size": 41995,
+    "mtime": "2025-09-22 16:28:03"
+  },
+  {
+    "path": "data/usdm/USDM_2014-08-19.parquet",
+    "size": 44706,
+    "mtime": "2025-09-22 16:28:06"
+  },
+  {
+    "path": "data/usdm/USDM_2014-08-26.parquet",
+    "size": 43836,
+    "mtime": "2025-09-22 16:28:09"
+  },
+  {
+    "path": "data/usdm/USDM_2014-09-02.parquet",
+    "size": 42953,
+    "mtime": "2025-09-22 16:28:12"
+  },
+  {
+    "path": "data/usdm/USDM_2014-09-09.parquet",
+    "size": 41097,
+    "mtime": "2025-09-22 16:28:15"
+  },
+  {
+    "path": "data/usdm/USDM_2014-09-16.parquet",
+    "size": 40866,
+    "mtime": "2025-09-22 16:28:18"
+  },
+  {
+    "path": "data/usdm/USDM_2014-09-23.parquet",
+    "size": 43105,
+    "mtime": "2025-09-22 16:28:22"
+  },
+  {
+    "path": "data/usdm/USDM_2014-09-30.parquet",
+    "size": 46441,
+    "mtime": "2025-09-22 16:28:25"
+  },
+  {
+    "path": "data/usdm/USDM_2014-10-07.parquet",
+    "size": 45668,
+    "mtime": "2025-09-22 16:28:29"
+  },
+  {
+    "path": "data/usdm/USDM_2014-10-14.parquet",
+    "size": 40241,
+    "mtime": "2025-09-22 16:28:33"
+  },
+  {
+    "path": "data/usdm/USDM_2014-10-21.parquet",
+    "size": 39385,
+    "mtime": "2025-09-22 16:28:37"
+  },
+  {
+    "path": "data/usdm/USDM_2014-10-28.parquet",
+    "size": 40088,
+    "mtime": "2025-09-22 16:28:40"
+  },
+  {
+    "path": "data/usdm/USDM_2014-11-04.parquet",
+    "size": 43154,
+    "mtime": "2025-09-22 16:28:43"
+  },
+  {
+    "path": "data/usdm/USDM_2014-11-11.parquet",
+    "size": 43470,
+    "mtime": "2025-09-22 16:28:48"
+  },
+  {
+    "path": "data/usdm/USDM_2014-11-18.parquet",
+    "size": 42523,
+    "mtime": "2025-09-22 16:28:52"
+  },
+  {
+    "path": "data/usdm/USDM_2014-11-25.parquet",
+    "size": 41550,
+    "mtime": "2025-09-22 16:28:56"
+  },
+  {
+    "path": "data/usdm/USDM_2014-12-02.parquet",
+    "size": 41239,
+    "mtime": "2025-09-22 16:29:00"
+  },
+  {
+    "path": "data/usdm/USDM_2014-12-09.parquet",
+    "size": 42338,
+    "mtime": "2025-09-22 16:29:03"
+  },
+  {
+    "path": "data/usdm/USDM_2014-12-16.parquet",
+    "size": 42883,
+    "mtime": "2025-09-22 16:29:07"
+  },
+  {
+    "path": "data/usdm/USDM_2014-12-23.parquet",
+    "size": 42672,
+    "mtime": "2025-09-22 16:29:11"
+  },
+  {
+    "path": "data/usdm/USDM_2014-12-30.parquet",
+    "size": 37889,
+    "mtime": "2025-09-22 16:29:15"
+  },
+  {
+    "path": "data/usdm/USDM_2015-01-06.parquet",
+    "size": 35047,
+    "mtime": "2025-09-22 16:29:18"
+  },
+  {
+    "path": "data/usdm/USDM_2015-01-13.parquet",
+    "size": 36081,
+    "mtime": "2025-09-22 16:29:22"
+  },
+  {
+    "path": "data/usdm/USDM_2015-01-20.parquet",
+    "size": 37631,
+    "mtime": "2025-09-22 16:29:25"
+  },
+  {
+    "path": "data/usdm/USDM_2015-01-27.parquet",
+    "size": 41754,
+    "mtime": "2025-09-22 16:29:29"
+  },
+  {
+    "path": "data/usdm/USDM_2015-02-03.parquet",
+    "size": 40923,
+    "mtime": "2025-09-22 16:29:32"
+  },
+  {
+    "path": "data/usdm/USDM_2015-02-10.parquet",
+    "size": 43764,
+    "mtime": "2025-09-22 16:29:36"
+  },
+  {
+    "path": "data/usdm/USDM_2015-02-17.parquet",
+    "size": 46306,
+    "mtime": "2025-09-22 16:29:40"
+  },
+  {
+    "path": "data/usdm/USDM_2015-02-24.parquet",
+    "size": 44920,
+    "mtime": "2025-09-22 16:29:44"
+  },
+  {
+    "path": "data/usdm/USDM_2015-03-03.parquet",
+    "size": 43095,
+    "mtime": "2025-09-22 16:29:48"
+  },
+  {
+    "path": "data/usdm/USDM_2015-03-10.parquet",
+    "size": 41687,
+    "mtime": "2025-09-22 16:29:52"
+  },
+  {
+    "path": "data/usdm/USDM_2015-03-17.parquet",
+    "size": 42725,
+    "mtime": "2025-09-22 16:29:56"
+  },
+  {
+    "path": "data/usdm/USDM_2015-03-24.parquet",
+    "size": 43239,
+    "mtime": "2025-09-22 16:30:02"
+  },
+  {
+    "path": "data/usdm/USDM_2015-03-31.parquet",
+    "size": 45386,
+    "mtime": "2025-09-22 16:30:06"
+  },
+  {
+    "path": "data/usdm/USDM_2015-04-07.parquet",
+    "size": 46752,
+    "mtime": "2025-09-22 16:30:11"
+  },
+  {
+    "path": "data/usdm/USDM_2015-04-14.parquet",
+    "size": 46496,
+    "mtime": "2025-09-22 16:30:16"
+  },
+  {
+    "path": "data/usdm/USDM_2015-04-21.parquet",
+    "size": 41692,
+    "mtime": "2025-09-22 16:30:20"
+  },
+  {
+    "path": "data/usdm/USDM_2015-04-28.parquet",
+    "size": 42501,
+    "mtime": "2025-09-22 16:30:24"
+  },
+  {
+    "path": "data/usdm/USDM_2015-05-05.parquet",
+    "size": 43948,
+    "mtime": "2025-09-22 16:30:29"
+  },
+  {
+    "path": "data/usdm/USDM_2015-05-12.parquet",
+    "size": 43365,
+    "mtime": "2025-09-22 16:30:34"
+  },
+  {
+    "path": "data/usdm/USDM_2015-05-19.parquet",
+    "size": 41731,
+    "mtime": "2025-09-22 16:30:40"
+  },
+  {
+    "path": "data/usdm/USDM_2015-05-26.parquet",
+    "size": 41177,
+    "mtime": "2025-09-22 16:30:45"
+  },
+  {
+    "path": "data/usdm/USDM_2015-06-02.parquet",
+    "size": 36241,
+    "mtime": "2025-09-22 16:31:00"
+  },
+  {
+    "path": "data/usdm/USDM_2015-06-09.parquet",
+    "size": 33525,
+    "mtime": "2025-09-22 16:20:13"
+  },
+  {
+    "path": "data/usdm/USDM_2015-06-16.parquet",
+    "size": 35663,
+    "mtime": "2025-09-22 16:20:21"
+  },
+  {
+    "path": "data/usdm/USDM_2015-06-23.parquet",
+    "size": 35307,
+    "mtime": "2025-09-22 16:20:31"
+  },
+  {
+    "path": "data/usdm/USDM_2015-06-30.parquet",
+    "size": 32830,
+    "mtime": "2025-09-22 16:20:39"
+  },
+  {
+    "path": "data/usdm/USDM_2015-07-07.parquet",
+    "size": 30057,
+    "mtime": "2025-09-22 16:20:46"
+  },
+  {
+    "path": "data/usdm/USDM_2015-07-14.parquet",
+    "size": 29301,
+    "mtime": "2025-09-22 16:20:53"
+  },
+  {
+    "path": "data/usdm/USDM_2015-07-21.parquet",
+    "size": 30349,
+    "mtime": "2025-09-22 16:20:58"
+  },
+  {
+    "path": "data/usdm/USDM_2015-07-28.parquet",
+    "size": 35396,
+    "mtime": "2025-09-22 16:21:05"
+  },
+  {
+    "path": "data/usdm/USDM_2015-08-04.parquet",
+    "size": 38427,
+    "mtime": "2025-09-22 16:21:13"
+  },
+  {
+    "path": "data/usdm/USDM_2015-08-11.parquet",
+    "size": 39534,
+    "mtime": "2025-09-22 16:21:22"
+  },
+  {
+    "path": "data/usdm/USDM_2015-08-18.parquet",
+    "size": 42409,
+    "mtime": "2025-09-22 16:21:30"
+  },
+  {
+    "path": "data/usdm/USDM_2015-08-25.parquet",
+    "size": 42722,
+    "mtime": "2025-09-22 16:21:39"
+  },
+  {
+    "path": "data/usdm/USDM_2015-09-01.parquet",
+    "size": 45943,
+    "mtime": "2025-09-22 16:21:48"
+  },
+  {
+    "path": "data/usdm/USDM_2015-09-08.parquet",
+    "size": 51769,
+    "mtime": "2025-09-22 16:22:00"
+  },
+  {
+    "path": "data/usdm/USDM_2015-09-15.parquet",
+    "size": 53362,
+    "mtime": "2025-09-22 16:22:08"
+  },
+  {
+    "path": "data/usdm/USDM_2015-09-22.parquet",
+    "size": 56124,
+    "mtime": "2025-09-22 16:22:18"
+  },
+  {
+    "path": "data/usdm/USDM_2015-09-29.parquet",
+    "size": 56867,
+    "mtime": "2025-09-22 16:22:25"
+  },
+  {
+    "path": "data/usdm/USDM_2015-10-06.parquet",
+    "size": 49602,
+    "mtime": "2025-09-22 16:22:30"
+  },
+  {
+    "path": "data/usdm/USDM_2015-10-13.parquet",
+    "size": 52281,
+    "mtime": "2025-09-22 16:22:35"
+  },
+  {
+    "path": "data/usdm/USDM_2015-10-20.parquet",
+    "size": 57129,
+    "mtime": "2025-09-22 16:22:41"
+  },
+  {
+    "path": "data/usdm/USDM_2015-10-27.parquet",
+    "size": 50984,
+    "mtime": "2025-09-22 16:22:45"
+  },
+  {
+    "path": "data/usdm/USDM_2015-11-03.parquet",
+    "size": 44846,
+    "mtime": "2025-09-22 16:22:50"
+  },
+  {
+    "path": "data/usdm/USDM_2015-11-10.parquet",
+    "size": 41075,
+    "mtime": "2025-09-22 16:22:54"
+  },
+  {
+    "path": "data/usdm/USDM_2015-11-17.parquet",
+    "size": 38557,
+    "mtime": "2025-09-22 16:22:58"
+  },
+  {
+    "path": "data/usdm/USDM_2015-11-24.parquet",
+    "size": 32001,
+    "mtime": "2025-09-22 16:23:01"
+  },
+  {
+    "path": "data/usdm/USDM_2015-12-01.parquet",
+    "size": 29628,
+    "mtime": "2025-09-22 16:23:04"
+  },
+  {
+    "path": "data/usdm/USDM_2015-12-08.parquet",
+    "size": 27898,
+    "mtime": "2025-09-22 16:23:07"
+  },
+  {
+    "path": "data/usdm/USDM_2015-12-15.parquet",
+    "size": 27142,
+    "mtime": "2025-09-22 16:23:10"
+  },
+  {
+    "path": "data/usdm/USDM_2015-12-22.parquet",
+    "size": 27247,
+    "mtime": "2025-09-22 16:23:13"
+  },
+  {
+    "path": "data/usdm/USDM_2015-12-29.parquet",
+    "size": 26488,
+    "mtime": "2025-09-22 16:23:15"
+  },
+  {
+    "path": "data/usdm/USDM_2016-01-05.parquet",
+    "size": 23467,
+    "mtime": "2025-09-22 16:23:18"
+  },
+  {
+    "path": "data/usdm/USDM_2016-01-12.parquet",
+    "size": 22234,
+    "mtime": "2025-09-22 16:23:20"
+  },
+  {
+    "path": "data/usdm/USDM_2016-01-19.parquet",
+    "size": 21850,
+    "mtime": "2025-09-22 16:23:23"
+  },
+  {
+    "path": "data/usdm/USDM_2016-01-26.parquet",
+    "size": 20563,
+    "mtime": "2025-09-22 16:23:25"
+  },
+  {
+    "path": "data/usdm/USDM_2016-02-02.parquet",
+    "size": 21402,
+    "mtime": "2025-09-22 16:23:28"
+  },
+  {
+    "path": "data/usdm/USDM_2016-02-09.parquet",
+    "size": 21606,
+    "mtime": "2025-09-22 16:23:30"
+  },
+  {
+    "path": "data/usdm/USDM_2016-02-16.parquet",
+    "size": 24584,
+    "mtime": "2025-09-22 16:23:33"
+  },
+  {
+    "path": "data/usdm/USDM_2016-02-23.parquet",
+    "size": 21839,
+    "mtime": "2025-09-22 16:23:35"
+  },
+  {
+    "path": "data/usdm/USDM_2016-03-01.parquet",
+    "size": 22116,
+    "mtime": "2025-09-22 16:23:37"
+  },
+  {
+    "path": "data/usdm/USDM_2016-03-08.parquet",
+    "size": 24201,
+    "mtime": "2025-09-22 16:23:39"
+  },
+  {
+    "path": "data/usdm/USDM_2016-03-15.parquet",
+    "size": 21691,
+    "mtime": "2025-09-22 16:23:41"
+  },
+  {
+    "path": "data/usdm/USDM_2016-03-22.parquet",
+    "size": 22550,
+    "mtime": "2025-09-22 16:23:43"
+  },
+  {
+    "path": "data/usdm/USDM_2016-03-29.parquet",
+    "size": 27274,
+    "mtime": "2025-09-22 16:23:45"
+  },
+  {
+    "path": "data/usdm/USDM_2016-04-05.parquet",
+    "size": 27369,
+    "mtime": "2025-09-22 16:23:48"
+  },
+  {
+    "path": "data/usdm/USDM_2016-04-12.parquet",
+    "size": 30745,
+    "mtime": "2025-09-22 16:23:54"
+  },
+  {
+    "path": "data/usdm/USDM_2016-04-19.parquet",
+    "size": 33517,
+    "mtime": "2025-09-22 16:24:02"
+  },
+  {
+    "path": "data/usdm/USDM_2016-04-26.parquet",
+    "size": 34828,
+    "mtime": "2025-09-22 16:24:10"
+  },
+  {
+    "path": "data/usdm/USDM_2016-05-03.parquet",
+    "size": 30259,
+    "mtime": "2025-09-22 16:24:17"
+  },
+  {
+    "path": "data/usdm/USDM_2016-05-10.parquet",
+    "size": 26899,
+    "mtime": "2025-09-22 16:24:23"
+  },
+  {
+    "path": "data/usdm/USDM_2016-05-17.parquet",
+    "size": 25565,
+    "mtime": "2025-09-22 16:24:28"
+  },
+  {
+    "path": "data/usdm/USDM_2016-05-24.parquet",
+    "size": 25830,
+    "mtime": "2025-09-22 16:24:30"
+  },
+  {
+    "path": "data/usdm/USDM_2016-05-31.parquet",
+    "size": 26763,
+    "mtime": "2025-09-22 16:24:33"
+  },
+  {
+    "path": "data/usdm/USDM_2016-06-07.parquet",
+    "size": 28187,
+    "mtime": "2025-09-22 16:24:37"
+  },
+  {
+    "path": "data/usdm/USDM_2016-06-14.parquet",
+    "size": 31960,
+    "mtime": "2025-09-22 16:24:40"
+  },
+  {
+    "path": "data/usdm/USDM_2016-06-21.parquet",
+    "size": 36659,
+    "mtime": "2025-09-22 16:24:44"
+  },
+  {
+    "path": "data/usdm/USDM_2016-06-28.parquet",
+    "size": 39616,
+    "mtime": "2025-09-22 16:24:48"
+  },
+  {
+    "path": "data/usdm/USDM_2016-07-05.parquet",
+    "size": 41343,
+    "mtime": "2025-09-22 16:24:53"
+  },
+  {
+    "path": "data/usdm/USDM_2016-07-12.parquet",
+    "size": 44323,
+    "mtime": "2025-09-22 16:24:59"
+  },
+  {
+    "path": "data/usdm/USDM_2016-07-19.parquet",
+    "size": 46962,
+    "mtime": "2025-09-22 16:25:09"
+  },
+  {
+    "path": "data/usdm/USDM_2016-07-26.parquet",
+    "size": 49567,
+    "mtime": "2025-09-22 16:25:14"
+  },
+  {
+    "path": "data/usdm/USDM_2016-08-02.parquet",
+    "size": 49858,
+    "mtime": "2025-09-22 16:25:19"
+  },
+  {
+    "path": "data/usdm/USDM_2016-08-09.parquet",
+    "size": 52053,
+    "mtime": "2025-09-22 16:25:26"
+  },
+  {
+    "path": "data/usdm/USDM_2016-08-16.parquet",
+    "size": 48845,
+    "mtime": "2025-09-22 16:25:31"
+  },
+  {
+    "path": "data/usdm/USDM_2016-08-23.parquet",
+    "size": 45715,
+    "mtime": "2025-09-22 16:25:35"
+  },
+  {
+    "path": "data/usdm/USDM_2016-08-30.parquet",
+    "size": 45006,
+    "mtime": "2025-09-22 16:25:41"
+  },
+  {
+    "path": "data/usdm/USDM_2016-09-06.parquet",
+    "size": 41783,
+    "mtime": "2025-09-22 16:25:45"
+  },
+  {
+    "path": "data/usdm/USDM_2016-09-13.parquet",
+    "size": 43578,
+    "mtime": "2025-09-22 16:25:49"
+  },
+  {
+    "path": "data/usdm/USDM_2016-09-20.parquet",
+    "size": 43293,
+    "mtime": "2025-09-22 16:25:53"
+  },
+  {
+    "path": "data/usdm/USDM_2016-09-27.parquet",
+    "size": 46246,
+    "mtime": "2025-09-22 16:25:58"
+  },
+  {
+    "path": "data/usdm/USDM_2016-10-04.parquet",
+    "size": 42668,
+    "mtime": "2025-09-22 16:26:01"
+  },
+  {
+    "path": "data/usdm/USDM_2016-10-11.parquet",
+    "size": 44749,
+    "mtime": "2025-09-22 16:26:05"
+  },
+  {
+    "path": "data/usdm/USDM_2016-10-18.parquet",
+    "size": 46723,
+    "mtime": "2025-09-22 16:26:09"
+  },
+  {
+    "path": "data/usdm/USDM_2016-10-25.parquet",
+    "size": 47497,
+    "mtime": "2025-09-22 16:26:14"
+  },
+  {
+    "path": "data/usdm/USDM_2016-11-01.parquet",
+    "size": 49214,
+    "mtime": "2025-09-22 16:26:18"
+  },
+  {
+    "path": "data/usdm/USDM_2016-11-08.parquet",
+    "size": 49924,
+    "mtime": "2025-09-22 16:26:23"
+  },
+  {
+    "path": "data/usdm/USDM_2016-11-15.parquet",
+    "size": 53581,
+    "mtime": "2025-09-22 16:26:27"
+  },
+  {
+    "path": "data/usdm/USDM_2016-11-22.parquet",
+    "size": 55293,
+    "mtime": "2025-09-22 16:26:32"
+  },
+  {
+    "path": "data/usdm/USDM_2016-11-29.parquet",
+    "size": 56675,
+    "mtime": "2025-09-22 16:26:38"
+  },
+  {
+    "path": "data/usdm/USDM_2016-12-06.parquet",
+    "size": 53897,
+    "mtime": "2025-09-22 16:26:44"
+  },
+  {
+    "path": "data/usdm/USDM_2016-12-13.parquet",
+    "size": 54165,
+    "mtime": "2025-09-22 16:26:50"
+  },
+  {
+    "path": "data/usdm/USDM_2016-12-20.parquet",
+    "size": 53831,
+    "mtime": "2025-09-22 16:26:57"
+  },
+  {
+    "path": "data/usdm/USDM_2016-12-27.parquet",
+    "size": 53429,
+    "mtime": "2025-09-22 16:27:04"
+  },
+  {
+    "path": "data/usdm/USDM_2017-01-03.parquet",
+    "size": 49935,
+    "mtime": "2025-09-22 16:27:14"
+  },
+  {
+    "path": "data/usdm/USDM_2017-01-10.parquet",
+    "size": 48009,
+    "mtime": "2025-09-22 16:27:22"
+  },
+  {
+    "path": "data/usdm/USDM_2017-01-17.parquet",
+    "size": 45627,
+    "mtime": "2025-09-22 16:27:30"
+  },
+  {
+    "path": "data/usdm/USDM_2017-01-24.parquet",
+    "size": 37564,
+    "mtime": "2025-09-22 16:27:34"
+  },
+  {
+    "path": "data/usdm/USDM_2017-01-31.parquet",
+    "size": 36085,
+    "mtime": "2025-09-22 16:27:39"
+  },
+  {
+    "path": "data/usdm/USDM_2017-02-07.parquet",
+    "size": 36484,
+    "mtime": "2025-09-22 16:27:43"
+  },
+  {
+    "path": "data/usdm/USDM_2017-02-14.parquet",
+    "size": 38909,
+    "mtime": "2025-09-22 16:27:48"
+  },
+  {
+    "path": "data/usdm/USDM_2017-02-21.parquet",
+    "size": 39882,
+    "mtime": "2025-09-22 16:27:52"
+  },
+  {
+    "path": "data/usdm/USDM_2017-02-28.parquet",
+    "size": 44631,
+    "mtime": "2025-09-22 16:27:59"
+  },
+  {
+    "path": "data/usdm/USDM_2017-03-07.parquet",
+    "size": 44859,
+    "mtime": "2025-09-22 16:28:07"
+  },
+  {
+    "path": "data/usdm/USDM_2017-03-14.parquet",
+    "size": 44498,
+    "mtime": "2025-09-22 16:28:13"
+  },
+  {
+    "path": "data/usdm/USDM_2017-03-21.parquet",
+    "size": 46796,
+    "mtime": "2025-09-22 16:28:20"
+  },
+  {
+    "path": "data/usdm/USDM_2017-03-28.parquet",
+    "size": 45697,
+    "mtime": "2025-09-22 16:28:29"
+  },
+  {
+    "path": "data/usdm/USDM_2017-04-04.parquet",
+    "size": 39472,
+    "mtime": "2025-09-22 16:28:35"
+  },
+  {
+    "path": "data/usdm/USDM_2017-04-11.parquet",
+    "size": 36789,
+    "mtime": "2025-09-22 16:28:41"
+  },
+  {
+    "path": "data/usdm/USDM_2017-04-18.parquet",
+    "size": 37090,
+    "mtime": "2025-09-22 16:28:46"
+  },
+  {
+    "path": "data/usdm/USDM_2017-04-25.parquet",
+    "size": 32463,
+    "mtime": "2025-09-22 16:28:50"
+  },
+  {
+    "path": "data/usdm/USDM_2017-05-02.parquet",
+    "size": 25575,
+    "mtime": "2025-09-22 16:28:54"
+  },
+  {
+    "path": "data/usdm/USDM_2017-05-09.parquet",
+    "size": 24875,
+    "mtime": "2025-09-22 16:28:56"
+  },
+  {
+    "path": "data/usdm/USDM_2017-05-16.parquet",
+    "size": 25748,
+    "mtime": "2025-09-22 16:29:00"
+  },
+  {
+    "path": "data/usdm/USDM_2017-05-23.parquet",
+    "size": 21268,
+    "mtime": "2025-09-22 16:29:02"
+  },
+  {
+    "path": "data/usdm/USDM_2017-05-30.parquet",
+    "size": 21229,
+    "mtime": "2025-09-22 16:29:05"
+  },
+  {
+    "path": "data/usdm/USDM_2017-06-06.parquet",
+    "size": 18935,
+    "mtime": "2025-09-22 16:29:07"
+  },
+  {
+    "path": "data/usdm/USDM_2017-06-13.parquet",
+    "size": 24930,
+    "mtime": "2025-09-22 16:29:10"
+  },
+  {
+    "path": "data/usdm/USDM_2017-06-20.parquet",
+    "size": 24960,
+    "mtime": "2025-09-22 16:29:13"
+  },
+  {
+    "path": "data/usdm/USDM_2017-06-27.parquet",
+    "size": 24818,
+    "mtime": "2025-09-22 16:29:17"
+  },
+  {
+    "path": "data/usdm/USDM_2017-07-04.parquet",
+    "size": 24343,
+    "mtime": "2025-09-22 16:29:21"
+  },
+  {
+    "path": "data/usdm/USDM_2017-07-11.parquet",
+    "size": 23638,
+    "mtime": "2025-09-22 16:29:24"
+  },
+  {
+    "path": "data/usdm/USDM_2017-07-18.parquet",
+    "size": 29264,
+    "mtime": "2025-09-22 16:29:28"
+  },
+  {
+    "path": "data/usdm/USDM_2017-07-25.parquet",
+    "size": 32593,
+    "mtime": "2025-09-22 16:29:33"
+  },
+  {
+    "path": "data/usdm/USDM_2017-08-01.parquet",
+    "size": 32938,
+    "mtime": "2025-09-22 16:29:38"
+  },
+  {
+    "path": "data/usdm/USDM_2017-08-08.parquet",
+    "size": 30838,
+    "mtime": "2025-09-22 16:29:42"
+  },
+  {
+    "path": "data/usdm/USDM_2017-08-15.parquet",
+    "size": 29793,
+    "mtime": "2025-09-22 16:29:46"
+  },
+  {
+    "path": "data/usdm/USDM_2017-08-22.parquet",
+    "size": 29139,
+    "mtime": "2025-09-22 16:29:50"
+  },
+  {
+    "path": "data/usdm/USDM_2017-08-29.parquet",
+    "size": 28671,
+    "mtime": "2025-09-22 16:29:53"
+  },
+  {
+    "path": "data/usdm/USDM_2017-09-05.parquet",
+    "size": 27641,
+    "mtime": "2025-09-22 16:29:56"
+  },
+  {
+    "path": "data/usdm/USDM_2017-09-12.parquet",
+    "size": 29037,
+    "mtime": "2025-09-22 16:29:59"
+  },
+  {
+    "path": "data/usdm/USDM_2017-09-19.parquet",
+    "size": 33374,
+    "mtime": "2025-09-22 16:30:03"
+  },
+  {
+    "path": "data/usdm/USDM_2017-09-26.parquet",
+    "size": 35190,
+    "mtime": "2025-09-22 16:30:07"
+  },
+  {
+    "path": "data/usdm/USDM_2017-10-03.parquet",
+    "size": 38746,
+    "mtime": "2025-09-22 16:30:10"
+  },
+  {
+    "path": "data/usdm/USDM_2017-10-10.parquet",
+    "size": 39331,
+    "mtime": "2025-09-22 16:30:14"
+  },
+  {
+    "path": "data/usdm/USDM_2017-10-17.parquet",
+    "size": 38669,
+    "mtime": "2025-09-22 16:30:17"
+  },
+  {
+    "path": "data/usdm/USDM_2017-10-24.parquet",
+    "size": 37678,
+    "mtime": "2025-09-22 16:30:21"
+  },
+  {
+    "path": "data/usdm/USDM_2017-10-31.parquet",
+    "size": 34329,
+    "mtime": "2025-09-22 16:30:25"
+  },
+  {
+    "path": "data/usdm/USDM_2017-11-07.parquet",
+    "size": 34760,
+    "mtime": "2025-09-22 16:30:28"
+  },
+  {
+    "path": "data/usdm/USDM_2017-11-14.parquet",
+    "size": 37045,
+    "mtime": "2025-09-22 16:30:31"
+  },
+  {
+    "path": "data/usdm/USDM_2017-11-21.parquet",
+    "size": 38236,
+    "mtime": "2025-09-22 16:30:34"
+  },
+  {
+    "path": "data/usdm/USDM_2017-11-28.parquet",
+    "size": 42345,
+    "mtime": "2025-09-22 16:30:40"
+  },
+  {
+    "path": "data/usdm/USDM_2017-12-05.parquet",
+    "size": 47533,
+    "mtime": "2025-09-22 16:30:47"
+  },
+  {
+    "path": "data/usdm/USDM_2017-12-12.parquet",
+    "size": 49078,
+    "mtime": "2025-09-22 16:30:57"
+  },
+  {
+    "path": "data/usdm/USDM_2017-12-19.parquet",
+    "size": 49443,
+    "mtime": "2025-09-22 16:31:05"
+  },
+  {
+    "path": "data/usdm/USDM_2017-12-26.parquet",
+    "size": 48405,
+    "mtime": "2025-09-22 16:31:14"
+  },
+  {
+    "path": "data/usdm/USDM_2018-01-02.parquet",
+    "size": 51054,
+    "mtime": "2025-09-22 16:31:22"
+  },
+  {
+    "path": "data/usdm/USDM_2018-01-09.parquet",
+    "size": 51995,
+    "mtime": "2025-09-22 16:20:09"
+  },
+  {
+    "path": "data/usdm/USDM_2018-01-16.parquet",
+    "size": 54067,
+    "mtime": "2025-09-22 16:20:16"
+  },
+  {
+    "path": "data/usdm/USDM_2018-01-23.parquet",
+    "size": 55118,
+    "mtime": "2025-09-22 16:20:22"
+  },
+  {
+    "path": "data/usdm/USDM_2018-01-30.parquet",
+    "size": 57165,
+    "mtime": "2025-09-22 16:20:37"
+  },
+  {
+    "path": "data/usdm/USDM_2018-02-06.parquet",
+    "size": 57291,
+    "mtime": "2025-09-22 16:20:50"
+  },
+  {
+    "path": "data/usdm/USDM_2018-02-13.parquet",
+    "size": 49736,
+    "mtime": "2025-09-22 16:21:01"
+  },
+  {
+    "path": "data/usdm/USDM_2018-02-20.parquet",
+    "size": 48816,
+    "mtime": "2025-09-22 16:21:12"
+  },
+  {
+    "path": "data/usdm/USDM_2018-02-27.parquet",
+    "size": 42916,
+    "mtime": "2025-09-22 16:21:20"
+  },
+  {
+    "path": "data/usdm/USDM_2018-03-06.parquet",
+    "size": 41328,
+    "mtime": "2025-09-22 16:21:26"
+  },
+  {
+    "path": "data/usdm/USDM_2018-03-13.parquet",
+    "size": 41203,
+    "mtime": "2025-09-22 16:21:33"
+  },
+  {
+    "path": "data/usdm/USDM_2018-03-20.parquet",
+    "size": 40423,
+    "mtime": "2025-09-22 16:21:40"
+  },
+  {
+    "path": "data/usdm/USDM_2018-03-27.parquet",
+    "size": 40720,
+    "mtime": "2025-09-22 16:21:48"
+  },
+  {
+    "path": "data/usdm/USDM_2018-04-03.parquet",
+    "size": 39982,
+    "mtime": "2025-09-22 16:21:56"
+  },
+  {
+    "path": "data/usdm/USDM_2018-04-10.parquet",
+    "size": 40744,
+    "mtime": "2025-09-22 16:22:03"
+  },
+  {
+    "path": "data/usdm/USDM_2018-04-17.parquet",
+    "size": 37177,
+    "mtime": "2025-09-22 16:22:10"
+  },
+  {
+    "path": "data/usdm/USDM_2018-04-24.parquet",
+    "size": 35899,
+    "mtime": "2025-09-22 16:22:17"
+  },
+  {
+    "path": "data/usdm/USDM_2018-05-01.parquet",
+    "size": 36089,
+    "mtime": "2025-09-22 16:22:24"
+  },
+  {
+    "path": "data/usdm/USDM_2018-05-08.parquet",
+    "size": 37220,
+    "mtime": "2025-09-22 16:22:33"
+  },
+  {
+    "path": "data/usdm/USDM_2018-05-15.parquet",
+    "size": 39331,
+    "mtime": "2025-09-22 16:22:41"
+  },
+  {
+    "path": "data/usdm/USDM_2018-05-22.parquet",
+    "size": 35747,
+    "mtime": "2025-09-22 16:22:45"
+  },
+  {
+    "path": "data/usdm/USDM_2018-05-29.parquet",
+    "size": 34839,
+    "mtime": "2025-09-22 16:22:49"
+  },
+  {
+    "path": "data/usdm/USDM_2018-06-05.parquet",
+    "size": 38665,
+    "mtime": "2025-09-22 16:22:53"
+  },
+  {
+    "path": "data/usdm/USDM_2018-06-12.parquet",
+    "size": 39946,
+    "mtime": "2025-09-22 16:22:58"
+  },
+  {
+    "path": "data/usdm/USDM_2018-06-19.parquet",
+    "size": 40344,
+    "mtime": "2025-09-22 16:23:04"
+  },
+  {
+    "path": "data/usdm/USDM_2018-06-26.parquet",
+    "size": 43762,
+    "mtime": "2025-09-22 16:23:12"
+  },
+  {
+    "path": "data/usdm/USDM_2018-07-03.parquet",
+    "size": 43931,
+    "mtime": "2025-09-22 16:23:20"
+  },
+  {
+    "path": "data/usdm/USDM_2018-07-10.parquet",
+    "size": 44899,
+    "mtime": "2025-09-22 16:23:27"
+  },
+  {
+    "path": "data/usdm/USDM_2018-07-17.parquet",
+    "size": 46755,
+    "mtime": "2025-09-22 16:23:35"
+  },
+  {
+    "path": "data/usdm/USDM_2018-07-24.parquet",
+    "size": 49662,
+    "mtime": "2025-09-22 16:23:43"
+  },
+  {
+    "path": "data/usdm/USDM_2018-07-31.parquet",
+    "size": 49550,
+    "mtime": "2025-09-22 16:23:51"
+  },
+  {
+    "path": "data/usdm/USDM_2018-08-07.parquet",
+    "size": 50504,
+    "mtime": "2025-09-22 16:23:58"
+  },
+  {
+    "path": "data/usdm/USDM_2018-08-14.parquet",
+    "size": 54221,
+    "mtime": "2025-09-22 16:24:06"
+  },
+  {
+    "path": "data/usdm/USDM_2018-08-21.parquet",
+    "size": 52428,
+    "mtime": "2025-09-22 16:24:14"
+  },
+  {
+    "path": "data/usdm/USDM_2018-08-28.parquet",
+    "size": 51389,
+    "mtime": "2025-09-22 16:24:20"
+  },
+  {
+    "path": "data/usdm/USDM_2018-09-04.parquet",
+    "size": 49799,
+    "mtime": "2025-09-22 16:24:27"
+  },
+  {
+    "path": "data/usdm/USDM_2018-09-11.parquet",
+    "size": 43757,
+    "mtime": "2025-09-22 16:24:33"
+  },
+  {
+    "path": "data/usdm/USDM_2018-09-18.parquet",
+    "size": 42824,
+    "mtime": "2025-09-22 16:24:39"
+  },
+  {
+    "path": "data/usdm/USDM_2018-09-25.parquet",
+    "size": 41108,
+    "mtime": "2025-09-22 16:24:44"
+  },
+  {
+    "path": "data/usdm/USDM_2018-10-02.parquet",
+    "size": 39921,
+    "mtime": "2025-09-22 16:24:49"
+  },
+  {
+    "path": "data/usdm/USDM_2018-10-09.parquet",
+    "size": 35947,
+    "mtime": "2025-09-22 16:24:55"
+  },
+  {
+    "path": "data/usdm/USDM_2018-10-16.parquet",
+    "size": 29045,
+    "mtime": "2025-09-22 16:25:00"
+  },
+  {
+    "path": "data/usdm/USDM_2018-10-23.parquet",
+    "size": 28377,
+    "mtime": "2025-09-22 16:25:05"
+  },
+  {
+    "path": "data/usdm/USDM_2018-10-30.parquet",
+    "size": 26002,
+    "mtime": "2025-09-22 16:25:10"
+  },
+  {
+    "path": "data/usdm/USDM_2018-11-06.parquet",
+    "size": 23860,
+    "mtime": "2025-09-22 16:25:15"
+  },
+  {
+    "path": "data/usdm/USDM_2018-11-13.parquet",
+    "size": 22338,
+    "mtime": "2025-09-22 16:25:20"
+  },
+  {
+    "path": "data/usdm/USDM_2018-11-20.parquet",
+    "size": 21936,
+    "mtime": "2025-09-22 16:25:24"
+  },
+  {
+    "path": "data/usdm/USDM_2018-11-27.parquet",
+    "size": 22624,
+    "mtime": "2025-09-22 16:25:28"
+  },
+  {
+    "path": "data/usdm/USDM_2018-12-04.parquet",
+    "size": 20691,
+    "mtime": "2025-09-22 16:25:31"
+  },
+  {
+    "path": "data/usdm/USDM_2018-12-11.parquet",
+    "size": 20641,
+    "mtime": "2025-09-22 16:25:35"
+  },
+  {
+    "path": "data/usdm/USDM_2018-12-18.parquet",
+    "size": 21906,
+    "mtime": "2025-09-22 16:25:40"
+  },
+  {
+    "path": "data/usdm/USDM_2018-12-25.parquet",
+    "size": 22085,
+    "mtime": "2025-09-22 16:25:44"
+  },
+  {
+    "path": "data/usdm/USDM_2019-01-01.parquet",
+    "size": 20228,
+    "mtime": "2025-09-22 16:25:48"
+  },
+  {
+    "path": "data/usdm/USDM_2019-01-08.parquet",
+    "size": 19589,
+    "mtime": "2025-09-22 16:25:52"
+  },
+  {
+    "path": "data/usdm/USDM_2019-01-15.parquet",
+    "size": 19793,
+    "mtime": "2025-09-22 16:25:57"
+  },
+  {
+    "path": "data/usdm/USDM_2019-01-22.parquet",
+    "size": 19646,
+    "mtime": "2025-09-22 16:26:01"
+  },
+  {
+    "path": "data/usdm/USDM_2019-01-29.parquet",
+    "size": 18943,
+    "mtime": "2025-09-22 16:26:05"
+  },
+  {
+    "path": "data/usdm/USDM_2019-02-05.parquet",
+    "size": 19094,
+    "mtime": "2025-09-22 16:26:08"
+  },
+  {
+    "path": "data/usdm/USDM_2019-02-12.parquet",
+    "size": 20704,
+    "mtime": "2025-09-22 16:26:12"
+  },
+  {
+    "path": "data/usdm/USDM_2019-02-19.parquet",
+    "size": 21109,
+    "mtime": "2025-09-22 16:26:16"
+  },
+  {
+    "path": "data/usdm/USDM_2019-02-26.parquet",
+    "size": 20364,
+    "mtime": "2025-09-22 16:26:20"
+  },
+  {
+    "path": "data/usdm/USDM_2019-03-05.parquet",
+    "size": 20275,
+    "mtime": "2025-09-22 16:26:23"
+  },
+  {
+    "path": "data/usdm/USDM_2019-03-12.parquet",
+    "size": 19716,
+    "mtime": "2025-09-22 16:26:27"
+  },
+  {
+    "path": "data/usdm/USDM_2019-03-19.parquet",
+    "size": 18846,
+    "mtime": "2025-09-22 16:26:30"
+  },
+  {
+    "path": "data/usdm/USDM_2019-03-26.parquet",
+    "size": 20740,
+    "mtime": "2025-09-22 16:26:34"
+  },
+  {
+    "path": "data/usdm/USDM_2019-04-02.parquet",
+    "size": 21994,
+    "mtime": "2025-09-22 16:26:39"
+  },
+  {
+    "path": "data/usdm/USDM_2019-04-09.parquet",
+    "size": 21494,
+    "mtime": "2025-09-22 16:26:44"
+  },
+  {
+    "path": "data/usdm/USDM_2019-04-16.parquet",
+    "size": 19140,
+    "mtime": "2025-09-22 16:26:48"
+  },
+  {
+    "path": "data/usdm/USDM_2019-04-23.parquet",
+    "size": 17097,
+    "mtime": "2025-09-22 16:26:52"
+  },
+  {
+    "path": "data/usdm/USDM_2019-04-30.parquet",
+    "size": 16190,
+    "mtime": "2025-09-22 16:26:56"
+  },
+  {
+    "path": "data/usdm/USDM_2019-05-07.parquet",
+    "size": 15316,
+    "mtime": "2025-09-22 16:27:01"
+  },
+  {
+    "path": "data/usdm/USDM_2019-05-14.parquet",
+    "size": 14206,
+    "mtime": "2025-09-22 16:27:07"
+  },
+  {
+    "path": "data/usdm/USDM_2019-05-21.parquet",
+    "size": 15411,
+    "mtime": "2025-09-22 16:27:11"
+  },
+  {
+    "path": "data/usdm/USDM_2019-05-28.parquet",
+    "size": 19685,
+    "mtime": "2025-09-22 16:27:15"
+  },
+  {
+    "path": "data/usdm/USDM_2019-06-04.parquet",
+    "size": 20384,
+    "mtime": "2025-09-22 16:27:20"
+  },
+  {
+    "path": "data/usdm/USDM_2019-06-11.parquet",
+    "size": 18149,
+    "mtime": "2025-09-22 16:27:24"
+  },
+  {
+    "path": "data/usdm/USDM_2019-06-18.parquet",
+    "size": 18728,
+    "mtime": "2025-09-22 16:27:27"
+  },
+  {
+    "path": "data/usdm/USDM_2019-06-25.parquet",
+    "size": 17437,
+    "mtime": "2025-09-22 16:27:31"
+  },
+  {
+    "path": "data/usdm/USDM_2019-07-02.parquet",
+    "size": 18274,
+    "mtime": "2025-09-22 16:27:37"
+  },
+  {
+    "path": "data/usdm/USDM_2019-07-09.parquet",
+    "size": 19430,
+    "mtime": "2025-09-22 16:27:43"
+  },
+  {
+    "path": "data/usdm/USDM_2019-07-16.parquet",
+    "size": 18670,
+    "mtime": "2025-09-22 16:27:48"
+  },
+  {
+    "path": "data/usdm/USDM_2019-07-23.parquet",
+    "size": 20526,
+    "mtime": "2025-09-22 16:27:53"
+  },
+  {
+    "path": "data/usdm/USDM_2019-07-30.parquet",
+    "size": 22981,
+    "mtime": "2025-09-22 16:27:58"
+  },
+  {
+    "path": "data/usdm/USDM_2019-08-06.parquet",
+    "size": 27985,
+    "mtime": "2025-09-22 16:28:04"
+  },
+  {
+    "path": "data/usdm/USDM_2019-08-13.parquet",
+    "size": 35830,
+    "mtime": "2025-09-22 16:28:10"
+  },
+  {
+    "path": "data/usdm/USDM_2019-08-20.parquet",
+    "size": 38492,
+    "mtime": "2025-09-22 16:28:18"
+  },
+  {
+    "path": "data/usdm/USDM_2019-08-27.parquet",
+    "size": 39206,
+    "mtime": "2025-09-22 16:28:27"
+  },
+  {
+    "path": "data/usdm/USDM_2019-09-03.parquet",
+    "size": 38559,
+    "mtime": "2025-09-22 16:28:35"
+  },
+  {
+    "path": "data/usdm/USDM_2019-09-10.parquet",
+    "size": 44939,
+    "mtime": "2025-09-22 16:28:44"
+  },
+  {
+    "path": "data/usdm/USDM_2019-09-17.parquet",
+    "size": 51271,
+    "mtime": "2025-09-22 16:28:53"
+  },
+  {
+    "path": "data/usdm/USDM_2019-09-24.parquet",
+    "size": 56858,
+    "mtime": "2025-09-22 16:29:03"
+  },
+  {
+    "path": "data/usdm/USDM_2019-10-01.parquet",
+    "size": 58020,
+    "mtime": "2025-09-22 16:29:13"
+  },
+  {
+    "path": "data/usdm/USDM_2019-10-08.parquet",
+    "size": 55132,
+    "mtime": "2025-09-22 16:29:25"
+  },
+  {
+    "path": "data/usdm/USDM_2019-10-15.parquet",
+    "size": 55155,
+    "mtime": "2025-09-22 16:29:38"
+  },
+  {
+    "path": "data/usdm/USDM_2019-10-22.parquet",
+    "size": 52011,
+    "mtime": "2025-09-22 16:29:47"
+  },
+  {
+    "path": "data/usdm/USDM_2019-10-29.parquet",
+    "size": 44150,
+    "mtime": "2025-09-22 16:29:54"
+  },
+  {
+    "path": "data/usdm/USDM_2019-11-05.parquet",
+    "size": 34806,
+    "mtime": "2025-09-22 16:30:03"
+  },
+  {
+    "path": "data/usdm/USDM_2019-11-12.parquet",
+    "size": 31667,
+    "mtime": "2025-09-22 16:30:10"
+  },
+  {
+    "path": "data/usdm/USDM_2019-11-19.parquet",
+    "size": 30215,
+    "mtime": "2025-09-22 16:30:19"
+  },
+  {
+    "path": "data/usdm/USDM_2019-11-26.parquet",
+    "size": 30353,
+    "mtime": "2025-09-22 16:30:29"
+  },
+  {
+    "path": "data/usdm/USDM_2019-12-03.parquet",
+    "size": 28244,
+    "mtime": "2025-09-22 16:30:36"
+  },
+  {
+    "path": "data/usdm/USDM_2019-12-10.parquet",
+    "size": 27523,
+    "mtime": "2025-09-22 16:30:42"
+  },
+  {
+    "path": "data/usdm/USDM_2019-12-17.parquet",
+    "size": 27519,
+    "mtime": "2025-09-22 16:30:48"
+  },
+  {
+    "path": "data/usdm/USDM_2019-12-24.parquet",
+    "size": 25277,
+    "mtime": "2025-09-22 16:30:58"
+  },
+  {
+    "path": "data/usdm/USDM_2019-12-31.parquet",
+    "size": 24346,
+    "mtime": "2025-09-22 16:31:03"
+  },
+  {
+    "path": "data/usdm/USDM_2020-01-07.parquet",
+    "size": 23628,
+    "mtime": "2025-09-22 16:31:08"
+  },
+  {
+    "path": "data/usdm/USDM_2020-01-14.parquet",
+    "size": 22001,
+    "mtime": "2025-09-22 16:31:12"
+  },
+  {
+    "path": "data/usdm/USDM_2020-01-21.parquet",
+    "size": 23076,
+    "mtime": "2025-09-22 16:31:18"
+  },
+  {
+    "path": "data/usdm/USDM_2020-01-28.parquet",
+    "size": 24220,
+    "mtime": "2025-09-22 16:31:25"
+  },
+  {
+    "path": "data/usdm/USDM_2020-02-04.parquet",
+    "size": 23823,
+    "mtime": "2025-09-22 16:31:31"
+  },
+  {
+    "path": "data/usdm/USDM_2020-02-11.parquet",
+    "size": 21259,
+    "mtime": "2025-09-22 16:31:36"
+  },
+  {
+    "path": "data/usdm/USDM_2020-02-18.parquet",
+    "size": 19659,
+    "mtime": "2025-09-22 16:31:42"
+  },
+  {
+    "path": "data/usdm/USDM_2020-02-25.parquet",
+    "size": 18181,
+    "mtime": "2025-09-22 16:31:47"
+  },
+  {
+    "path": "data/usdm/USDM_2020-03-03.parquet",
+    "size": 18349,
+    "mtime": "2025-09-22 16:31:53"
+  },
+  {
+    "path": "data/usdm/USDM_2020-03-10.parquet",
+    "size": 18211,
+    "mtime": "2025-09-22 16:31:56"
+  },
+  {
+    "path": "data/usdm/USDM_2020-03-17.parquet",
+    "size": 19842,
+    "mtime": "2025-09-22 16:32:00"
+  },
+  {
+    "path": "data/usdm/USDM_2020-03-24.parquet",
+    "size": 19358,
+    "mtime": "2025-09-22 16:32:05"
+  },
+  {
+    "path": "data/usdm/USDM_2020-03-31.parquet",
+    "size": 19397,
+    "mtime": "2025-09-22 16:32:08"
+  },
+  {
+    "path": "data/usdm/USDM_2020-04-07.parquet",
+    "size": 20080,
+    "mtime": "2025-09-22 16:32:11"
+  },
+  {
+    "path": "data/usdm/USDM_2020-04-14.parquet",
+    "size": 20905,
+    "mtime": "2025-09-22 16:32:14"
+  },
+  {
+    "path": "data/usdm/USDM_2020-04-21.parquet",
+    "size": 22417,
+    "mtime": "2025-09-22 16:32:17"
+  },
+  {
+    "path": "data/usdm/USDM_2020-04-28.parquet",
+    "size": 23756,
+    "mtime": "2025-09-22 16:32:20"
+  },
+  {
+    "path": "data/usdm/USDM_2020-05-05.parquet",
+    "size": 24442,
+    "mtime": "2025-09-22 16:32:24"
+  },
+  {
+    "path": "data/usdm/USDM_2020-05-12.parquet",
+    "size": 28751,
+    "mtime": "2025-09-22 16:32:29"
+  },
+  {
+    "path": "data/usdm/USDM_2020-05-19.parquet",
+    "size": 29523,
+    "mtime": "2025-09-22 16:32:34"
+  },
+  {
+    "path": "data/usdm/USDM_2020-05-26.parquet",
+    "size": 28321,
+    "mtime": "2025-09-22 16:32:40"
+  },
+  {
+    "path": "data/usdm/USDM_2020-06-02.parquet",
+    "size": 27719,
+    "mtime": "2025-09-22 16:32:45"
+  },
+  {
+    "path": "data/usdm/USDM_2020-06-09.parquet",
+    "size": 30232,
+    "mtime": "2025-09-22 16:32:50"
+  },
+  {
+    "path": "data/usdm/USDM_2020-06-16.parquet",
+    "size": 36796,
+    "mtime": "2025-09-22 16:32:56"
+  },
+  {
+    "path": "data/usdm/USDM_2020-06-23.parquet",
+    "size": 38537,
+    "mtime": "2025-09-22 16:33:01"
+  },
+  {
+    "path": "data/usdm/USDM_2020-06-30.parquet",
+    "size": 40614,
+    "mtime": "2025-09-22 16:33:07"
+  },
+  {
+    "path": "data/usdm/USDM_2020-07-07.parquet",
+    "size": 45236,
+    "mtime": "2025-09-22 16:33:15"
+  },
+  {
+    "path": "data/usdm/USDM_2020-07-14.parquet",
+    "size": 49373,
+    "mtime": "2025-09-22 16:33:24"
+  },
+  {
+    "path": "data/usdm/USDM_2020-07-21.parquet",
+    "size": 56207,
+    "mtime": "2025-09-22 16:33:33"
+  },
+  {
+    "path": "data/usdm/USDM_2020-07-28.parquet",
+    "size": 58644,
+    "mtime": "2025-09-22 16:33:42"
+  },
+  {
+    "path": "data/usdm/USDM_2020-08-04.parquet",
+    "size": 50498,
+    "mtime": "2025-09-22 16:20:13"
+  },
+  {
+    "path": "data/usdm/USDM_2020-08-11.parquet",
+    "size": 49047,
+    "mtime": "2025-09-22 16:20:21"
+  },
+  {
+    "path": "data/usdm/USDM_2020-08-18.parquet",
+    "size": 49056,
+    "mtime": "2025-09-22 16:20:29"
+  },
+  {
+    "path": "data/usdm/USDM_2020-08-25.parquet",
+    "size": 49752,
+    "mtime": "2025-09-22 16:20:38"
+  },
+  {
+    "path": "data/usdm/USDM_2020-09-01.parquet",
+    "size": 49251,
+    "mtime": "2025-09-22 16:20:47"
+  },
+  {
+    "path": "data/usdm/USDM_2020-09-08.parquet",
+    "size": 49394,
+    "mtime": "2025-09-22 16:20:55"
+  },
+  {
+    "path": "data/usdm/USDM_2020-09-15.parquet",
+    "size": 47537,
+    "mtime": "2025-09-22 16:21:06"
+  },
+  {
+    "path": "data/usdm/USDM_2020-09-22.parquet",
+    "size": 47366,
+    "mtime": "2025-09-22 16:21:15"
+  },
+  {
+    "path": "data/usdm/USDM_2020-09-29.parquet",
+    "size": 49897,
+    "mtime": "2025-09-22 16:21:25"
+  },
+  {
+    "path": "data/usdm/USDM_2020-10-06.parquet",
+    "size": 52933,
+    "mtime": "2025-09-22 16:21:34"
+  },
+  {
+    "path": "data/usdm/USDM_2020-10-13.parquet",
+    "size": 52085,
+    "mtime": "2025-09-22 16:21:43"
+  },
+  {
+    "path": "data/usdm/USDM_2020-10-20.parquet",
+    "size": 53381,
+    "mtime": "2025-09-22 16:21:51"
+  },
+  {
+    "path": "data/usdm/USDM_2020-10-27.parquet",
+    "size": 53321,
+    "mtime": "2025-09-22 16:22:00"
+  },
+  {
+    "path": "data/usdm/USDM_2020-11-03.parquet",
+    "size": 50486,
+    "mtime": "2025-09-22 16:22:08"
+  },
+  {
+    "path": "data/usdm/USDM_2020-11-10.parquet",
+    "size": 53468,
+    "mtime": "2025-09-22 16:22:15"
+  },
+  {
+    "path": "data/usdm/USDM_2020-11-17.parquet",
+    "size": 53974,
+    "mtime": "2025-09-22 16:22:24"
+  },
+  {
+    "path": "data/usdm/USDM_2020-11-24.parquet",
+    "size": 57218,
+    "mtime": "2025-09-22 16:22:33"
+  },
+  {
+    "path": "data/usdm/USDM_2020-12-01.parquet",
+    "size": 55601,
+    "mtime": "2025-09-22 16:22:42"
+  },
+  {
+    "path": "data/usdm/USDM_2020-12-08.parquet",
+    "size": 56150,
+    "mtime": "2025-09-22 16:22:51"
+  },
+  {
+    "path": "data/usdm/USDM_2020-12-15.parquet",
+    "size": 56032,
+    "mtime": "2025-09-22 16:22:58"
+  },
+  {
+    "path": "data/usdm/USDM_2020-12-22.parquet",
+    "size": 55901,
+    "mtime": "2025-09-22 16:23:06"
+  },
+  {
+    "path": "data/usdm/USDM_2020-12-29.parquet",
+    "size": 54166,
+    "mtime": "2025-09-22 16:23:12"
+  },
+  {
+    "path": "data/usdm/USDM_2021-01-05.parquet",
+    "size": 49372,
+    "mtime": "2025-09-22 16:23:16"
+  },
+  {
+    "path": "data/usdm/USDM_2021-01-12.parquet",
+    "size": 47529,
+    "mtime": "2025-09-22 16:23:21"
+  },
+  {
+    "path": "data/usdm/USDM_2021-01-19.parquet",
+    "size": 49391,
+    "mtime": "2025-09-22 16:23:27"
+  },
+  {
+    "path": "data/usdm/USDM_2021-01-26.parquet",
+    "size": 49193,
+    "mtime": "2025-09-22 16:23:31"
+  },
+  {
+    "path": "data/usdm/USDM_2021-02-02.parquet",
+    "size": 50282,
+    "mtime": "2025-09-22 16:23:37"
+  },
+  {
+    "path": "data/usdm/USDM_2021-02-09.parquet",
+    "size": 50588,
+    "mtime": "2025-09-22 16:23:42"
+  },
+  {
+    "path": "data/usdm/USDM_2021-02-16.parquet",
+    "size": 49374,
+    "mtime": "2025-09-22 16:23:47"
+  },
+  {
+    "path": "data/usdm/USDM_2021-02-23.parquet",
+    "size": 49147,
+    "mtime": "2025-09-22 16:23:52"
+  },
+  {
+    "path": "data/usdm/USDM_2021-03-02.parquet",
+    "size": 48098,
+    "mtime": "2025-09-22 16:23:58"
+  },
+  {
+    "path": "data/usdm/USDM_2021-03-09.parquet",
+    "size": 52151,
+    "mtime": "2025-09-22 16:24:05"
+  },
+  {
+    "path": "data/usdm/USDM_2021-03-16.parquet",
+    "size": 51479,
+    "mtime": "2025-09-22 16:24:13"
+  },
+  {
+    "path": "data/usdm/USDM_2021-03-23.parquet",
+    "size": 49733,
+    "mtime": "2025-09-22 16:24:20"
+  },
+  {
+    "path": "data/usdm/USDM_2021-03-30.parquet",
+    "size": 48337,
+    "mtime": "2025-09-22 16:24:28"
+  },
+  {
+    "path": "data/usdm/USDM_2021-04-06.parquet",
+    "size": 49324,
+    "mtime": "2025-09-22 16:24:36"
+  },
+  {
+    "path": "data/usdm/USDM_2021-04-13.parquet",
+    "size": 47600,
+    "mtime": "2025-09-22 16:24:42"
+  },
+  {
+    "path": "data/usdm/USDM_2021-04-20.parquet",
+    "size": 50868,
+    "mtime": "2025-09-22 16:24:48"
+  },
+  {
+    "path": "data/usdm/USDM_2021-04-27.parquet",
+    "size": 53850,
+    "mtime": "2025-09-22 16:24:59"
+  },
+  {
+    "path": "data/usdm/USDM_2021-05-04.parquet",
+    "size": 51893,
+    "mtime": "2025-09-22 16:25:10"
+  },
+  {
+    "path": "data/usdm/USDM_2021-05-11.parquet",
+    "size": 48694,
+    "mtime": "2025-09-22 16:25:19"
+  },
+  {
+    "path": "data/usdm/USDM_2021-05-18.parquet",
+    "size": 49119,
+    "mtime": "2025-09-22 16:25:27"
+  },
+  {
+    "path": "data/usdm/USDM_2021-05-25.parquet",
+    "size": 51206,
+    "mtime": "2025-09-22 16:25:35"
+  },
+  {
+    "path": "data/usdm/USDM_2021-06-01.parquet",
+    "size": 50253,
+    "mtime": "2025-09-22 16:25:43"
+  },
+  {
+    "path": "data/usdm/USDM_2021-06-08.parquet",
+    "size": 50308,
+    "mtime": "2025-09-22 16:25:50"
+  },
+  {
+    "path": "data/usdm/USDM_2021-06-15.parquet",
+    "size": 47166,
+    "mtime": "2025-09-22 16:25:57"
+  },
+  {
+    "path": "data/usdm/USDM_2021-06-22.parquet",
+    "size": 47992,
+    "mtime": "2025-09-22 16:26:04"
+  },
+  {
+    "path": "data/usdm/USDM_2021-06-29.parquet",
+    "size": 45037,
+    "mtime": "2025-09-22 16:26:10"
+  },
+  {
+    "path": "data/usdm/USDM_2021-07-06.parquet",
+    "size": 45257,
+    "mtime": "2025-09-22 16:26:15"
+  },
+  {
+    "path": "data/usdm/USDM_2021-07-13.parquet",
+    "size": 42057,
+    "mtime": "2025-09-22 16:26:21"
+  },
+  {
+    "path": "data/usdm/USDM_2021-07-20.parquet",
+    "size": 39937,
+    "mtime": "2025-09-22 16:26:26"
+  },
+  {
+    "path": "data/usdm/USDM_2021-07-27.parquet",
+    "size": 39408,
+    "mtime": "2025-09-22 16:26:31"
+  },
+  {
+    "path": "data/usdm/USDM_2021-08-03.parquet",
+    "size": 41570,
+    "mtime": "2025-09-22 16:26:36"
+  },
+  {
+    "path": "data/usdm/USDM_2021-08-10.parquet",
+    "size": 45216,
+    "mtime": "2025-09-22 16:26:41"
+  },
+  {
+    "path": "data/usdm/USDM_2021-08-17.parquet",
+    "size": 44612,
+    "mtime": "2025-09-22 16:26:46"
+  },
+  {
+    "path": "data/usdm/USDM_2021-08-24.parquet",
+    "size": 42696,
+    "mtime": "2025-09-22 16:26:51"
+  },
+  {
+    "path": "data/usdm/USDM_2021-08-31.parquet",
+    "size": 42892,
+    "mtime": "2025-09-22 16:26:56"
+  },
+  {
+    "path": "data/usdm/USDM_2021-09-07.parquet",
+    "size": 43314,
+    "mtime": "2025-09-22 16:27:03"
+  },
+  {
+    "path": "data/usdm/USDM_2021-09-14.parquet",
+    "size": 48091,
+    "mtime": "2025-09-22 16:27:08"
+  },
+  {
+    "path": "data/usdm/USDM_2021-09-21.parquet",
+    "size": 50203,
+    "mtime": "2025-09-22 16:27:13"
+  },
+  {
+    "path": "data/usdm/USDM_2021-09-28.parquet",
+    "size": 50776,
+    "mtime": "2025-09-22 16:27:18"
+  },
+  {
+    "path": "data/usdm/USDM_2021-10-05.parquet",
+    "size": 51679,
+    "mtime": "2025-09-22 16:27:23"
+  },
+  {
+    "path": "data/usdm/USDM_2021-10-12.parquet",
+    "size": 52042,
+    "mtime": "2025-09-22 16:27:28"
+  },
+  {
+    "path": "data/usdm/USDM_2021-10-19.parquet",
+    "size": 50051,
+    "mtime": "2025-09-22 16:27:33"
+  },
+  {
+    "path": "data/usdm/USDM_2021-10-26.parquet",
+    "size": 52390,
+    "mtime": "2025-09-22 16:27:40"
+  },
+  {
+    "path": "data/usdm/USDM_2021-11-02.parquet",
+    "size": 51355,
+    "mtime": "2025-09-22 16:27:46"
+  },
+  {
+    "path": "data/usdm/USDM_2021-11-09.parquet",
+    "size": 51373,
+    "mtime": "2025-09-22 16:27:51"
+  },
+  {
+    "path": "data/usdm/USDM_2021-11-16.parquet",
+    "size": 52800,
+    "mtime": "2025-09-22 16:27:57"
+  },
+  {
+    "path": "data/usdm/USDM_2021-11-23.parquet",
+    "size": 55604,
+    "mtime": "2025-09-22 16:28:04"
+  },
+  {
+    "path": "data/usdm/USDM_2021-11-30.parquet",
+    "size": 59650,
+    "mtime": "2025-09-22 16:28:11"
+  },
+  {
+    "path": "data/usdm/USDM_2021-12-07.parquet",
+    "size": 61646,
+    "mtime": "2025-09-22 16:28:20"
+  },
+  {
+    "path": "data/usdm/USDM_2021-12-14.parquet",
+    "size": 63394,
+    "mtime": "2025-09-22 16:28:29"
+  },
+  {
+    "path": "data/usdm/USDM_2021-12-21.parquet",
+    "size": 62592,
+    "mtime": "2025-09-22 16:28:38"
+  },
+  {
+    "path": "data/usdm/USDM_2021-12-28.parquet",
+    "size": 63837,
+    "mtime": "2025-09-22 16:28:47"
+  },
+  {
+    "path": "data/usdm/USDM_2022-01-04.parquet",
+    "size": 60031,
+    "mtime": "2025-09-22 16:28:55"
+  },
+  {
+    "path": "data/usdm/USDM_2022-01-11.parquet",
+    "size": 59863,
+    "mtime": "2025-09-22 16:29:05"
+  },
+  {
+    "path": "data/usdm/USDM_2022-01-18.parquet",
+    "size": 57983,
+    "mtime": "2025-09-22 16:29:11"
+  },
+  {
+    "path": "data/usdm/USDM_2022-01-25.parquet",
+    "size": 57961,
+    "mtime": "2025-09-22 16:29:22"
+  },
+  {
+    "path": "data/usdm/USDM_2022-02-01.parquet",
+    "size": 60042,
+    "mtime": "2025-09-22 16:29:30"
+  },
+  {
+    "path": "data/usdm/USDM_2022-02-08.parquet",
+    "size": 56316,
+    "mtime": "2025-09-22 16:29:39"
+  },
+  {
+    "path": "data/usdm/USDM_2022-02-15.parquet",
+    "size": 56042,
+    "mtime": "2025-09-22 16:29:48"
+  },
+  {
+    "path": "data/usdm/USDM_2022-02-22.parquet",
+    "size": 57685,
+    "mtime": "2025-09-22 16:29:58"
+  },
+  {
+    "path": "data/usdm/USDM_2022-03-01.parquet",
+    "size": 58058,
+    "mtime": "2025-09-22 16:30:09"
+  },
+  {
+    "path": "data/usdm/USDM_2022-03-08.parquet",
+    "size": 60805,
+    "mtime": "2025-09-22 16:30:22"
+  },
+  {
+    "path": "data/usdm/USDM_2022-03-15.parquet",
+    "size": 61238,
+    "mtime": "2025-09-22 16:30:34"
+  },
+  {
+    "path": "data/usdm/USDM_2022-03-22.parquet",
+    "size": 60541,
+    "mtime": "2025-09-22 16:30:44"
+  },
+  {
+    "path": "data/usdm/USDM_2022-03-29.parquet",
+    "size": 59627,
+    "mtime": "2025-09-22 16:30:55"
+  },
+  {
+    "path": "data/usdm/USDM_2022-04-05.parquet",
+    "size": 59770,
+    "mtime": "2025-09-22 16:31:05"
+  },
+  {
+    "path": "data/usdm/USDM_2022-04-12.parquet",
+    "size": 57878,
+    "mtime": "2025-09-22 16:31:13"
+  },
+  {
+    "path": "data/usdm/USDM_2022-04-19.parquet",
+    "size": 55426,
+    "mtime": "2025-09-22 16:31:21"
+  },
+  {
+    "path": "data/usdm/USDM_2022-04-26.parquet",
+    "size": 54686,
+    "mtime": "2025-09-22 16:31:28"
+  },
+  {
+    "path": "data/usdm/USDM_2022-05-03.parquet",
+    "size": 56008,
+    "mtime": "2025-09-22 16:31:34"
+  },
+  {
+    "path": "data/usdm/USDM_2022-05-10.parquet",
+    "size": 53587,
+    "mtime": "2025-09-22 16:31:41"
+  },
+  {
+    "path": "data/usdm/USDM_2022-05-17.parquet",
+    "size": 56744,
+    "mtime": "2025-09-22 16:31:49"
+  },
+  {
+    "path": "data/usdm/USDM_2022-05-24.parquet",
+    "size": 57736,
+    "mtime": "2025-09-22 16:31:58"
+  },
+  {
+    "path": "data/usdm/USDM_2022-05-31.parquet",
+    "size": 53641,
+    "mtime": "2025-09-22 16:32:06"
+  },
+  {
+    "path": "data/usdm/USDM_2022-06-07.parquet",
+    "size": 53579,
+    "mtime": "2025-09-22 16:32:13"
+  },
+  {
+    "path": "data/usdm/USDM_2022-06-14.parquet",
+    "size": 54366,
+    "mtime": "2025-09-22 16:32:21"
+  },
+  {
+    "path": "data/usdm/USDM_2022-06-21.parquet",
+    "size": 62058,
+    "mtime": "2025-09-22 16:32:34"
+  },
+  {
+    "path": "data/usdm/USDM_2022-06-28.parquet",
+    "size": 68886,
+    "mtime": "2025-09-22 16:32:49"
+  },
+  {
+    "path": "data/usdm/USDM_2022-07-05.parquet",
+    "size": 74278,
+    "mtime": "2025-09-22 16:33:02"
+  },
+  {
+    "path": "data/usdm/USDM_2022-07-12.parquet",
+    "size": 71504,
+    "mtime": "2025-09-22 16:33:14"
+  },
+  {
+    "path": "data/usdm/USDM_2022-07-19.parquet",
+    "size": 71395,
+    "mtime": "2025-09-22 16:33:23"
+  },
+  {
+    "path": "data/usdm/USDM_2022-07-26.parquet",
+    "size": 70922,
+    "mtime": "2025-09-22 16:33:32"
+  },
+  {
+    "path": "data/usdm/USDM_2022-08-02.parquet",
+    "size": 67986,
+    "mtime": "2025-09-22 16:33:40"
+  },
+  {
+    "path": "data/usdm/USDM_2022-08-09.parquet",
+    "size": 67039,
+    "mtime": "2025-09-22 16:33:47"
+  },
+  {
+    "path": "data/usdm/USDM_2022-08-16.parquet",
+    "size": 67907,
+    "mtime": "2025-09-22 16:33:54"
+  },
+  {
+    "path": "data/usdm/USDM_2022-08-23.parquet",
+    "size": 64020,
+    "mtime": "2025-09-22 16:34:01"
+  },
+  {
+    "path": "data/usdm/USDM_2022-08-30.parquet",
+    "size": 63951,
+    "mtime": "2025-09-22 16:34:08"
+  },
+  {
+    "path": "data/usdm/USDM_2022-09-06.parquet",
+    "size": 63406,
+    "mtime": "2025-09-22 16:34:16"
+  },
+  {
+    "path": "data/usdm/USDM_2022-09-13.parquet",
+    "size": 63682,
+    "mtime": "2025-09-22 16:34:23"
+  },
+  {
+    "path": "data/usdm/USDM_2022-09-20.parquet",
+    "size": 65786,
+    "mtime": "2025-09-22 16:34:30"
+  },
+  {
+    "path": "data/usdm/USDM_2022-09-27.parquet",
+    "size": 72131,
+    "mtime": "2025-09-22 16:34:38"
+  },
+  {
+    "path": "data/usdm/USDM_2022-10-04.parquet",
+    "size": 71927,
+    "mtime": "2025-09-22 16:34:48"
+  },
+  {
+    "path": "data/usdm/USDM_2022-10-11.parquet",
+    "size": 74729,
+    "mtime": "2025-09-22 16:34:57"
+  },
+  {
+    "path": "data/usdm/USDM_2022-10-18.parquet",
+    "size": 77034,
+    "mtime": "2025-09-22 16:35:07"
+  },
+  {
+    "path": "data/usdm/USDM_2022-10-25.parquet",
+    "size": 79657,
+    "mtime": "2025-09-22 16:35:17"
+  },
+  {
+    "path": "data/usdm/USDM_2022-11-01.parquet",
+    "size": 80654,
+    "mtime": "2025-09-22 16:35:27"
+  },
+  {
+    "path": "data/usdm/USDM_2022-11-08.parquet",
+    "size": 80537,
+    "mtime": "2025-09-22 16:35:37"
+  },
+  {
+    "path": "data/usdm/USDM_2022-11-15.parquet",
+    "size": 76011,
+    "mtime": "2025-09-22 16:35:45"
+  },
+  {
+    "path": "data/usdm/USDM_2022-11-22.parquet",
+    "size": 75398,
+    "mtime": "2025-09-22 16:35:53"
+  },
+  {
+    "path": "data/usdm/USDM_2022-11-29.parquet",
+    "size": 75077,
+    "mtime": "2025-09-22 16:36:02"
+  },
+  {
+    "path": "data/usdm/USDM_2022-12-06.parquet",
+    "size": 72694,
+    "mtime": "2025-09-22 16:36:11"
+  },
+  {
+    "path": "data/usdm/USDM_2022-12-13.parquet",
+    "size": 72536,
+    "mtime": "2025-09-22 16:36:20"
+  },
+  {
+    "path": "data/usdm/USDM_2022-12-20.parquet",
+    "size": 67258,
+    "mtime": "2025-09-22 16:36:28"
+  },
+  {
+    "path": "data/usdm/USDM_2022-12-27.parquet",
+    "size": 67378,
+    "mtime": "2025-09-22 16:36:38"
+  },
+  {
+    "path": "data/usdm/USDM_2023-01-03.parquet",
+    "size": 63979,
+    "mtime": "2025-09-22 16:36:46"
+  },
+  {
+    "path": "data/usdm/USDM_2023-01-10.parquet",
+    "size": 59580,
+    "mtime": "2025-09-22 16:36:53"
+  },
+  {
+    "path": "data/usdm/USDM_2023-01-17.parquet",
+    "size": 58820,
+    "mtime": "2025-09-22 16:37:01"
+  },
+  {
+    "path": "data/usdm/USDM_2023-01-24.parquet",
+    "size": 56410,
+    "mtime": "2025-09-22 16:37:08"
+  },
+  {
+    "path": "data/usdm/USDM_2023-01-31.parquet",
+    "size": 54112,
+    "mtime": "2025-09-22 16:37:14"
+  },
+  {
+    "path": "data/usdm/USDM_2023-02-07.parquet",
+    "size": 51853,
+    "mtime": "2025-09-22 16:37:19"
+  },
+  {
+    "path": "data/usdm/USDM_2023-02-14.parquet",
+    "size": 48865,
+    "mtime": "2025-09-22 16:37:24"
+  },
+  {
+    "path": "data/usdm/USDM_2023-02-21.parquet",
+    "size": 48005,
+    "mtime": "2025-09-22 16:37:29"
+  },
+  {
+    "path": "data/usdm/USDM_2023-02-28.parquet",
+    "size": 46536,
+    "mtime": "2025-09-22 16:20:09"
+  },
+  {
+    "path": "data/usdm/USDM_2023-03-07.parquet",
+    "size": 46513,
+    "mtime": "2025-09-22 16:20:15"
+  },
+  {
+    "path": "data/usdm/USDM_2023-03-14.parquet",
+    "size": 45707,
+    "mtime": "2025-09-22 16:20:21"
+  },
+  {
+    "path": "data/usdm/USDM_2023-03-21.parquet",
+    "size": 47367,
+    "mtime": "2025-09-22 16:20:28"
+  },
+  {
+    "path": "data/usdm/USDM_2023-03-28.parquet",
+    "size": 49226,
+    "mtime": "2025-09-22 16:20:35"
+  },
+  {
+    "path": "data/usdm/USDM_2023-04-04.parquet",
+    "size": 50530,
+    "mtime": "2025-09-22 16:20:43"
+  },
+  {
+    "path": "data/usdm/USDM_2023-04-11.parquet",
+    "size": 47598,
+    "mtime": "2025-09-22 16:20:50"
+  },
+  {
+    "path": "data/usdm/USDM_2023-04-18.parquet",
+    "size": 48088,
+    "mtime": "2025-09-22 16:20:56"
+  },
+  {
+    "path": "data/usdm/USDM_2023-04-25.parquet",
+    "size": 48165,
+    "mtime": "2025-09-22 16:21:03"
+  },
+  {
+    "path": "data/usdm/USDM_2023-05-02.parquet",
+    "size": 47124,
+    "mtime": "2025-09-22 16:21:09"
+  },
+  {
+    "path": "data/usdm/USDM_2023-05-09.parquet",
+    "size": 48351,
+    "mtime": "2025-09-22 16:21:16"
+  },
+  {
+    "path": "data/usdm/USDM_2023-05-16.parquet",
+    "size": 43334,
+    "mtime": "2025-09-22 16:21:22"
+  },
+  {
+    "path": "data/usdm/USDM_2023-05-23.parquet",
+    "size": 43092,
+    "mtime": "2025-09-22 16:21:28"
+  },
+  {
+    "path": "data/usdm/USDM_2023-05-30.parquet",
+    "size": 53234,
+    "mtime": "2025-09-22 16:21:37"
+  },
+  {
+    "path": "data/usdm/USDM_2023-06-06.parquet",
+    "size": 59540,
+    "mtime": "2025-09-22 16:21:48"
+  },
+  {
+    "path": "data/usdm/USDM_2023-06-13.parquet",
+    "size": 63349,
+    "mtime": "2025-09-22 16:22:00"
+  },
+  {
+    "path": "data/usdm/USDM_2023-06-20.parquet",
+    "size": 65789,
+    "mtime": "2025-09-22 16:22:12"
+  },
+  {
+    "path": "data/usdm/USDM_2023-06-27.parquet",
+    "size": 63557,
+    "mtime": "2025-09-22 16:22:24"
+  },
+  {
+    "path": "data/usdm/USDM_2023-07-04.parquet",
+    "size": 64206,
+    "mtime": "2025-09-22 16:22:35"
+  },
+  {
+    "path": "data/usdm/USDM_2023-07-11.parquet",
+    "size": 61809,
+    "mtime": "2025-09-22 16:22:45"
+  },
+  {
+    "path": "data/usdm/USDM_2023-07-18.parquet",
+    "size": 59992,
+    "mtime": "2025-09-22 16:22:54"
+  },
+  {
+    "path": "data/usdm/USDM_2023-07-25.parquet",
+    "size": 59375,
+    "mtime": "2025-09-22 16:23:01"
+  },
+  {
+    "path": "data/usdm/USDM_2023-08-01.parquet",
+    "size": 60866,
+    "mtime": "2025-09-22 16:23:11"
+  },
+  {
+    "path": "data/usdm/USDM_2023-08-08.parquet",
+    "size": 60231,
+    "mtime": "2025-09-22 16:23:21"
+  },
+  {
+    "path": "data/usdm/USDM_2023-08-15.parquet",
+    "size": 58036,
+    "mtime": "2025-09-22 16:23:29"
+  },
+  {
+    "path": "data/usdm/USDM_2023-08-22.parquet",
+    "size": 58999,
+    "mtime": "2025-09-22 16:23:36"
+  },
+  {
+    "path": "data/usdm/USDM_2023-08-29.parquet",
+    "size": 60628,
+    "mtime": "2025-09-22 16:23:43"
+  },
+  {
+    "path": "data/usdm/USDM_2023-09-05.parquet",
+    "size": 62804,
+    "mtime": "2025-09-22 16:23:51"
+  },
+  {
+    "path": "data/usdm/USDM_2023-09-12.parquet",
+    "size": 63262,
+    "mtime": "2025-09-22 16:24:03"
+  },
+  {
+    "path": "data/usdm/USDM_2023-09-19.parquet",
+    "size": 67871,
+    "mtime": "2025-09-22 16:24:12"
+  },
+  {
+    "path": "data/usdm/USDM_2023-09-26.parquet",
+    "size": 71190,
+    "mtime": "2025-09-22 16:24:21"
+  },
+  {
+    "path": "data/usdm/USDM_2023-10-03.parquet",
+    "size": 73310,
+    "mtime": "2025-09-22 16:24:31"
+  },
+  {
+    "path": "data/usdm/USDM_2023-10-10.parquet",
+    "size": 74959,
+    "mtime": "2025-09-22 16:24:40"
+  },
+  {
+    "path": "data/usdm/USDM_2023-10-17.parquet",
+    "size": 74451,
+    "mtime": "2025-09-22 16:24:50"
+  },
+  {
+    "path": "data/usdm/USDM_2023-10-24.parquet",
+    "size": 74273,
+    "mtime": "2025-09-22 16:25:00"
+  },
+  {
+    "path": "data/usdm/USDM_2023-10-31.parquet",
+    "size": 71794,
+    "mtime": "2025-09-22 16:25:10"
+  },
+  {
+    "path": "data/usdm/USDM_2023-11-07.parquet",
+    "size": 72455,
+    "mtime": "2025-09-22 16:25:19"
+  },
+  {
+    "path": "data/usdm/USDM_2023-11-14.parquet",
+    "size": 73622,
+    "mtime": "2025-09-22 16:25:29"
+  },
+  {
+    "path": "data/usdm/USDM_2023-11-21.parquet",
+    "size": 74026,
+    "mtime": "2025-09-22 16:25:38"
+  },
+  {
+    "path": "data/usdm/USDM_2023-11-28.parquet",
+    "size": 73214,
+    "mtime": "2025-09-22 16:25:48"
+  },
+  {
+    "path": "data/usdm/USDM_2023-12-05.parquet",
+    "size": 74063,
+    "mtime": "2025-09-22 16:25:58"
+  },
+  {
+    "path": "data/usdm/USDM_2023-12-12.parquet",
+    "size": 73575,
+    "mtime": "2025-09-22 16:26:08"
+  },
+  {
+    "path": "data/usdm/USDM_2023-12-19.parquet",
+    "size": 71535,
+    "mtime": "2025-09-22 16:26:17"
+  },
+  {
+    "path": "data/usdm/USDM_2023-12-26.parquet",
+    "size": 69113,
+    "mtime": "2025-09-22 16:26:25"
+  },
+  {
+    "path": "data/usdm/USDM_2024-01-02.parquet",
+    "size": 67941,
+    "mtime": "2025-09-22 16:26:32"
+  },
+  {
+    "path": "data/usdm/USDM_2024-01-09.parquet",
+    "size": 65653,
+    "mtime": "2025-09-22 16:26:40"
+  },
+  {
+    "path": "data/usdm/USDM_2024-01-16.parquet",
+    "size": 60142,
+    "mtime": "2025-09-22 16:26:47"
+  },
+  {
+    "path": "data/usdm/USDM_2024-01-23.parquet",
+    "size": 58680,
+    "mtime": "2025-09-22 16:26:56"
+  },
+  {
+    "path": "data/usdm/USDM_2024-01-30.parquet",
+    "size": 50084,
+    "mtime": "2025-09-22 16:27:03"
+  },
+  {
+    "path": "data/usdm/USDM_2024-02-06.parquet",
+    "size": 47816,
+    "mtime": "2025-09-22 16:27:10"
+  },
+  {
+    "path": "data/usdm/USDM_2024-02-13.parquet",
+    "size": 43051,
+    "mtime": "2025-09-22 16:27:17"
+  },
+  {
+    "path": "data/usdm/USDM_2024-02-20.parquet",
+    "size": 44456,
+    "mtime": "2025-09-22 16:27:23"
+  },
+  {
+    "path": "data/usdm/USDM_2024-02-27.parquet",
+    "size": 47899,
+    "mtime": "2025-09-22 16:27:29"
+  },
+  {
+    "path": "data/usdm/USDM_2024-03-05.parquet",
+    "size": 47499,
+    "mtime": "2025-09-22 16:27:36"
+  },
+  {
+    "path": "data/usdm/USDM_2024-03-12.parquet",
+    "size": 44852,
+    "mtime": "2025-09-22 16:27:42"
+  },
+  {
+    "path": "data/usdm/USDM_2024-03-19.parquet",
+    "size": 42747,
+    "mtime": "2025-09-22 16:27:46"
+  },
+  {
+    "path": "data/usdm/USDM_2024-03-26.parquet",
+    "size": 40365,
+    "mtime": "2025-09-22 16:27:52"
+  },
+  {
+    "path": "data/usdm/USDM_2024-04-02.parquet",
+    "size": 39265,
+    "mtime": "2025-09-22 16:27:56"
+  },
+  {
+    "path": "data/usdm/USDM_2024-04-09.parquet",
+    "size": 38392,
+    "mtime": "2025-09-22 16:28:03"
+  },
+  {
+    "path": "data/usdm/USDM_2024-04-16.parquet",
+    "size": 37648,
+    "mtime": "2025-09-22 16:28:08"
+  },
+  {
+    "path": "data/usdm/USDM_2024-04-23.parquet",
+    "size": 37664,
+    "mtime": "2025-09-22 16:28:13"
+  },
+  {
+    "path": "data/usdm/USDM_2024-04-30.parquet",
+    "size": 38082,
+    "mtime": "2025-09-22 16:28:19"
+  },
+  {
+    "path": "data/usdm/USDM_2024-05-07.parquet",
+    "size": 34606,
+    "mtime": "2025-09-22 16:28:26"
+  },
+  {
+    "path": "data/usdm/USDM_2024-05-14.parquet",
+    "size": 31754,
+    "mtime": "2025-09-22 16:28:32"
+  },
+  {
+    "path": "data/usdm/USDM_2024-05-21.parquet",
+    "size": 26631,
+    "mtime": "2025-09-22 16:28:37"
+  },
+  {
+    "path": "data/usdm/USDM_2024-05-28.parquet",
+    "size": 25034,
+    "mtime": "2025-09-22 16:28:41"
+  },
+  {
+    "path": "data/usdm/USDM_2024-06-04.parquet",
+    "size": 25599,
+    "mtime": "2025-09-22 16:28:46"
+  },
+  {
+    "path": "data/usdm/USDM_2024-06-11.parquet",
+    "size": 28943,
+    "mtime": "2025-09-22 16:28:51"
+  },
+  {
+    "path": "data/usdm/USDM_2024-06-18.parquet",
+    "size": 41885,
+    "mtime": "2025-09-22 16:28:59"
+  },
+  {
+    "path": "data/usdm/USDM_2024-06-25.parquet",
+    "size": 48560,
+    "mtime": "2025-09-22 16:29:08"
+  },
+  {
+    "path": "data/usdm/USDM_2024-07-02.parquet",
+    "size": 55508,
+    "mtime": "2025-09-22 16:29:19"
+  },
+  {
+    "path": "data/usdm/USDM_2024-07-09.parquet",
+    "size": 54928,
+    "mtime": "2025-09-22 16:29:30"
+  },
+  {
+    "path": "data/usdm/USDM_2024-07-16.parquet",
+    "size": 54725,
+    "mtime": "2025-09-22 16:29:39"
+  },
+  {
+    "path": "data/usdm/USDM_2024-07-23.parquet",
+    "size": 51399,
+    "mtime": "2025-09-22 16:29:47"
+  },
+  {
+    "path": "data/usdm/USDM_2024-07-30.parquet",
+    "size": 50670,
+    "mtime": "2025-09-22 16:29:54"
+  },
+  {
+    "path": "data/usdm/USDM_2024-08-06.parquet",
+    "size": 49596,
+    "mtime": "2025-09-22 16:30:02"
+  },
+  {
+    "path": "data/usdm/USDM_2024-08-13.parquet",
+    "size": 49265,
+    "mtime": "2025-09-22 16:30:10"
+  },
+  {
+    "path": "data/usdm/USDM_2024-08-20.parquet",
+    "size": 51211,
+    "mtime": "2025-09-22 16:30:18"
+  },
+  {
+    "path": "data/usdm/USDM_2024-08-27.parquet",
+    "size": 61931,
+    "mtime": "2025-09-22 16:30:30"
+  },
+  {
+    "path": "data/usdm/USDM_2024-09-03.parquet",
+    "size": 63080,
+    "mtime": "2025-09-22 16:30:40"
+  },
+  {
+    "path": "data/usdm/USDM_2024-09-10.parquet",
+    "size": 67457,
+    "mtime": "2025-09-22 16:30:50"
+  },
+  {
+    "path": "data/usdm/USDM_2024-09-17.parquet",
+    "size": 70456,
+    "mtime": "2025-09-22 16:31:04"
+  },
+  {
+    "path": "data/usdm/USDM_2024-09-24.parquet",
+    "size": 73947,
+    "mtime": "2025-09-22 16:31:18"
+  },
+  {
+    "path": "data/usdm/USDM_2024-10-01.parquet",
+    "size": 64746,
+    "mtime": "2025-09-22 16:31:29"
+  },
+  {
+    "path": "data/usdm/USDM_2024-10-08.parquet",
+    "size": 70057,
+    "mtime": "2025-09-22 16:31:42"
+  },
+  {
+    "path": "data/usdm/USDM_2024-10-15.parquet",
+    "size": 71422,
+    "mtime": "2025-09-22 16:31:53"
+  },
+  {
+    "path": "data/usdm/USDM_2024-10-22.parquet",
+    "size": 72631,
+    "mtime": "2025-09-22 16:32:05"
+  },
+  {
+    "path": "data/usdm/USDM_2024-10-29.parquet",
+    "size": 78492,
+    "mtime": "2025-09-22 16:32:18"
+  },
+  {
+    "path": "data/usdm/USDM_2024-11-05.parquet",
+    "size": 77651,
+    "mtime": "2025-09-22 16:32:35"
+  },
+  {
+    "path": "data/usdm/USDM_2024-11-12.parquet",
+    "size": 76289,
+    "mtime": "2025-09-22 16:32:50"
+  },
+  {
+    "path": "data/usdm/USDM_2024-11-19.parquet",
+    "size": 72566,
+    "mtime": "2025-09-22 16:33:04"
+  },
+  {
+    "path": "data/usdm/USDM_2024-11-26.parquet",
+    "size": 70168,
+    "mtime": "2025-09-22 16:33:15"
+  },
+  {
+    "path": "data/usdm/USDM_2024-12-03.parquet",
+    "size": 69312,
+    "mtime": "2025-09-22 16:33:27"
+  },
+  {
+    "path": "data/usdm/USDM_2024-12-10.parquet",
+    "size": 69764,
+    "mtime": "2025-09-22 16:33:41"
+  },
+  {
+    "path": "data/usdm/USDM_2024-12-17.parquet",
+    "size": 66598,
+    "mtime": "2025-09-22 16:33:55"
+  },
+  {
+    "path": "data/usdm/USDM_2024-12-24.parquet",
+    "size": 66659,
+    "mtime": "2025-09-22 16:34:11"
+  },
+  {
+    "path": "data/usdm/USDM_2024-12-31.parquet",
+    "size": 63669,
+    "mtime": "2025-09-22 16:34:22"
+  },
+  {
+    "path": "data/usdm/USDM_2025-01-07.parquet",
+    "size": 62344,
+    "mtime": "2025-09-22 16:34:33"
+  },
+  {
+    "path": "data/usdm/USDM_2025-01-14.parquet",
+    "size": 59823,
+    "mtime": "2025-09-22 16:34:43"
+  },
+  {
+    "path": "data/usdm/USDM_2025-01-21.parquet",
+    "size": 59550,
+    "mtime": "2025-09-22 16:34:52"
+  },
+  {
+    "path": "data/usdm/USDM_2025-01-28.parquet",
+    "size": 60335,
+    "mtime": "2025-09-22 16:35:00"
+  },
+  {
+    "path": "data/usdm/USDM_2025-02-04.parquet",
+    "size": 63163,
+    "mtime": "2025-09-22 16:35:10"
+  },
+  {
+    "path": "data/usdm/USDM_2025-02-11.parquet",
+    "size": 65222,
+    "mtime": "2025-09-22 16:35:20"
+  },
+  {
+    "path": "data/usdm/USDM_2025-02-18.parquet",
+    "size": 61234,
+    "mtime": "2025-09-22 16:35:32"
+  },
+  {
+    "path": "data/usdm/USDM_2025-02-25.parquet",
+    "size": 61620,
+    "mtime": "2025-09-22 16:35:46"
+  },
+  {
+    "path": "data/usdm/USDM_2025-03-04.parquet",
+    "size": 62487,
+    "mtime": "2025-09-22 16:36:01"
+  },
+  {
+    "path": "data/usdm/USDM_2025-03-11.parquet",
+    "size": 63537,
+    "mtime": "2025-09-22 16:36:15"
+  },
+  {
+    "path": "data/usdm/USDM_2025-03-18.parquet",
+    "size": 64612,
+    "mtime": "2025-09-22 16:36:30"
+  },
+  {
+    "path": "data/usdm/USDM_2025-03-25.parquet",
+    "size": 65662,
+    "mtime": "2025-09-22 16:36:44"
+  },
+  {
+    "path": "data/usdm/USDM_2025-04-01.parquet",
+    "size": 64347,
+    "mtime": "2025-09-22 16:36:58"
+  },
+  {
+    "path": "data/usdm/USDM_2025-04-08.parquet",
+    "size": 55115,
+    "mtime": "2025-09-22 16:37:11"
+  },
+  {
+    "path": "data/usdm/USDM_2025-04-15.parquet",
+    "size": 54877,
+    "mtime": "2025-09-22 16:37:24"
+  },
+  {
+    "path": "data/usdm/USDM_2025-04-22.parquet",
+    "size": 55545,
+    "mtime": "2025-09-22 16:37:35"
+  },
+  {
+    "path": "data/usdm/USDM_2025-04-29.parquet",
+    "size": 54449,
+    "mtime": "2025-09-22 16:37:45"
+  },
+  {
+    "path": "data/usdm/USDM_2025-05-06.parquet",
+    "size": 53221,
+    "mtime": "2025-09-22 16:37:57"
+  },
+  {
+    "path": "data/usdm/USDM_2025-05-13.parquet",
+    "size": 49919,
+    "mtime": "2025-09-22 16:38:05"
+  },
+  {
+    "path": "data/usdm/USDM_2025-05-20.parquet",
+    "size": 46745,
+    "mtime": "2025-09-22 16:38:12"
+  },
+  {
+    "path": "data/usdm/USDM_2025-05-27.parquet",
+    "size": 43887,
+    "mtime": "2025-09-22 16:38:18"
+  },
+  {
+    "path": "data/usdm/USDM_2025-06-03.parquet",
+    "size": 40507,
+    "mtime": "2025-09-22 16:38:23"
+  },
+  {
+    "path": "data/usdm/USDM_2025-06-10.parquet",
+    "size": 37379,
+    "mtime": "2025-09-22 16:38:27"
+  },
+  {
+    "path": "data/usdm/USDM_2025-06-17.parquet",
+    "size": 35239,
+    "mtime": "2025-09-22 16:38:32"
+  },
+  {
+    "path": "data/usdm/USDM_2025-06-24.parquet",
+    "size": 36497,
+    "mtime": "2025-09-22 16:38:37"
+  },
+  {
+    "path": "data/usdm/USDM_2025-07-01.parquet",
+    "size": 36179,
+    "mtime": "2025-09-22 16:38:42"
+  },
+  {
+    "path": "data/usdm/USDM_2025-07-08.parquet",
+    "size": 37837,
+    "mtime": "2025-09-22 16:38:48"
+  },
+  {
+    "path": "data/usdm/USDM_2025-07-15.parquet",
+    "size": 36257,
+    "mtime": "2025-09-22 16:38:53"
+  },
+  {
+    "path": "data/usdm/USDM_2025-07-22.parquet",
+    "size": 36115,
+    "mtime": "2025-09-22 16:38:58"
+  },
+  {
+    "path": "data/usdm/USDM_2025-07-29.parquet",
+    "size": 36952,
+    "mtime": "2025-09-22 16:39:03"
+  },
+  {
+    "path": "data/usdm/USDM_2025-08-05.parquet",
+    "size": 36878,
+    "mtime": "2025-09-22 16:39:09"
+  },
+  {
+    "path": "data/usdm/USDM_2025-08-12.parquet",
+    "size": 43877,
+    "mtime": "2025-09-22 16:39:15"
+  },
+  {
+    "path": "data/usdm/USDM_2025-08-19.parquet",
+    "size": 47971,
+    "mtime": "2025-09-22 16:39:22"
+  },
+  {
+    "path": "data/usdm/USDM_2025-08-26.parquet",
+    "size": 48789,
+    "mtime": "2025-09-22 16:39:29"
+  },
+  {
+    "path": "data/usdm/USDM_2025-09-02.parquet",
+    "size": 56952,
+    "mtime": "2025-09-22 16:39:43"
+  },
+  {
+    "path": "data/usdm/USDM_2025-09-09.parquet",
+    "size": 61265,
+    "mtime": "2025-09-22 16:39:57"
+  },
+  {
+    "path": "data/usdm/USDM_2025-09-16.parquet",
+    "size": 69045,
+    "mtime": "2025-09-22 16:40:15"
+  }
+]
