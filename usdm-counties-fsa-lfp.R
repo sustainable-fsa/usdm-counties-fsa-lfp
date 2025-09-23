@@ -29,6 +29,8 @@ library(arrow)
 library(furrr)
 library(future.mirai)
 
+sf::sf_use_s2(TRUE)
+
 dir.create(
   file.path("data", "usdm"),
   recursive = TRUE,
@@ -82,8 +84,7 @@ usdm_get_dates <-
 
 plan(mirai_multisession)
 
-out <-
-  usdm_get_dates() %>%
+usdm_get_dates() %>%
   tibble::tibble(Date = .) %>%
   dplyr::mutate(
     USDM = 
@@ -93,24 +94,31 @@ out <-
     outfile = file.path("data", "usdm", 
                         paste0("USDM_",Date,".parquet"))
   ) %>%
-  dplyr::mutate(
-    # out = furrr::future_pmap_chr(.,
-    `USDM Counties` = furrr::future_pmap_chr(
-      .l = .,
-      .f = function(USDM,
-                    outfile, 
-                    ...){
+  dplyr::filter(!file.exists(outfile)) %>%
+  furrr::future_pwalk(
+    .f = function(USDM,
+                  outfile, 
+                  ...){
+      
+      if(!file.exists(outfile)){
         
-        if(!file.exists(outfile))
-          
-          sf::st_join(
+        usdm <-
+          USDM %>%
+          sf::read_sf() %>%
+          sf::st_transform(sf::st_crs(counties)) %>%
+          sf::`st_agr<-`("constant")
+        
+        dplyr::bind_rows(
+          sf::st_intersection(
             counties,
-            USDM %>%
-              sf::read_sf() %>%
-              sf::st_transform(sf::st_crs(counties)) %>%
-              sf::`st_agr<-`("constant"),
-            left = TRUE
-          ) %>%
+            usdm
+          ),
+          sf::st_difference(
+            counties,
+            usdm %>%
+              sf::st_union()
+          )
+        ) %>%
           tidyr::fill(date) %>%
           sf::st_cast("MULTIPOLYGON") %>%
           sf::st_make_valid() %>%
@@ -123,21 +131,32 @@ out <-
                      ordered = TRUE),
             usdm_percent = units::drop_units(sf::st_area(geometry) / Area)
           ) %>%
-          sf::st_drop_geometry() %>%
           dplyr::select(STATEFP, State, COUNTYFP, County, CountyLSAD, 
                         usdm_date, usdm_class, usdm_percent) %>%
           dplyr::arrange(STATEFP, COUNTYFP, usdm_class) %>%
+          sf::st_drop_geometry() %>%
           arrow::write_parquet(sink = outfile,
                                version = "latest",
                                compression = "zstd",
                                use_dictionary = TRUE)
         
-        return(outfile)
       }
-    )
+    }
+    
   )
 
 plan(sequential)
+
+## Create a single parquet output, for simplicity
+list.files("data/usdm",
+           recursive = TRUE,
+           full.names = TRUE) %>%
+  purrr::map_dfr(arrow::read_parquet) %>%
+  dplyr::arrange(STATEFP, COUNTYFP, usdm_date, usdm_class) %>%
+  arrow::write_parquet(sink = "usdm-counties-fsa-lfp.parquet",
+                       version = "latest",
+                       compression = "zstd",
+                       use_dictionary = TRUE)
 
 ## Create directory listing infrastructure
 generate_tree_flat <- function(
