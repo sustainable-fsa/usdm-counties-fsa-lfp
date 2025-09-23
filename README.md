@@ -73,6 +73,8 @@ localized analysis and decision-making.**
 
 - `usdm-counties-fsa-lfp.R`: R script that processes and aggregates
   weekly USDM shapefiles to county boundaries.
+- `usdm-counties-fsa-lfp.parquet`: Processed county-level USDM data in a
+  single parquet file.
 - `data/`: Directory containing processed county-level USDM data.
 - `README.Rmd`: This README file, providing an overview and usage
   instructions.
@@ -159,6 +161,7 @@ latest <-
     "manifest.json"
   )$path |>
   stringr::str_subset("parquet") |>
+  stringr::str_subset("data/usdm") |>
   max()
 # e.g., [1] "data/usdm/USDM_2025-05-27.parquet"
 
@@ -195,9 +198,9 @@ usdm_counties <-
 # Census counties for bounding box
 census_counties <-
   tigris::counties(cb = TRUE,
-                 resolution = "5m", 
-                 year = 2020) |>
-      dplyr::filter(!(STATEFP %in% c("60", "66", "69", "78"))) %>%
+                   resolution = "5m", 
+                   year = 2020) |>
+  dplyr::filter(!(STATEFP %in% c("60", "66", "69", "78"))) %>%
   # transform to WGS 84
   sf::st_transform("EPSG:4326") |>
   sf::st_cast("POLYGON", warn = FALSE, do_split = TRUE) |>
@@ -236,11 +239,11 @@ ggplot(counties) +
     name = "Drought\nClass") +
   labs(title = "US Drought Monitor",
        subtitle = format(date, " %B %d, %Y")) +
-          coord_sf(
-          xlim = sf::st_bbox(census_counties)[c("xmin", "xmax")],
-          ylim = sf::st_bbox(census_counties)[c("ymin", "ymax")],
-          clip = "off"
-        ) +
+  coord_sf(
+    xlim = sf::st_bbox(census_counties)[c("xmin", "xmax")],
+    ylim = sf::st_bbox(census_counties)[c("ymin", "ymax")],
+    clip = "off"
+  ) +
   theme_void()
 ```
 
