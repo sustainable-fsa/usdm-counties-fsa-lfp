@@ -172,7 +172,8 @@ ggplot(counties) +
           color = "white",
           linewidth = 0.2) +
   scale_fill_manual(
-    values = c("#ffff00",
+    values = c("grey80",
+               "#ffff00",
                "#fcd37f",
                "#ffaa00",
                "#e60000",
