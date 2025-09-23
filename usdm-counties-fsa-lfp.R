@@ -65,7 +65,7 @@ if(!file.exists("data/fsa-lfp-counties.parquet")){
 counties <-
   sf::read_sf("data/fsa-lfp-counties.parquet") %>%
   sf::`st_agr<-`("constant")
-  
+
 ## Get the current list of USDM dates
 usdm_get_dates <-
   function(as_of = lubridate::today()){
@@ -103,22 +103,29 @@ out <-
         
         if(!file.exists(outfile))
           
-          sf::st_intersection(
+          sf::st_join(
             counties,
             USDM %>%
               sf::read_sf() %>%
               sf::st_transform(sf::st_crs(counties)) %>%
-              sf::`st_agr<-`("constant")
+              sf::`st_agr<-`("constant"),
+            left = TRUE
           ) %>%
+          tidyr::fill(date) %>%
           sf::st_cast("MULTIPOLYGON") %>%
           sf::st_make_valid() %>%
           dplyr::arrange(STATEFP, COUNTYFP, date, usdm_class) %>%
           dplyr::mutate(
-            percent = units::drop_units(sf::st_area(geometry) / Area)
+            usdm_date = date,
+            usdm_class = 
+              tidyr::replace_na(usdm_class, "None") %>%
+              factor(levels = c("None", paste0("D", 0:4)),
+                     ordered = TRUE),
+            usdm_percent = units::drop_units(sf::st_area(geometry) / Area)
           ) %>%
           sf::st_drop_geometry() %>%
-          dplyr::select(STATEFP, State, COUNTYFP, County, CountyLSAD, usdm_date = date, usdm_class, 
-                        usdm_percent = percent) %>%
+          dplyr::select(STATEFP, State, COUNTYFP, County, CountyLSAD, 
+                        usdm_date, usdm_class, usdm_percent) %>%
           dplyr::arrange(STATEFP, COUNTYFP, usdm_class) %>%
           arrow::write_parquet(sink = outfile,
                                version = "latest",
