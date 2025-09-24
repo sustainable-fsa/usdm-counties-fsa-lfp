@@ -60,7 +60,7 @@ if(!file.exists("data/fsa-lfp-counties.parquet")){
       driver = "Parquet",
       layer_options = c("COMPRESSION=BROTLI",
                         "GEOMETRY_ENCODING=GEOARROW",
-                        "WRITE_COVERING_BBOX=NO"),
+                        "WRITE_COVERING_BBOX=NO")
     )
 }
 
@@ -88,9 +88,10 @@ usdm_get_dates() %>%
   tibble::tibble(Date = .) %>%
   dplyr::mutate(
     USDM = 
-      file.path("https://sustainable-fsa.github.io/usdm", 
-                "usdm", "data", "parquet", 
-                paste0("USDM_",Date,".parquet")),
+      file.path(
+        "https://sustainable-fsa.github.io/usdm",
+        "usdm", "data", "parquet", 
+        paste0("USDM_",Date,".parquet")),
     outfile = file.path("data", "usdm", 
                         paste0("USDM_",Date,".parquet"))
   ) %>%
