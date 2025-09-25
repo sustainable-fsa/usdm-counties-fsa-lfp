@@ -89,8 +89,8 @@ usdm_get_dates() %>%
   dplyr::mutate(
     USDM = 
       file.path(
-        # "https://sustainable-fsa.github.io/usdm",
-        "../usdm",
+        "https://sustainable-fsa.github.io/usdm",
+        # "../usdm",
         "usdm", "data", "parquet", 
         paste0("USDM_",Date,".parquet")),
     outfile = file.path("data", "usdm", 
