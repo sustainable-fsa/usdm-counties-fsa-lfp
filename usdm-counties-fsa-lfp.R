@@ -2,7 +2,9 @@
 #                 ask = FALSE)
 
 install.packages("pak",
-                 repos = "https://cran.rstudio.com/")
+                 repos = "https://mac.r-project.org")
+
+options("pkg.cran_mirror" = "https://mac.r-project.org")
 
 # installed.packages() |>
 #   rownames() |>
@@ -40,7 +42,7 @@ dir.create(
 ## Load the FSA LFP county boundary data
 if(!file.exists("data/fsa-lfp-counties.parquet")){
   sf::read_sf(
-    "https://sustainable-fsa.github.io/fsa-lfp-counties/fsa-lfp-counties.parquet"
+    "https://sustainable-fsa.com/fsa-lfp-counties/fsa-lfp-counties.parquet"
   ) %>%
     dplyr::transmute(STATEFP = StateFIPS,
                      COUNTYFP = stringr::str_sub(CountyFIPS, start = 3L)) %>%
@@ -89,7 +91,7 @@ usdm_get_dates() %>%
   dplyr::mutate(
     USDM = 
       file.path(
-        "https://sustainable-fsa.github.io/usdm",
+        "https://sustainable-fsa.com/usdm",
         # "../usdm",
         "usdm", "data", "parquet", 
         paste0("USDM_",Date,".parquet")),
