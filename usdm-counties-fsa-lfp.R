@@ -1,28 +1,28 @@
 # update.packages(repos = "https://cran.rstudio.com/",
 #                 ask = FALSE)
-
-install.packages("pak",
-                 repos = "https://mac.r-project.org")
-
-options("pkg.cran_mirror" = "https://mac.r-project.org")
-
-# installed.packages() |>
-#   rownames() |>
-#   pak::pkg_install(upgrade = TRUE,
-#                  ask = FALSE)
-
-pak::pak(
-  c(
-    "arrow?source",
-    "sf?source",
-    "curl",
-    "tidyverse",
-    "tigris",
-    "rmapshaper",
-    "furrr",
-    "future.mirai"
-  )
-)
+# 
+# install.packages("pak",
+#                  repos = "https://mac.r-project.org")
+# 
+# options("pkg.cran_mirror" = "https://mac.r-project.org")
+# 
+# # installed.packages() |>
+# #   rownames() |>
+# #   pak::pkg_install(upgrade = TRUE,
+# #                  ask = FALSE)
+# 
+# pak::pak(
+#   c(
+#     "arrow?source",
+#     "sf?source",
+#     "curl",
+#     "tidyverse",
+#     "tigris",
+#     "rmapshaper",
+#     "furrr",
+#     "future.mirai"
+#   )
+# )
 
 library(magrittr)
 library(tidyverse)
@@ -60,7 +60,7 @@ if(!file.exists("data/fsa-lfp-counties.parquet")){
     sf::write_sf(
       "data/fsa-lfp-counties.parquet",
       driver = "Parquet",
-      layer_options = c("COMPRESSION=BROTLI",
+      layer_options = c("COMPRESSION=ZSTD",
                         "GEOMETRY_ENCODING=GEOARROW",
                         "WRITE_COVERING_BBOX=NO")
     )
