@@ -61,8 +61,8 @@ if(!file.exists("data/fsa-lfp-counties.parquet")){
       "data/fsa-lfp-counties.parquet",
       driver = "Parquet",
       layer_options = c("COMPRESSION=ZSTD",
-                        "GEOMETRY_ENCODING=GEOARROW",
-                        "WRITE_COVERING_BBOX=NO")
+                        "COMPRESSION_LEVEL=13"),
+      delete_dsn = TRUE
     )
 }
 
@@ -160,6 +160,7 @@ list.files("data/usdm",
   arrow::write_parquet(sink = "usdm-counties-fsa-lfp.parquet",
                        version = "latest",
                        compression = "zstd",
+                       compression_level = 13,
                        use_dictionary = TRUE)
 
 ## Create directory listing infrastructure
