@@ -13,7 +13,7 @@ editor_options:
 
 This repository provides weekly US Drought Monitor (USDM) data aggregated to [USDA Farm Service Agency Livestock Forage Program county boundaries](https://sustainable-fsa.com/fsa-lfp-counties). This dataset facilitates county-level analysis of drought conditions, supporting research, policy-making, and climate resilience planning.
 
-<a href="https://sustainable-fsa.com/usdm-counties-fsa-lfp/manifest.html" target="_blank">📂 View the US Drought Monitor FSA LFP county archive listing here.</a>
+<a href="https://data.sustainable-fsa.com/#/usdm-counties-fsa-lfp/" target="_blank">📂 View the US Drought Monitor FSA LFP county archive listing here.</a>
 
 Federal law and FSA guidance describes a process by which [county-level eligibility](https://sustainable-fsa.com/fsa-lfp-eligibility/) is determined by the intersection of county boundaries, the [United States Drought Monitor weekly drought assessment](https://sustainable-fsa.com/usdm/), and the [normal grazing period](https://sustainable-fsa.com/fsa-normal-grazing-period/) for each type of grazing land in each county.
 
@@ -58,7 +58,7 @@ While USDM drought class boundaries are developed without regard to political bo
 ## Data Sources
 
 - **USDM Polygons**: Weekly `.parquet` files from [sustainable-fsa/usdm](https://github.com/sustainable-fsa/usdm)
-- **FSA LFP County Boundaries**: Acquired via FOIA request [**2025-FSA-08431-F**](ttps://sustainable-fsa.com/fsa-lfp-counties).
+- **FSA LFP County Boundaries**: Acquired via FOIA request [**2025-FSA-08431-F**](https://sustainable-fsa.com/fsa-lfp-counties).
 
 **USDM Polygons** are reprojected to the same coordinate reference system as the **FSA LFP County Boundaries**, geometrically validated, and saved in `.parquet` format.
 
@@ -139,7 +139,7 @@ usdm <-
 ## Load the fsa-lfp-counties parquet file
 counties <- 
   # You can read straight from online
-  # sf::read_sf("https://sustainable-fsa.com/usdm-counties-fsa-lfp/data/fsa-lfp-counties.parquet") |>
+  # sf::read_sf("https://data.sustainable-fsa.com/usdm-counties-fsa-lfp/data/fsa-lfp-counties.parquet") |>
   sf::read_sf("data/fsa-lfp-counties.parquet") |>
   # transform to WGS 84
   sf::st_transform("EPSG:4326") |>
