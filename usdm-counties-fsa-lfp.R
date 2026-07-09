@@ -105,6 +105,15 @@ usdm_get_dates() %>%
                         paste0("USDM_",Date,".parquet"))
   ) %>%
   dplyr::filter(!file.exists(outfile)) %>%
+  ## Freshness gate: drop weeks whose upstream usdm parquet isn't published
+  ## yet (fallback/premature runs no-op instead of failing in read_sf).
+  (function(df){
+    posted <- purrr::map_lgl(df$USDM, url_exists)
+    purrr::walk(df$Date[!posted],
+                function(d) gate_skip(paste0("Upstream usdm parquet for ", d,
+                                             " not yet published; skipping.")))
+    df[posted, ]
+  }) %>%
   furrr::future_pwalk(
     .f = function(USDM,
                   outfile, 
