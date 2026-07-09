@@ -4,7 +4,8 @@ run-name: Update the usdm-counties-fsa-lfp archive → S3
 
 on:
   schedule:
-    - cron: '0 16 * * 4'
+    # fallback only; normally dispatched from sustainable-fsa/usdm
+    - cron: '20 20 * * 4'
   workflow_dispatch:
   push:
     branches: [main]
