@@ -13,7 +13,7 @@ editor_options:
 
 This repository provides weekly US Drought Monitor (USDM) data aggregated to [USDA Farm Service Agency Livestock Forage Program county boundaries](https://sustainable-fsa.com/fsa-lfp-counties). This dataset facilitates county-level analysis of drought conditions, supporting research, policy-making, and climate resilience planning.
 
-<a href="https://data.sustainable-fsa.com/#/usdm-counties-fsa-lfp/" target="_blank">📂 View the US Drought Monitor FSA LFP county archive listing here.</a>
+<a href="https://data.sustainable-fsa.com/usdm-counties-fsa-lfp/" target="_blank">📂 View the US Drought Monitor FSA LFP county archive listing here.</a>
 
 Federal law and FSA guidance describes a process by which [county-level eligibility](https://sustainable-fsa.com/fsa-lfp-eligibility/) is determined by the intersection of county boundaries, the [United States Drought Monitor weekly drought assessment](https://sustainable-fsa.com/usdm/), and the [normal grazing period](https://sustainable-fsa.com/fsa-normal-grazing-period/) for each type of grazing land in each county.
 

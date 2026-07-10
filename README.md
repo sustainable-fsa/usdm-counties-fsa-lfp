@@ -14,7 +14,7 @@ boundaries](https://sustainable-fsa.com/fsa-lfp-counties). This dataset
 facilitates county-level analysis of drought conditions, supporting
 research, policy-making, and climate resilience planning.
 
-<a href="https://data.sustainable-fsa.com/#/usdm-counties-fsa-lfp/" target="_blank">📂
+<a href="https://data.sustainable-fsa.com/usdm-counties-fsa-lfp/" target="_blank">📂
 View the US Drought Monitor FSA LFP county archive listing here.</a>
 
 Federal law and FSA guidance describes a process by which [county-level
