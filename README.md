@@ -74,9 +74,20 @@ localized analysis and decision-making.**
   weekly USDM shapefiles to county boundaries.
 - `usdm-counties-fsa-lfp.parquet`: Processed county-level USDM data in a
   single parquet file.
+- [`usdm-counties-fsa-lfp.json`](https://data.sustainable-fsa.com/usdm-counties-fsa-lfp/usdm-counties-fsa-lfp.json):
+  The worst drought class in each county each week, restructured for
+  browsers (see *Output Data* below).
 - `data/`: Directory containing processed county-level USDM data.
 - `README.Rmd`: This README file, providing an overview and usage
   instructions.
+
+The `data/` directory and the consolidated Parquet are mirrored to S3
+and served via CloudFront at
+<https://data.sustainable-fsa.com/usdm-counties-fsa-lfp/> — that mirror
+is the archive of record, and the data are not kept in git.
+`usdm-counties-fsa-lfp.json` is a deliberate exception to that policy:
+it is mirrored to S3 *and* committed to git, so the web maps that read
+it have a small, versioned copy that moves with the repository.
 
 ------------------------------------------------------------------------
 
@@ -123,6 +134,50 @@ follows:
 - `usdm_class`: One of `None`, `D0`, `D1`, `D2`, `D3`, `D4`
 - `usdm_percent`: Proportion of the county in this drought class (as a
   decimal between 0 and 1)
+
+5.  **Consolidate and publish**:
+
+- Every weekly table is concatenated into
+  `usdm-counties-fsa-lfp.parquet`, the archive of record.
+- The same records, reduced to the worst drought class per county and
+  week, are written to
+  [`usdm-counties-fsa-lfp.json`](https://data.sustainable-fsa.com/usdm-counties-fsa-lfp/usdm-counties-fsa-lfp.json)
+  for web maps (see *Output Data* below).
+
+## 📤 Output Data
+
+### `usdm-counties-fsa-lfp.json`
+
+The same weekly records as the Parquet — reduced from the identical
+table in the same run — restructured for direct use in a browser. It
+carries the worst drought class in each county each week and nothing
+else; the per-class area percents stay in the Parquet. It is what the
+web maps load, not an archive-of-record format: for analysis, use the
+Parquet.
+
+- **One string per county**: a county’s entire history is a single
+  fixed-width string of class codes (`0` = `None` through `5` = `D4`),
+  one character per weekly USDM Tuesday on an implicit axis beginning
+  2000-01-04. No dates are stored, and a `.` marks a week in which the
+  county is absent from the archive. The file is roughly 4.6 MB raw and
+  about 400 KB gzipped over the wire.
+- **Worst class, no threshold**: the class for a county-week is the
+  maximum over every record present, with no area-percent cutoff — any
+  nonzero-area sliver of a class counts. This matches how
+  [`fsa-lfp-eligibility-derived`](https://sustainable-fsa.com/fsa-lfp-eligibility-derived/)
+  reads the archive.
+- **Dictionary-coded names**: county FIPS codes and county and state
+  names each appear once, in arrays running parallel to the per-county
+  strings.
+
+The payload is self-describing via its `schema` field
+(`usdm-max-class/1`), a frozen contract with the web map: fields may be
+added, but existing ones are never renamed or reordered without bumping
+the schema. The same schema serves the
+[`usdm-counties`](https://sustainable-fsa.com/usdm-counties/) and
+[`usdm-counties-reported`](https://sustainable-fsa.com/usdm-counties-reported/)
+archives; the `dataset` field says which of the three a given payload
+is.
 
 ------------------------------------------------------------------------
 
